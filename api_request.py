@@ -32,7 +32,7 @@ def make_list(end: int = 10000):
     last = 0
 
     with open(
-            os.path.join(os.getcwd(), 'game_titles.csv'),
+            os.path.join(os.getcwd(), 'games.csv'),
             'w',
             newline='',
             encoding='utf-8') as myfile:
@@ -49,15 +49,3 @@ if __name__ == "__main__":
         make_list(int(sys.argv[1]))
     else:
         make_list()
-
-# while file < 2:
-#     url = f'https://api.igdb.com/v4/games?Client-ID={igdb_id}&Authorization=Bearer%20{igdb_token}%20fields%20*;'
-#     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-#     webpage = urllib.request.urlopen(req, timeout=10).read()
-#     file_name = '.games' + str(file) + '.json'
-#
-#     with urllib.request.urlopen(req) as f:
-#         data = json.load(f)
-#
-#         with open(file_name, 'w') as fo:
-#             json.dump(data, fo)
