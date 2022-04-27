@@ -14,7 +14,7 @@ LIMIT = 4
 
 
 def get_games3(last, wrap):
-    options = 'fields *; sort id asc; where id != null; where genres != null; where multiplayer_modes != null; ' \
+    options = 'fields *; sort id asc; where id != null; where genres != null; where != null; ' \
               ' limit {0}; offset {1};'.format(LIMIT, last)
 
     print('returning {0}'.format(last))
@@ -29,7 +29,7 @@ def make_list3(end: int = 100):
         wr = csv.writer(myfile)
         for last in range(0, end, LIMIT):
             wr.writerows(
-                [game['id'], game['genres'], game['multiplayer_modes']]
+                [game['id'], game['genres']]
                 for game in json.loads(
                     get_games3(last, wrapper).decode('utf-8').replace("'", '"')))
 
