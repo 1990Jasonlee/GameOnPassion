@@ -14,13 +14,14 @@ LIMIT = 4
 
 
 def get_games(last, wrap):
-    options = 'fields *; sort id asc; limit {0}; offset {1};'.format(LIMIT, last)
+    options = 'fields *; sort id asc; where id != null; where name != null; where rating != null;  ' \
+              'limit {0}; offset {1};'.format(LIMIT, last)
     print('returning {0}'.format(last))
     time.sleep(1)
     return wrap.api_request('games', options)
 
 
-def make_list(end: int = 10):
+def make_list(end: int = 100):
     last = 0
 
     with open(os.path.join(os.getcwd(), 'games.csv'), 'w', newline='', encoding='utf-8') as myfile:
