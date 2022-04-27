@@ -13,8 +13,8 @@ wrapper = IGDBWrapper(igdb_id, igdb_token)
 LIMIT = 4
 
 
-def get_games3(last, wrap):
-    options = 'fields *; sort id asc; where id != null; where genres != null; where multiplayer_modes != null; ' \
+def get_games4(last, wrap):
+    options = 'fields *; sort id asc; where id != null; where platforms != null; where rating_count != null; ' \
               ' limit {0}; offset {1};'.format(LIMIT, last)
 
     print('returning {0}'.format(last))
@@ -22,20 +22,20 @@ def get_games3(last, wrap):
     return wrap.api_request('games', options)
 
 
-def make_list3(end: int = 100):
+def make_list4(end: int = 100):
     last = 0
 
-    with open(os.path.join(os.getcwd(), 'games3.csv'), 'w', newline='', encoding='utf-8') as myfile:
+    with open(os.path.join(os.getcwd(), 'games4.csv'), 'w', newline='', encoding='utf-8') as myfile:
         wr = csv.writer(myfile)
         for last in range(0, end, LIMIT):
             wr.writerows(
-                [game['id'], game['genres'], game['multiplayer_modes']]
+                [game['id'], game['platforms'], game['rating_count']]
                 for game in json.loads(
-                    get_games3(last, wrapper).decode('utf-8').replace("'", '"')))
+                    get_games4(last, wrapper).decode('utf-8').replace("'", '"')))
 
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
-        make_list3(int(sys.argv[1]))
+        make_list4(int(sys.argv[1]))
     else:
-        make_list3()
+        make_list4()

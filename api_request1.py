@@ -12,6 +12,7 @@ igdb_id = os.environ.get('IGDB_ID')
 wrapper = IGDBWrapper(igdb_id, igdb_token)
 LIMIT = 4
 
+
 def get_games1(last, wrap):
     options = 'fields *; sort id asc; where id != null; where cover != null; where category != null; ' \
               ' limit {0}; offset {1};'.format(LIMIT, last)
