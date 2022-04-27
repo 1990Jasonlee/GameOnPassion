@@ -11,6 +11,7 @@ igdb_id = os.environ.get('IGDB_ID')
 
 wrapper = IGDBWrapper(igdb_id, igdb_token)
 LIMIT = 4
+last = 0
 
 
 def get_games(last, wrap):
@@ -21,9 +22,7 @@ def get_games(last, wrap):
     return wrap.api_request('games', options)
 
 
-def make_list(end: int = 100):
-    last = 0
-
+def make_list(end: int = 1000):
     with open(os.path.join(os.getcwd(), 'games.csv'), 'w', newline='', encoding='utf-8') as myfile:
         wr = csv.writer(myfile)
         for last in range(0, end, LIMIT):

@@ -1,46 +1,1000 @@
-1,Thief II: The Metal Age,88.2916834941367,90967
-2,Thief: The Dark Project,86.3009707964983,96746
-3,Thief: Deadly Shadows,82.52934990641761,129190
-4,Thief,69.7833557505456,96744
-5,Baldur's Gate,86.8138958421835,93899
-6,Baldur's Gate II: Shadows of Amn,89.13133870091711,90896
-7,Jagged Alliance,79.0700111952475,8
-8,Jagged Alliance: Deadly Games,82.95492050895909,105564
-9,Jagged Alliance 2,86.11377700808349,104633
-10,Jade Empire: Special Edition,80.6976341541922,95796
-11,Vampire: The Masquerade - Bloodlines,86.5643248463006,123160
-12,Vampire: The Masquerade - Redemption,77.23325209202281,79871
-13,Fallout,86.4511572453226,91139
-14,Fallout 2,90.5539881135099,202749
-15,Fallout 3,83.60429723212431,91184
-16,Fallout: New Vegas,87.021851753396,85752
-17,Fallout Tactics: Brotherhood of Steel,69.6740069102885,91143
-18,Max Payne,86.56794086025388,181838
-19,Max Payne 2: The Fall of Max Payne,86.93858067222169,120981
-20,BioShock,87.2920351905691,122598
-21,BioShock 2,80.83490868581761,122599
-22,System Shock 2,89.91828227355211,201260
-23,System Shock,91.1343901369483,204916
-24,X-COM: UFO Defense,88.50473116840989,114679
-25,X-COM: Terror From The Deep,80.2130849904147,106682
-26,X-COM: Apocalypse,71.6273064029591,114318
-27,X-COM: Interceptor,50.0,109784
-28,Space Quest: The Sarien Encounter,75.5315623185135,142620
-29,Space Quest II: Vohaul's Revenge,72.9190619224525,30
-30,Space Quest III: The Pirates Of Pestulon,79.5876067148762,31
-31,Space Quest IV: Roger Wilco And The Time Rippers,74.9683143219265,32
-32,Space Quest V: The Next Mutation,82.56731212312211,33
-33,Space Quest 6: The Spinal Frontier,80.0,34
-34,Giants: Citizen Kabuto,82.83546447047699,90278
-35,Dungeon Keeper,87.0416233422989,182022
-36,Dungeon Keeper 2,87.82296318030029,96742
-37,Dead Space,85.39974728984029,114332
-38,Dead Space 2,86.7000016492041,94526
-39,Mafia,87.52931205298052,81353
-40,Mafia II,81.35269804942921,123159
-41,Deus Ex,87.797878203116,81923
-42,Deus Ex: Invisible War,63.0276384812428,86954
-43,Deus Ex: Human Revolution,84.43423946241839,82118
-44,Overlord,77.5279654521187,98776
-45,Overlord: Raising Hell,72.1739237287466,98775
-46,Overlord II,77.7041873134026,98774
+1,Thief II: The Metal Age,88.2916834941367
+2,Thief: The Dark Project,86.3009707964983
+3,Thief: Deadly Shadows,82.52934990641761
+4,Thief,69.7833557505456
+5,Baldur's Gate,86.8138958421835
+6,Baldur's Gate II: Shadows of Amn,89.13133870091711
+7,Jagged Alliance,79.0700111952475
+8,Jagged Alliance: Deadly Games,82.95492050895909
+9,Jagged Alliance 2,86.11377700808349
+10,Jade Empire: Special Edition,80.6976341541922
+11,Vampire: The Masquerade - Bloodlines,86.5643248463006
+12,Vampire: The Masquerade - Redemption,77.23325209202281
+13,Fallout,86.4511572453226
+14,Fallout 2,90.5539881135099
+15,Fallout 3,83.60429723212431
+16,Fallout: New Vegas,87.021851753396
+17,Fallout Tactics: Brotherhood of Steel,69.6740069102885
+18,Max Payne,86.56794086025388
+19,Max Payne 2: The Fall of Max Payne,86.93858067222169
+20,BioShock,87.2920351905691
+21,BioShock 2,80.83490868581761
+22,System Shock 2,89.91828227355211
+23,System Shock,91.1343901369483
+24,X-COM: UFO Defense,88.50473116840989
+25,X-COM: Terror From The Deep,80.2130849904147
+26,X-COM: Apocalypse,71.6273064029591
+27,X-COM: Interceptor,50.0
+28,Space Quest: The Sarien Encounter,75.5315623185135
+29,Space Quest II: Vohaul's Revenge,72.9190619224525
+30,Space Quest III: The Pirates Of Pestulon,79.5876067148762
+31,Space Quest IV: Roger Wilco And The Time Rippers,74.9683143219265
+32,Space Quest V: The Next Mutation,82.56731212312211
+33,Space Quest 6: The Spinal Frontier,80.0
+34,Giants: Citizen Kabuto,82.83546447047699
+35,Dungeon Keeper,87.0416233422989
+36,Dungeon Keeper 2,87.82296318030029
+37,Dead Space,85.39974728984029
+38,Dead Space 2,86.7000016492041
+39,Mafia,87.52931205298052
+40,Mafia II,81.35269804942921
+41,Deus Ex,87.797878203116
+42,Deus Ex: Invisible War,63.0276384812428
+43,Deus Ex: Human Revolution,84.43423946241839
+44,Overlord,77.5279654521187
+45,Overlord: Raising Hell,72.1739237287466
+46,Overlord II,77.7041873134026
+49,Syndicate,83.53196664522679
+50,Syndicate: American Revolt,89.769195620869
+51,Syndicate Wars,66.8870835710049
+52,The Elder Scrolls: Arena,70.3948387059931
+53,The Elder Scrolls II: Daggerfall,82.78387749348809
+54,An Elder Scrolls Legend: Battlespire,50.71109974839121
+55,The Elder Scrolls Adventures: Redguard,50.3008130235768
+56,The Elder Scrolls III: Morrowind,85.16395377205511
+57,The Elder Scrolls III: Tribunal,75.02526103971971
+58,The Elder Scrolls III: Bloodmoon,82.16297632174401
+59,The Elder Scrolls IV: Oblivion,85.2281140106207
+60,The Secret of Monkey Island,86.5141230984334
+61,Monkey Island 2: LeChuck's Revenge,90.0745667547598
+62,The Curse of Monkey Island,85.6462711714898
+63,Escape from Monkey Island,76.2747786249005
+64,Tales of Monkey Island,76.958345638655
+65,The Secret of Monkey Island: Special Edition,85.7140848044476
+66,Monkey Island 2 Special Edition: LeChuck's Revenge,88.69197372741681
+67,Master of Orion,89.93171302585569
+68,Master of Orion II: Battle at Antares,90.4671209196905
+69,Master of Orion III,59.0892807318958
+70,Terra Nova: Strike Force Centauri,70.0
+71,Portal,86.9543957066191
+72,Portal 2,91.72349750076799
+73,Mass Effect,86.47296143648161
+74,Mass Effect 2,91.4442985447431
+75,Mass Effect 3,86.1922250356167
+76,Dragon Age: Origins,87.09048392183209
+77,Dragon Age: Origins - Awakening,81.6965785254417
+78,Dragon Age II,74.3604215518469
+79,Stubbs the Zombie in Rebel Without a Pulse,70.16427569256871
+80,The Witcher,82.49708614705551
+81,Baldur's Gate: Tales of the Sword Coast,80.16897938299189
+82,Baldur's Gate II: Throne of Bhaal,84.2703526485343
+83,Baldur's Gate: Dark Alliance,82.0271426211552
+84,Baldur's Gate: Dark Alliance II,77.3271147986505
+85,Dune,78.9754930678689
+86,Dune II: The Building of a Dynasty,89.8954977652499
+87,Dune 2000,77.3394376025055
+89,Emperor: Battle for Dune,71.1335467304524
+90,The Need for Speed,71.44535721346611
+91,Need for Speed II,76.643673805904
+92,Need for Speed III: Hot Pursuit,78.8450170470311
+93,Need for Speed: High Stakes,72.9817582200707
+94,Need for Speed: Porsche Unleashed,83.07951828923461
+95,Need for Speed: Hot Pursuit 2,74.3441097179402
+96,Need for Speed: Underground,84.0415681916498
+97,Need for Speed: Underground 2,83.79366663909391
+98,Need for Speed: Most Wanted,84.97729734591519
+99,Need for Speed: Carbon,71.6687361603933
+100,Need for Speed: ProStreet,67.6517001475674
+101,Need for Speed: Undercover,62.7482988171076
+102,Need for Speed: Shift,73.8507579997068
+103,Need for Speed: Nitro,78.3789891654683
+104,Need for Speed: World,62.7882902961656
+105,Need for Speed: Hot Pursuit,78.6788155580552
+106,Zak McKracken and the Alien Mindbenders,81.9745502774256
+107,Hidden & Dangerous 2,79.9977062432347
+109,L.A. Noire,83.22191343837741
+111,Amnesia: The Dark Descent,79.0503478484154
+112,Devil May Cry 4,80.05214347941649
+113,Assassin's Creed: Brotherhood,83.0766073431795
+114,Star Wars: The Old Republic,75.31037977352389
+115,League of Legends,76.8068137174403
+116,Star Wars: Knights of the Old Republic,90.8718382227523
+117,The Last Guardian,83.5267340146836
+118,Star Wars: Knights of the Old Republic II - The Sith Lords,87.4506812433065
+119,Mortal Kombat,81.9820602526456
+120,Diablo III,78.7045264305538
+121,Minecraft,84.253963086275
+122,Left 4 Dead,80.6413658602186
+123,World of Warcraft,85.3402387968765
+124,Left 4 Dead 2,82.1963857291489
+125,Diablo,84.0917205621251
+126,Diablo II,88.7537292124911
+127,Assassin's Creed II,87.07599631102781
+128,Assassin's Creed,73.5487679898276
+129,Warcraft: Orcs & Humans,78.54741078688859
+130,Warcraft II: Tides of Darkness,85.6718865440333
+131,Warcraft II: Beyond the Dark Portal,80.3901605462028
+132,Warcraft III: Reign of Chaos,88.36171226407319
+133,Warcraft III: The Frozen Throne,87.95983582825019
+134,Devil May Cry,81.6036967929569
+135,Devil May Cry 2,56.0952257722311
+136,Devil May Cry 3: Dante's Awakening,84.1082992072999
+137,Star Wars: The Force Unleashed II,63.2981660912668
+138,LEGO Indiana Jones 2: The Adventure Continues,66.226763868942
+139,Star Wars: Galactic Battlegrounds,80.78036874650661
+140,Star Wars: Galactic Battlegrounds - Clone Campaigns,80.5901232618723
+141,Star Wars: Battlefront,81.33140242026799
+142,Star Wars: Battlefront II,85.5611478645863
+144,Star Wars: Empire at War,73.8318382771753
+145,Star Wars Galaxies: An Empire Divided,79.6634859272592
+148,Star Wars: Republic Commando,82.2333022286613
+149,Star Wars: Starfighter,65.9680784907792
+150,Star Wars: Jedi Knight - Dark Forces II,83.5362894248353
+151,Star Wars: Rebellion,72.3367043301315
+152,Star Wars: Jedi Knight II - Jedi Outcast,84.3640789644241
+153,Star Wars: Jedi Knight - Jedi Academy,83.81279414585039
+154,Star Wars: Episode I - Racer,73.1221584295749
+155,Star Wars: Yoda Stories,59.208401091769
+156,Star Wars: Episode I - Battle for Naboo,77.37695440888919
+157,Star Wars: Dark Forces,78.8206035759343
+158,Star Wars Episode I: The Phantom Menace,59.408193986942
+160,Star Wars: Jedi Knight - Mysteries of the Sith,80.1416192618128
+161,Star Wars: Rebel Assault,72.14230103752621
+162,Star Wars: Rebel Assault II - The Hidden Empire,68.2870443999332
+163,Star Wars: Rogue Squadron,79.1358715381279
+164,Star Wars: Shadows of the Empire,67.9883893982709
+166,Star Wars: TIE Fighter,88.89258859826789
+168,Star Wars: X-Wing,80.0544671463295
+169,Star Wars: X-Wing Alliance,88.1262919675031
+170,Star Wars: X-Wing vs. TIE Fighter,76.0409095433812
+172,Star Wars: X-Wing vs. TIE Fighter - Balance of Power,60.0
+174,Star Wars: Empire at War - Forces of Corruption,70.38244019036641
+175,Afterlife,69.97023962334521
+180,Full Throttle,83.27243886503769
+181,Grim Fandango,85.8641521629361
+184,Indiana Jones and the Fate of Atlantis,90.0622971119029
+185,Indiana Jones and the Last Crusade: The Action Game,74.9253332958057
+186,Indiana Jones and the Last Crusade: The Graphic Adventure,83.90236434331752
+187,Indiana Jones and the Emperor's Tomb,74.4773878738401
+188,Indiana Jones and the Infernal Machine,76.9413825337517
+189,LEGO Indiana Jones: The Original Adventures,74.2146827970197
+190,LEGO Star Wars II: The Original Trilogy,77.8968452748861
+191,Loom,88.5188592215674
+192,Maniac Mansion,87.46063803454061
+193,Day of the Tentacle,90.95983735919219
+195,Night Shift,70.0
+196,Outlaws,83.19827844226691
+200,Pipe Dream,66.0
+202,Sam & Max Hit the Road,85.3041320761536
+207,The Dig,85.2658060854067
+209,Thrillville: Off the Rails,65.7567850048024
+210,Star Wars: The Clone Wars - Republic Heroes,47.31506460607329
+211,Armed and Dangerous,78.0028071648254
+212,Brütal Legend,73.255836294078
+214,Neverwinter Nights 2,82.8170142074739
+215,Warhammer Online: Age of Reckoning,62.5857197726599
+216,Neverwinter Nights,82.8449270237466
+217,Sonic Chronicles: The Dark Brotherhood,63.379465050431
+218,MDK2,80.6630637204291
+219,MDK,77.6803678783219
+221,Phantasmagoria,74.5534566379519
+222,Phantasmagoria 2: A Puzzle of Flesh,86.8499291055737
+223,The Sims,80.0288429970489
+224,The Sims 2,78.8518776678595
+225,The Sims 2: Pets,69.6743840694018
+226,The Sims 2: Seasons,71.2635496360821
+227,World of Warcraft: The Burning Crusade,91.50136910120389
+228,World of Warcraft: Wrath of the Lich King,90.3354720287213
+229,World of Warcraft: Cataclysm,76.59415820979001
+230,StarCraft,89.1363284190195
+231,Half-Life,89.0914167977713
+232,Half-Life: Opposing Force,80.73665024756639
+233,Half-Life 2,90.7513340101312
+234,Guild Wars,81.01407171014759
+235,RollerCoaster Tycoon 3,73.728579719314
+236,Myst,75.8200367561196
+237,SimCity 3000,81.68675183891492
+238,Riven: The Sequel to Myst,84.69428405523219
+239,StarCraft II: Wings of Liberty,87.2120119081582
+240,Battlefield 1942,79.0072273638458
+241,Counter-Strike,84.02157262446829
+242,Cossacks: European Wars,79.3701448015314
+243,Who Wants to Be a Millionaire,77.8923795841375
+244,The Bureau: XCOM Declassified,57.8876626858026
+245,Command & Conquer: Red Alert 2,87.05987819057088
+246,Diablo II: Lord of Destruction,88.63214707720189
+247,Half-Life 2: Episode Two,87.8357724333941
+248,Populous,68.17492464487981
+250,The Chronicles of Riddick: Escape from Butcher Bay,84.90245539810809
+251,Where in the World Is Carmen Sandiego?,80.8772811708501
+253,Stonekeep,80.7760962150966
+254,RollerCoaster Tycoon,82.4934000892404
+255,Arcanum: Of Steamworks and Magick Obscura,89.60014883221129
+257,"Warhammer 40,000: Dawn of War",85.3284822753657
+260,The Sims 3,80.3828111988352
+270,Age of Conan: Hyborian Adventures,60.7144759334403
+271,Vietcong,73.9086445095311
+272,Unreal Tournament,86.8079649672665
+273,Unreal,80.6411388816759
+274,Tropico,80.35604814746361
+275,Commandos: Strike Force,59.7300820267122
+276,Supreme Commander,77.125518986896
+277,Battlefield 2,82.2366284006941
+278,Runaway: A Road Adventure,78.7152136781161
+279,Return to Zork,60.5057232967954
+280,DOOM 3,78.5034912312838
+281,Return to Castle Wolfenstein,79.5928092710549
+282,EverQuest,82.3166038567015
+283,Theme Park,68.7469499102118
+284,Wolfenstein 3D,77.3665086205173
+285,Railroad Tycoon II,85.4643283729075
+286,Quake II,83.35380115726879
+287,Patrician III: Rise of the Hanse,76.3810786398998
+288,Operation Flashpoint: Cold War Crisis,88.4479733810974
+289,Age of Empires,84.5542692541604
+290,Imperivm III: Great Battles of Rome,70.0341698474394
+291,Age of Empires: The Rise of Rome,80.22909921183899
+293,Sid Meier's Civilization IV,86.0209502229927
+294,Hidden & Dangerous,79.6669228064418
+295,Command & Conquer: Red Alert,87.15397534845181
+296,Crysis,81.19159097492681
+297,Counter-Strike: Condition Zero,74.8740568027929
+298,Glory of the Roman Empire,72.5704568643011
+299,Age of Empires III,79.03736788051
+300,Anno 1503,82.1330574536414
+301,Microsoft Flight Simulator X,77.0347226249832
+302,Empire Earth,78.283051207109
+303,Anno 1602: Creation of a New World,87.4772926441119
+305,Cossacks II: Napoleonic Wars,66.8163378146593
+306,Far Cry,77.9571977494238
+307,Counter-Strike: Source,78.7051419387547
+308,Black & White,75.42977042770309
+309,Police Quest: SWAT,50.0
+310,Sid Meier's Civilization III,81.4293879250164
+311,Police Quest: SWAT 2,49.5504437310679
+312,DOOM II: Hell on Earth,85.6997325050606
+313,SWAT 3: Close Quarters Battle,80.7993642749123
+316,SWAT 4,86.55170442847799
+317,SWAT 4: The Stetchkov Syndicate,70.3502370118578
+318,Ragnarok Online,77.1978775627578
+320,S.T.A.L.K.E.R.: Shadow of Chernobyl,81.7326204295261
+321,Command & Conquer 3: Tiberium Wars,82.9630573367882
+322,Blade Runner,87.3047820293889
+323,The 7th Guest,72.9461797873018
+324,Age of Mythology,81.8603891422726
+325,Hellgate: London,79.7682794897147
+326,Medal of Honor: Allied Assault,82.2892101011411
+327,Age of Empires II: The Age of Kings,86.3891918849377
+328,Sacred,76.9717776211927
+329,Dungeon Siege,78.956584549977
+330,SimCity 2000,77.6323650622055
+331,RollerCoaster Tycoon 2,82.67758466557251
+332,Monopoly,66.0525521467722
+333,Quake,81.61805353356881
+334,Zoo Tycoon,78.0699835497651
+335,Battlefield Vietnam,71.3165660480378
+336,Crysis Warhead,74.8467020472457
+337,American McGee's Alice,73.8667447353886
+338,Half-Life 2: Episode One,83.9717322300155
+339,The Orange Box,89.9224885098605
+340,Command & Conquer: Tiberian Sun,82.090198223329
+341,Harry Potter and the Sorcerer's Stone,73.6667006244427
+342,Duke Nukem 3D,82.16542573698631
+343,Battlefield 3,80.51837775418299
+345,Battlefield 1942: The Road to Rome,79.5317511431151
+346,Battlefield 1942: Secret Weapons of WWII,79.1485729987714
+347,Battlefield 2: Special Forces,84.33709539919
+348,Battlefield 2: Modern Combat,63.2911534863116
+349,Battlefield 2142,75.4920390579901
+350,Battlefield Heroes,79.5286805043071
+351,Battlefield 1943,72.0146233077989
+352,Battlefield: Bad Company 2,81.2962541597863
+354,Battlefield Play4Free,48.958970434662
+355,Quake III Arena,83.63519518845679
+356,Quake 4,73.6947532817696
+357,Tachyon: The Fringe,80.0140631201618
+358,Super Mario Bros.,83.9780330010065
+359,Final Fantasy XV,77.4324517957896
+360,Donald Duck: Goin' Quackers,75.4770747465969
+361,Far Cry 2,72.13599993849
+362,Heroes of Might and Magic: A Strategic Quest,79.88345755069571
+363,Heroes of Might and Magic II: The Succession Wars,85.6728426430653
+364,Heroes of Might and Magic III: The Restoration of Erathia,89.0565440099317
+365,Heroes of Might and Magic III: Armageddon's Blade,88.12886910878129
+366,Heroes of Might and Magic III: The Shadow of Death,87.39710928721159
+367,Heroes of Might and Magic IV,74.8968692024911
+368,Heroes of Might and Magic IV: The Gathering Storm,56.9578289697134
+369,Heroes of Might and Magic IV: Winds of War,72.1016725544738
+370,Heroes of Might and Magic V,78.9880047470246
+371,Heroes of Might and Magic V: Hammers of Fate,79.63058128612529
+372,Heroes of Might and Magic V: Tribes of the East,82.3040188473843
+373,Might & Magic: Heroes VI,73.3023610851275
+374,Metal Gear,73.9948777862953
+375,Metal Gear Solid,90.50027412297361
+376,Metal Gear Solid 2: Sons of Liberty,88.32272003995881
+377,Metal Gear 2: Solid Snake,81.4978210510823
+378,Metal Gear Rising: Revengeance,78.8376227485388
+379,Metal Gear Solid 3: Snake Eater,92.7782347764208
+380,Metal Gear Solid 4: Guns of the Patriots,87.397654922659
+381,Metal Gear Solid: Portable Ops,68.54472414677039
+382,Metal Gear Solid: Peace Walker,79.30962164287169
+384,Final Fantasy XIII-2,71.7378251515891
+385,Final Fantasy,77.7242323264791
+386,Final Fantasy XIV Online,81.9769984142307
+387,Final Fantasy II,70.4636954371165
+388,Final Fantasy IV: The After Years,50.37712552540241
+389,Final Fantasy XIII,72.1042934305741
+390,Lego Racers 2,56.2118817045795
+391,Dissidia Final Fantasy,70.8825868019218
+392,Final Fantasy XII: Revenant Wings,60.8340771723455
+393,Final Fantasy III,69.12033662136
+394,Final Fantasy Tactics: The War of the Lions,85.9054930265724
+395,Final Fantasy II,76.9265263884098
+396,The Final Fantasy Legend,63.3357784522112
+397,Final Fantasy: 20th Anniversary Edition,64.8482833153213
+398,Final Fantasy XII,85.1600951796832
+399,Final Fantasy IV,83.9655016149425
+400,Final Fantasy III,70.5507019202801
+401,Final Fantasy Crystal Chronicles: The Crystal Bearers,58.6238532110092
+403,Final Fantasy Legend II,86.5751519563409
+406,Final Fantasy IV Advance,80.7624349768834
+407,Final Fantasy Adventure,79.9425763317258
+408,Final Fantasy I & II: Dawn of Souls,69.9337712552576
+410,Final Fantasy Legend III,83.0
+411,Final Fantasy XI Online,80.2668891087429
+412,Final Fantasy: Crystal Chronicles,68.6124441557286
+413,Final Fantasy X-2,65.8227632885008
+414,Final Fantasy Tactics Advance,82.2796742635196
+415,Final Fantasy: Mystic Quest,76.9836879595047
+417,Final Fantasy Origins,81.46655024880049
+418,Final Fantasy X,87.30575385424171
+419,Final Fantasy V,77.30768197328891
+421,Final Fantasy IX,87.5207066878182
+422,LEGO Racers,59.5820655096221
+423,Final Fantasy Anthology,80.20097814160809
+424,Resident Evil,77.1166710989353
+425,Final Fantasy VIII,82.0908502436911
+426,Final Fantasy VI,90.1698875579385
+427,Final Fantasy VII,90.272768523908
+428,Final Fantasy Tactics,85.0307150559287
+429,Call of Juarez,74.9712139978054
+430,Call of Juarez: Bound In Blood,76.5812858497341
+431,Uncharted: Drake's Fortune,76.8903518714508
+432,Total War: Shogun 2,84.89165923618019
+433,The Chronicles of Riddick: Assault on Dark Athena,81.0079419246722
+434,Red Dead Redemption,89.4093910221817
+436,Shogun: Total War,86.20946742690901
+437,Medieval: Total War,84.4495379499061
+438,Rome: Total War,82.1607486682268
+439,Spartan: Total Warrior,65.882985738673
+440,Medieval II: Total War,86.46137881151131
+441,Empire: Total War,76.8451593319547
+442,Napoleon: Total War,75.8216281970705
+443,Shogun: Total War - Mongol Invasion,78.92909961638159
+444,Medieval: Total War - Viking Invasion,77.1144585785318
+445,Rome: Total War - Barbarian Invasion,83.0512505044092
+446,Rome: Total War - Alexander,69.7261074694167
+447,Medieval II: Total War - Kingdoms,73.93537289257951
+448,Operation Flashpoint: Resistance,89.77287534905001
+449,Operation Flashpoint: Red Hammer,88.5732976798605
+450,Operation Flashpoint: Red River,69.8767743916273
+451,Operation Flashpoint: Dragon Rising,70.6797111864424
+452,Blackthorne,71.0922439409155
+453,The Death and Return of Superman,54.16632320706501
+454,The Lost Vikings,77.44774469885999
+455,Justice League Task Force,40.0486246408077
+456,StarCraft: Brood War,90.344157957923
+457,StarCraft II: Heart of the Swarm,86.718969291429
+458,StarCraft II: Legacy of the Void,87.8212974007691
+459,Simon the Sorcerer,81.2492872027626
+460,"Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe",85.97815989860139
+461,Simon the Sorcerer 3D,31.3101255602756
+464,Vietcong: Fist Alpha,70.1393985614523
+465,"Warhammer 40,000: Dawn of War - Winter Assault",73.6920014139149
+466,"Warhammer 40,000: Dawn of War II",77.5079689057257
+467,"Warhammer 40,000: Dawn of War - Dark Crusade",78.4216961530359
+468,"Warhammer 40,000: Dawn of War - Soulstorm",66.7668145123789
+469,"Warhammer 40,000: Dawn of War II - Chaos Rising",73.7739313054208
+470,"Warhammer 40,000: Dawn of War II - Retribution",73.81166829179091
+471,Crysis 2,77.5721128622793
+472,The Elder Scrolls V: Skyrim,87.519763183147
+473,Battlefield: Bad Company,77.8959795619795
+474,Metal Gear Solid 2: Substance,87.79804701411629
+475,Star Wars: The Force Unleashed,73.7664016622338
+476,Star Wars: Battlefront - Elite Squadron,73.964641065391
+477,Commandos 3: Destination Berlin,74.8539410741045
+478,The Witcher 2: Assassins of Kings,84.84139761636641
+479,Metal Gear Solid 3: Subsistence,92.2718564365283
+480,Silent Hill,84.9432020537216
+481,Silent Hill 2,92.0391235143063
+482,Silent Hill 3,83.7091067020036
+483,Silent Hill 4: The Room,76.1098622172147
+484,Silent Hill: Origins,74.1143265551194
+485,Silent Hill: Homecoming,66.6191406077755
+486,Silent Hill: Shattered Memories,69.73225194680501
+487,Silent Hill: Downpour,69.2855188444007
+488,Kane & Lynch 2: Dog Days,67.5986850212751
+489,Rift,68.3962911822992
+490,Duke Nukem Forever,57.4098425528883
+491,Castlevania: Lords of Shadow,79.9771529137144
+492,Gears of War 3,81.9301733535434
+493,Heavy Rain,82.7247557116711
+494,Bulletstorm,79.8750824275499
+495,Metro 2033,82.4224213885677
+496,Dead Rising 2,73.0839402250153
+497,Resident Evil: The Darkside Chronicles,65.6692407612222
+498,Borderlands,80.20659421704121
+499,God of War III,86.16728468607681
+500,Batman: Arkham Asylum,86.39015872493471
+501,Batman: Arkham City,87.40113154587038
+502,Brink,42.8296328116377
+503,FIFA 11,72.8848287633121
+504,Fable III,67.1820275771552
+505,Hunted: The Demon's Forge,63.1510564686872
+506,Sonic Generations,77.3105559831228
+507,I Am Alive,65.9873479369981
+508,TrackMania 2: Canyon,63.7104903864676
+509,RAGE,72.7898133188219
+510,PowerUp Heroes,80.0
+512,Uncharted 3: Drake's Deception,85.22079597927929
+513,Phantasy Star Online 2,72.27562416911711
+514,F.E.A.R. 3,68.9403145684079
+515,inFAMOUS 2,82.96000438917449
+516,Of Orcs and Men,73.20415227377511
+517,F.E.A.R.,80.8335649561269
+518,F.E.A.R. Extraction Point,79.8364153026632
+519,F.E.A.R. Perseus Mandate,74.2436890332335
+520,F.E.A.R. 2: Project Origin,77.4815734731659
+521,Fable,84.31636633931771
+522,Fable II,78.0220868646562
+523,inFAMOUS,75.7398571231985
+524,DiRT 3,77.4167279756871
+526,Need for Speed: The Run,67.5720455695817
+527,Serious Sam 3: BFE,70.43549146053161
+528,Red Faction: Armageddon,70.7300203582532
+529,Far Cry 3,83.8696057182335
+530,Hitman: Absolution,75.8524791479593
+531,Ace Combat: Assault Horizon,68.68884813041609
+532,Hard Reset,68.1836792058799
+533,Dishonored,85.1974359559093
+534,The Legend of Zelda: Skyward Sword,82.0815298039631
+535,WildStar,73.3705100658876
+536,Dead Island,70.7698041950832
+537,Assassin's Creed: Revelations,76.8870037211361
+538,Bioshock Infinite,85.93725271042031
+539,Metro: Last Light,82.42978531197251
+540,Disney Universe,62.1964718306749
+541,Ridge Racer Unbounded,63.1952981113351
+542,Lego Pirates of the Caribbean,76.3713715554007
+543,Call of Juarez: The Cartel,55.498497531741
+544,The Darkness II,77.0495928307583
+545,Call of Duty: Black Ops,79.5147818212781
+546,Prey,75.0278104176226
+547,Gears of War,81.2617964099414
+548,Gears of War 2,83.8297323925252
+549,God of War,84.7856000771707
+550,God of War: Ghost of Sparta,81.7506332700806
+551,God of War II,86.4604817348556
+552,God of War: Chains of Olympus,78.08634040769479
+553,Spider-Man: Shattered Dimensions,72.2511662417923
+554,Driver: San Francisco,75.4017063863871
+555,Transformers: War for Cybertron,72.3699607411009
+556,Medal of Honor,69.0281881511907
+557,Prison Break: The Conspiracy,71.4499212557177
+558,Just Cause 2,78.0998017094763
+559,Call of Duty: Modern Warfare 2,81.80105509299929
+560,Aliens vs. Predator,68.4099931466565
+561,Colin McRae: Dirt 2,78.50413452955169
+562,Tom Clancy's Splinter Cell: Conviction,76.5862394860764
+563,Aion,68.4967460786211
+564,Rogue Warrior,48.1760393930048
+565,Uncharted 2: Among Thieves,89.50473497556149
+566,Ghostbusters: The Video Game,76.3835239185506
+567,Fuel,79.69849474963661
+568,Marvel: Ultimate Alliance 2,77.43202038009781
+569,Wolfenstein,71.827995141563
+570,Prototype,74.3373584181567
+571,Singularity,76.62631421903279
+572,ArmA 2,76.86590081284051
+573,X-Men Origins: Wolverine,71.3999115350004
+574,Eat Lead: The Return of Matt Hazard,54.6086673864387
+575,The Godfather II,69.8835418400307
+576,DC Universe Online,64.8985894245142
+578,"Warhammer 40,000: Space Marine",76.0984472751646
+583,2002 FIFA World Cup,63.6644828231568
+585,688(I) Hunter/Killer,60.0
+586,Abuse,71.5084583112129
+587,Act of War: Direct Action,70.1722016248214
+589,Age of Wonders,79.8930212142857
+590,Age of Wonders II: The Wizard's Throne,79.60105729969379
+591,Age of Wonders: Shadow Magic,74.3116902636997
+594,Aliens versus Predator 2,83.7681775500277
+596,American Conquest,73.81679788356949
+597,America's Army,70.0123209629946
+599,Age of Empires II: The Conquerors,82.2515178442398
+601,ArmA 2: Operation Arrowhead,70.1996390641347
+602,Arx Fatalis,78.3075417690674
+604,Bad Mojo,79.7657045405946
+606,Battle Realms,77.982572593326
+607,Battlefield: Bad Company 2 Vietnam,80.0302501033852
+612,Beneath a Steel Sky,76.7638499310873
+613,Battlezone,80.24443949885469
+614,Bejeweled 2,71.1410732206689
+616,Broken Sword: The Shadow of the Templars,83.8011678469504
+617,Brothers in Arms: Earned in Blood,72.35700558713
+618,Brothers in Arms: Hell's Highway,71.1863352202763
+619,Brothers in Arms: Road to Hill 30,71.9817007489516
+620,Burnout Paradise,82.3258170490829
+621,Call of Duty,82.40985109906299
+622,Call of Duty 2,84.59539304772409
+623,Call of Duty 4: Modern Warfare,84.2666570867764
+624,Call of Duty: United Offensive,80.6647498965816
+625,Call of Duty: World at War,75.1816527494983
+626,Carmageddon,79.6605515609225
+628,Championship Manager: Season 03/04,70.881486802191
+633,Sid Meier's Civilization IV: Beyond the Sword,84.7778262217799
+634,Sid Meier's Civilization II,88.0709319728514
+635,Sid Meier's Civilization III: Conquests,73.9971363093283
+636,Clive Barker's Undying,82.6313386748935
+640,Codename: Panzers - Phase One,87.5340720511428
+641,Colin McRae Rally 04,77.4470863525975
+642,Colin McRae Rally 2.0,82.18033863569589
+647,Command & Conquer,85.883182479005
+648,Command & Conquer: Red Alert 2 - Yuri's Revenge,81.8834470038132
+649,Command & Conquer: Generals,79.8573354791675
+650,Command & Conquer: Generals - Zero Hour,81.3888644819996
+651,The Wizard and the Princess,58.4578234498298
+652,Command & Conquer: Red Alert - The Aftermath,83.1878897140249
+653,Commandos 2: Men of Courage,86.7877856163258
+654,Company of Heroes,85.7288337423671
+655,Conquest of the New World,70.0
+656,Crusader: No Regret,79.6816378537779
+657,Dark Age of Camelot,89.0977818541046
+659,Dark Reign: The Future of War,74.5030054660384
+660,Darkstone,62.8384863092915
+661,Darwinia,70.6135783454076
+662,Anno 1404,80.2285030327012
+663,Command & Conquer: The Covert Operations,78.53656510505249
+665,Death Rally,76.5634543412272
+666,Delta Force,67.3350715256978
+667,Descent 3,79.9414989013761
+668,Descent II,70.49170786135521
+669,Descent: Freespace - The Great War,79.96152175262209
+670,Command & Conquer 4: Tiberian Twilight,37.028224519857
+671,Divine Divinity,78.0071012669495
+672,DOOM 3: Resurrection of Evil,68.2674011044437
+673,DOOM,84.4275459026622
+674,Dungeons & Dragons: Dragonshard,80.7054319257266
+675,Driver,76.3683121365886
+676,Command & Conquer: Red Alert - Counterstrike,82.69607416863661
+678,Empires: Dawn of the Modern World,80.0
+680,Enemy Territory: Quake Wars,63.350200522509
+681,Europa 1400: The Guild,70.4927108974507
+682,Europa Universalis II,80.09355122711581
+683,Europa Universalis III,84.0108268460056
+689,F1 Challenge '99-'02,80.82610932629599
+690,F1 Championship Season 2000,79.1090767882027
+694,Fable: The Lost Chapters,83.7039149001162
+696,FIFA 07,72.8550847932339
+698,FIFA 2001,76.2819234684932
+699,FIFA 99,80.5071558239206
+700,FIFA 06,69.552697888988
+701,FIFA Football 2002,72.5164507497887
+703,FIFA Football 2005,78.1270566631863
+705,FIFA: Road to World Cup 98,83.3000582844744
+706,Command & Conquer: Renegade,70.31793451751119
+707,Command & Conquer 3: Kane's Wrath,79.47553376121691
+712,Microsoft Flight Simulator 2004: A Century of Flight,70.7389682182758
+713,Microsoft Flight Simulator X: Acceleration,81.53846153846149
+716,Football Manager 2010,82.6576103061532
+717,Football Manager 2011,89.0309567053271
+718,Forsaken,60.414600121465
+719,Freedom Fighters,78.3048692892755
+720,Freedom Force,74.7193504056611
+721,Freedom Force vs. The 3rd Reich,89.0681749596998
+722,Freespace 2,79.2846795581841
+724,Galactic Civilizations II: Dark Avatar,46.0
+725,Galactic Civilizations II: Dread Lords,73.4691246609722
+726,Ghost Master,67.7482351669001
+727,Grand Prix 3,70.20215092674701
+728,Grand Prix II,87.89819176511119
+730,Grand Theft Auto III,85.1930209758519
+731,Grand Theft Auto IV,82.9274521341491
+732,Grand Theft Auto: San Andreas,90.1721906884289
+733,Grand Theft Auto: Vice City,87.6034029676934
+734,Ground Control,81.473957693455
+735,Ground Control II: Operation Exodus,73.9268949076642
+736,GT Legends,89.8392556935451
+737,GTR 2 – FIA GT Racing Game,82.7006246996636
+738,GTR – FIA GT Racing Game,50.0
+739,Guild Wars: Factions,78.9535919891929
+740,Halo: Combat Evolved,83.5509728269755
+741,Hearts of Iron III,90.4630797249684
+744,King's Quest IV: The Perils of Rosella,63.1245158182805
+748,Hitman 2: Silent Assassin,81.0668068109492
+749,Homeworld,84.4553090739156
+750,Homeworld 2,87.2613652277537
+751,Homeworld: Emergence,80.6805608797699
+752,Hostile Waters: Antaeus Rising,34.0
+753,Icewind Dale,80.3743698822109
+754,IL-2 Sturmovik,76.80809864861389
+755,IL-2 Sturmovik: Forgotten Battles,75.1564119953077
+757,Independence War,80.56006470429489
+758,Independence War 2: Edge of Chaos,70.0
+759,Command & Conquer: Red Alert 3 – Uprising,72.8613289605129
+760,Interstate '76,78.1251294297223
+763,Heroes of Newerth,84.0124886098825
+764,Jazz Jackrabbit 2,78.33585809199539
+766,Kohan II: Kings of War,80.0743583593188
+767,Kohan: Immortal Sovereigns,88.17518248175179
+769,Lara Croft and the Guardian of Light,74.5703451944447
+774,The Lord of the Rings Online: Mines of Moria,79.91905176372511
+775,M.A.X.: Mechanized Assault & Exploration,70.0
+776,Madden NFL 2003,46.0
+777,Madden NFL 2004,51.9062839894932
+778,Madden NFL 2005,70.0165302573034
+781,Majesty: The Fantasy Kingdom Sim,79.2842162180486
+782,Mass Effect 2: Lair of the Shadow Broker,88.4620526039926
+783,Mass Effect 2: Overlord,82.67794724840459
+784,MechWarrior 2: 31st Century Combat,71.61588057990559
+786,MechWarrior 4: Vengeance,70.4460478274404
+787,Serious Sam II,72.3968119824942
+788,Microsoft Flight Simulator 2000,89.88746604578971
+790,Might and Magic VI: The Mandate of Heaven,87.3624483875802
+793,Mobil 1 Rally Championship,82.343375444675
+794,Wing Commander: Privateer,89.93351182313401
+795,Motocross Madness 2,74.8416328788256
+796,MVP Baseball 2005,95.5254436895497
+797,Myst III: Exile,88.11399901241711
+798,Myst IV: Revelation,77.0151739013331
+799,Myth II: Soulblighter,80.0189810591119
+808,NBA Live 2003,75.3392783429645
+810,Privateer 2: The Darkening,78.2672019245267
+811,NBA Live 99,78.4899336671703
+812,NFL Blitz,79.8916439525826
+813,NHL 2000,70.0198585081296
+814,NHL 2001,69.8971306399169
+815,NHL 2002,85.9047755421777
+816,NHL 2004,77.6880504853593
+817,NHL 97,89.5046526617743
+818,NHL 98,79.236992429342
+819,Grand Theft Auto 2,80.1064521604077
+820,No One Lives Forever 2: A Spy in H.A.R.M.'s Way,86.8024908715519
+824,NHL 09,89.57731948604
+825,Saints Row,66.7824635283001
+826,Saints Row 2,72.4254664478288
+827,Outcast,88.0974938677312
+828,Painkiller,75.3176141522719
+832,Planescape: Torment,90.7307906648851
+834,"Port Royale: Gold, Power and Pirates",73.5127661076365
+836,Prince of Persia: The Sands of Time,82.26676595025052
+837,Prince of Persia: Warrior Within,83.1697643400183
+838,Pro Pinball: Big Race USA,70.6281500061783
+839,Race: The WTCC Game,70.0
+840,Railroad Tycoon 3,81.4158169367188
+841,Rallisport Challenge,88.8000607254989
+842,Rally Trophy,86.0929031936189
+843,Rayman 2: The Great Escape,80.71293958762651
+844,Realms of the Haunting,71.202478740524
+845,Red Baron II,76.36348453819491
+846,Red Faction: Guerrilla,75.6027717996679
+847,Resident Evil 5,74.6341318058156
+848,Rise of Nations,81.1387649301837
+849,Rise of Nations: Thrones & Patriots,72.6491660283689
+851,Robin Hood: The Legend of Sherwood,86.083667398511
+852,King's Quest II: Romancing the Throne,61.9514116544968
+853,Sacrifice,81.46037332462569
+854,Sam & Max: Beyond Time and Space,79.90239852609531
+856,NHL 2003,80.2497478350309
+857,Serious Sam: The First Encounter,79.9875563283897
+858,Serious Sam: The Second Encounter,79.71341030804129
+860,Seven Kingdoms II: The Fryhtan Wars,79.99001996007979
+862,Sam & Max: Save the World,73.7309300660696
+863,Sid Meier's Alpha Centauri,90.4191876488839
+865,Sid Meier's Civilization IV: Warlords,77.86890808858101
+866,Sid Meier's Civilization V,85.8652557536911
+868,Sid Meier's Pirates!,81.39440362559719
+869,Sid Meier's SimGolf,74.0
+870,Silent Hunter III,70.32775702365899
+872,Sins of a Solar Empire,82.4001883682255
+873,Saints Row: The Third,77.969607853353
+874,Tom Clancy's Splinter Cell: Pandora Tomorrow,82.90843400847979
+875,NHL 08,78.8808439946735
+876,Icewind Dale II,82.1130960225816
+877,Star Trek: Voyager – Elite Force,75.1020255022974
+879,Commandos: Behind Enemy Lines,84.3064601981065
+880,Resident Evil 2,83.50308969197309
+881,Starsiege: Tribes,81.8802104907167
+884,Street Fighter IV,80.64098316151711
+885,Super Meat Boy,84.0130019931783
+888,Supreme Commander: Forged Alliance,77.0296488496317
+890,Syberia,80.91669261407431
+891,Team Fortress 2,82.5264422594305
+892,King's Quest: Quest for the Crown,70.7000421565997
+893,King's Quest III: To Heir Is Human,73.229586587705
+894,The Elder Scrolls IV: Shivering Isles,84.12178539734329
+895,The Longest Journey,83.8103080781058
+897,The Operative: No One Lives Forever,83.81385806389639
+898,The Sims 3: World Adventures,76.1372104071738
+899,The Sims: Hot Date,65.4012865627018
+900,Command & Conquer: Tiberian Sun - Firestorm,84.05001244228559
+902,Sid Meier's Civilization,93.3826605399738
+903,Tiger Woods PGA Tour 06,55.0
+904,Tiger Woods PGA Tour 2003,49.0
+905,Tiger Woods PGA Tour 2004,63.0
+906,Tiger Woods PGA Tour 2005,63.0
+907,TOCA Race Driver 3,70.8245998204647
+908,Tom Clancy's Rainbow Six 3: Raven Shield,80.6546463220515
+909,Tom Clancy's Rainbow Six: Vegas,74.56198007497039
+910,Tom Clancy's Splinter Cell,83.5882668084032
+911,Tom Clancy's Splinter Cell: Chaos Theory,85.1586309906272
+912,Tomb Raider,81.66436244868599
+913,Tony Hawk's Pro Skater 2,85.38988562651
+914,Tony Hawk's Pro Skater 3,80.90825862601379
+915,Tony Hawk's Pro Skater 4,78.5701874771128
+916,Toonstruck,90.78646892624789
+918,Total Annihilation,82.2993202385857
+921,Capitalism II,15.9690172591346
+922,Tribes 2,79.5083565251113
+923,Tribes: Vengeance,71.60222697133891
+924,Wing Commander,81.4450690565856
+925,UEFA Euro 2004: Portugal,64.26389215208219
+926,Unreal Tournament 2003,84.1250334615838
+927,Unreal Tournament 2004,83.4408692099524
+928,Unreal Tournament III,75.9033294611513
+929,War Wind,69.8341656423587
+932,Warlords III: Reign of Heroes,83.6875909713106
+934,Wing Commander IV: The Price of Freedom,89.4021963837472
+935,Wing Commander: Prophecy,88.0511233517848
+936,Pro Evolution Soccer 3,77.2885941290956
+939,Wizardry 8,79.98647462682
+940,Wing Commander II: Vengeance of the Kilrathi,75.4532851011359
+941,World in Conflict,79.76380606215349
+942,World of Goo,80.0363470352969
+943,Colin McRae: Dirt,78.3913847421607
+944,Football Manager 2005,72.2522402536678
+945,Football Manager 2007,78.38150706225309
+946,Football Manager 2008,80.2819170027969
+947,Worms 2,81.9904547146176
+948,Worms Armageddon,81.59511060266681
+949,Call of Duty 3,71.1704603912545
+951,Carmageddon II: Carpocalypse Now,77.8597267012416
+952,NHL 12,79.8539129096192
+953,NHL 10,84.0330505003306
+954,NHL 11,74.5027391487569
+955,Under a Killing Moon,88.97186242709321
+956,Duke Nukem II,70.48691392523361
+957,Duke Nukem,68.3258326498356
+958,Zeus: Master of Olympus,68.92754534653301
+959,Command & Conquer: Red Alert 3,75.147974335059
+960,Max Payne 3,82.24082149903231
+961,Commandos: Beyond the Call of Duty,81.58219394110971
+962,Sid Meier's Railroad Tycoon,78.0
+964,Stronghold Crusader,84.5224979472766
+965,Stronghold,83.28665535054171
+966,Resident Evil 3: Nemesis,80.74509267584031
+967,Resident Evil Survivor,56.3151184286211
+968,Resident Evil CODE: Veronica,63.81204214614159
+969,Resident Evil Gaiden,45.0954215881635
+970,Resident Evil Zero,76.2754798405748
+971,Resident Evil: Dead Aim,47.63216769320849
+972,Resident Evil Outbreak,52.3322556445121
+973,Resident Evil Outbreak File #2,75.9699734144475
+974,Resident Evil 4,87.300491355004
+975,Resident Evil: The Umbrella Chronicles,66.7494209495764
+976,Resident Evil: The Mercenaries 3D,31.39157869466
+977,Resident Evil: Operation Raccoon City,52.5160196923422
+978,Resident Evil: Revelations,73.8125087553179
+979,Call of Duty: Modern Warfare 3,72.6578990916817
+980,Grand Theft Auto,75.6421116836833
+981,Rayman Origins,82.64130228964919
+982,Heavy Fire: Afghanistan,50.0
+983,Tom Clancy's H.A.W.X,72.6070298545354
+984,Tom Clancy's H.A.W.X 2,60.2152216842309
+985,Dead Space: Extraction,67.0878984397441
+986,Halo 2,84.536229911405
+987,Halo 3,85.7664361903902
+988,Halo Wars,74.7167826491321
+989,Halo 3: ODST,75.0815975460169
+990,Halo: Reach,85.58482027355501
+991,Halo 4,78.8759862280501
+993,Silent Hunter 4: Wolves of the Pacific,73.8794574966637
+994,Silent Hunter 4: Wolves of the Pacific - U-Boat Missions,70.0
+995,Silent Hunter 5: Battle of the Atlantic,69.0309035942224
+996,Army of Two,65.47433416575049
+997,Army of Two: The 40th Day,62.76361642334579
+998,Uncharted: Golden Abyss,72.020176106136
+999,Oddworld: Abe's Oddysee,82.59403466329789
+1000,Oddworld: Abe's Exoddus,83.71555346769
+1001,Oddworld: Munch's Oddysee,69.45104478409169
+1002,Oddworld: Stranger's Wrath,79.6380606561518
+1003,Enter the Matrix,62.73762796861021
+1004,The Matrix: Path of Neo,67.5786171119793
+1006,Syndicate,70.0020153020628
+1007,Hector: Badge of Carnage!,70.04395682924459
+1008,Jagged Alliance: Back in Action,50.0
+1009,The Last of Us,93.45907954039549
+1010,Cities in Motion,69.115749830242
+1011,Borderlands 2,84.7538348680738
+1012,Gotham City Impostors,69.7653001877517
+1013,SoulCalibur V,68.6785206895064
+1014,APB Reloaded,62.4793621834121
+1015,BloodRayne,75.53165193069
+1016,BloodRayne 2,54.58959400638
+1017,Worms: Reloaded,75.33662744694409
+1018,Marble Arena 2,70.0
+1020,Grand Theft Auto V,90.2137010488018
+1021,Aliens: Colonial Marines,45.7994370871453
+1022,The Legend of Zelda,81.8650814211196
+1023,Hacker Evolution,60.3940727732084
+1024,Hacker Evolution: Untold,50.0
+1025,Zelda II: The Adventure of Link,64.4663784351424
+1026,The Legend of Zelda: A Link to the Past,92.41909109686031
+1027,The Legend of Zelda: Link's Awakening DX,87.92201887998519
+1028,The Legend of Zelda: Link's Awakening,85.9142937504812
+1029,The Legend of Zelda: Ocarina of Time,91.92259624562651
+1030,The Legend of Zelda: Majora's Mask,87.275170962071
+1032,The Legend of Zelda: Oracle of Seasons,82.5434471450896
+1033,The Legend of Zelda: The Wind Waker,87.9931225557284
+1034,The Legend of Zelda: Four Swords Adventures,67.5293422699338
+1035,The Legend of Zelda: The Minish Cap,84.0742667584913
+1036,The Legend of Zelda: Twilight Princess,85.5054220329624
+1037,The Legend of Zelda: Phantom Hourglass,76.45968981531621
+1038,The Legend of Zelda: Spirit Tracks,76.5687417384666
+1039,The Legend of Zelda: Ocarina of Time 3D,91.33748158917881
+1040,Alice: Madness Returns,72.7112726003336
+1041,The Legend of Zelda: Oracle of Ages,84.746333280806
+1042,Just Cause,63.2991600515513
+1043,Sacred 2: Fallen Angel,67.73290941754729
+1044,SiN Episodes,78.4300136951024
+1045,SiN,82.3216370026209
+1046,Star Control II,95.83382849321531
+1047,Worms 3D,71.9244216385097
+1048,Hitman: Blood Money,83.4042316114059
+1049,Hitman: Contracts,77.40396957895621
+1050,Hitman: Codename 47,75.4346615126778
+1051,Mirror's Edge,77.85699719818331
+1052,The Lord of the Rings: War in the North,70.2177617496241
+1054,Oil Rush,50.0
+1055,Red Orchestra 2: Heroes of Stalingrad,70.66587271467989
+1056,Deep Black,40.0
+1057,Unstoppable Gorg,60.0
+1058,LittleBigPlanet,78.9040605897199
+1059,Kingdoms of Amalur: Reckoning,76.38119037103979
+1060,It Came from the Desert,68.6261301428891
+1062,Alan Wake,81.8293317144581
+1063,Kirby's Dream Land,79.10638382366871
+1064,The Secret World,74.85055394179119
+1065,Street Fighter X Tekken,73.44115785151389
+1066,Super Mario Bros.: The Lost Levels,74.31705668732701
+1067,Super Mario Bros. 2,77.10815936146301
+1068,Super Mario Bros. 3,89.1400647652421
+1069,Super Mario Land,74.8349412601244
+1070,Super Mario World,93.00695884321719
+1071,Super Mario Land 2: 6 Golden Coins,80.49247998351129
+1072,Wario Land: Super Mario Land 3,79.9687677194521
+1073,Super Mario World 2: Yoshi's Island,88.9371405543492
+1074,Super Mario 64,90.1769234471837
+1075,Super Mario Sunshine,82.3946513881087
+1076,New Super Mario Bros.,82.45408113914539
+1077,Super Mario Galaxy,88.4609724128571
+1078,Super Mario Galaxy 2,89.1119339881128
+1079,Super Mario 3D Land,80.7300535023225
+1080,New Super Mario Bros. 2,72.2165960024299
+1081,The Elder Scrolls Online,70.94783309248041
+1082,Resident Evil 6,67.2822270915668
+1083,Wipeout,71.81543738478669
+1086,Donkey Kong,71.6998882647316
+1087,Donkey Kong Junior,73.6632231794152
+1088,Donkey Kong 3,59.5753572648721
+1089,Donkey Kong,82.4490376490565
+1090,Donkey Kong Country,85.30908492992029
+1091,Donkey Kong Land,62.4749481232413
+1092,Donkey Kong Country 2: Diddy's Kong Quest,89.17334296593269
+1093,Donkey Kong Land 2,78.840480641845
+1094,Donkey Kong Country 3: Dixie Kong's Double Trouble!,79.2228783274845
+1095,Donkey Kong Land III,70.07473339572411
+1096,Donkey Kong 64,72.1349172898669
+1097,Donkey Kong Jungle Beat,67.5849227455643
+1098,DK: King of Swing,70.0
+1099,DK: Jungle Climber,60.8939579914218
+1100,Donkey Kong Country Returns,82.01284300436271
+1101,Metroid,72.5212644557058
+1102,Metroid II: Return of Samus,69.5145361417905
+1103,Super Metroid,92.8879388999472
+1104,Metroid Fusion,83.4979109083575
+1105,Metroid Prime,92.1656797477344
+1107,Metroid: Zero Mission,87.5819864535398
+1108,Metroid Prime 2: Echoes,86.7999276930238
+1109,Metroid Prime Pinball,60.8076142052482
+1110,Metroid Prime Hunters,69.9792650492374
+1111,Metroid Prime 3: Corruption,89.62348970880728
+1112,Metroid Prime: Trilogy,90.19259468325441
+1113,Metroid: Other M,70.5142132663574
+1114,Castlevania,78.46120363834589
+1115,Vampire Killer,85.7379626720639
+1116,Castlevania II: Simon's Quest,60.0518561722951
+1117,Haunted Castle,60.8165833131919
+1118,Castlevania: The Adventure,50.9717269173202
+1119,Castlevania III: Dracula's Curse,76.1189557202224
+1120,Kid Dracula,69.29822969968211
+1121,Watch_Dogs,73.3666054841369
+1122,Call of Duty: Black Ops II,72.7530923270122
+1123,Castlevania II: Belmont's Revenge,70.7535939428802
+1124,Super Castlevania IV,76.8156619960964
+1125,Kid Dracula,73.9312743575379
+1127,Castlevania: Bloodlines,74.5109203795388
+1128,Castlevania: Symphony of the Night,91.7453772839998
+1129,Castlevania Legends,59.4496432836127
+1130,Castlevania,33.3530308851764
+1131,Castlevania: Legacy of Darkness,59.9825446978498
+1132,Castlevania: Circle of the Moon,65.4749236562711
+1133,Castlevania: Harmony of Dissonance,75.6466898322664
+1134,Castlevania: Aria of Sorrow,87.9443927077647
+1135,Castlevania: Lament of Innocence,79.2930957069885
+1136,Castlevania: Dawn of Sorrow,84.1162058876602
+1137,Castlevania: Curse of Darkness,73.9315362242126
+1138,Castlevania: Portrait of Ruin,75.23238609445241
+1139,Castlevania: Rondo of Blood,80.9069203295889
+1141,Castlevania: Order of Ecclesia,83.12096195457389
+1142,Castlevania Judgment,55.0184433028577
+1144,Men of War: Assault Squad,79.8642006622154
+1146,Castlevania: The Adventure ReBirth,76.4053904285064
+1147,Castlevania: Harmony of Despair,70.1673831255521
+1149,Castlevania: Lords of Shadow - Mirror of Fate,67.1597772398011
+1150,Broken Sword II: The Smoking Mirror,84.02214924415921
+1151,Broken Sword: The Sleeping Dragon,71.9184790500635
+1152,Broken Sword: The Angel of Death,69.40497593213979
+1156,Tomb Raider II,81.7918011041678
+1157,Tomb Raider III: Adventures of Lara Croft,78.20092430328171
+1158,Tomb Raider: The Last Revelation,80.36093053935718
+1159,Tomb Raider: The Angel of Darkness,63.2317756130094
+1160,Tomb Raider: Chronicles,69.0126037185549
+1161,Tomb Raider: Legend,76.1311487024341
+1162,Tomb Raider: Anniversary,77.64244915453679
+1163,Tomb Raider: Underworld,75.3682629358841
+1164,Tomb Raider,82.4425887952523
+1165,Meteos,84.2275486442906
+1166,Meteos: Disney Magic,64.0
+1168,Destruction Derby,79.24550034416589
+1169,Destruction Derby Raw,65.1590882897898
+1170,Destruction Derby 2,73.3313074211663
+1172,Golden Sun,79.9230047938551
+1173,Golden Sun: The Lost Age,88.0836673456165
+1174,Golden Sun: Dark Dawn,70.0570091597291
+1175,Alundra,73.05431039745281
+1176,Alundra 2: A New Legend Begins,50.7190646188134
+1177,Lufia & the Fortress of Doom,63.84027187765511
+1178,Lufia II: Rise of the Sinistrals,80.02124042910151
+1179,Lufia: The Legend Returns,90.0
+1181,Lufia: Curse of the Sinistrals,83.0
+1182,Castlevania: Lords of Shadow 2,73.7914992776563
+1183,Guild Wars 2,80.34027286464561
+1184,World of Tanks,76.4474605022276
+1185,Crash Bandicoot,81.40820135856251
+1186,Crash Bandicoot 2: Cortex Strikes Back,83.8296333214789
+1187,Crash Bandicoot: Warped,83.3169156967996
+1188,Crash Bandicoot: The Wrath of Cortex,67.3663845596913
+1189,Crash Twinsanity,69.6501557890665
+1190,Crash of the Titans,71.3171963367523
+1191,Crash: Mind Over Mutant,57.2204106251095
+1192,Crash Team Racing,84.3831527286012
+1193,Crash Nitro Kart,69.34977525692099
+1194,Crash Tag Team Racing,68.5458235191975
+1195,Crash Bash,72.2883203479242
+1196,Crash Boom Bang!,22.2533982801775
+1197,Crash Bandicoot: The Huge Adventure,68.6850206886904
+1198,Crash Bandicoot 2: N-Tranced,73.7119983213237
+1199,Crash Bandicoot Purple: Ripto's Rampage,56.93644624681369
+1200,Tales of Phantasia,86.6690248373417
+1201,Tales of Destiny,82.9617200316183

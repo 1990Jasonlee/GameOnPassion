@@ -22,7 +22,7 @@ def get_games1(last, wrap):
     return wrap.api_request('games', options)
 
 
-def make_list1(end: int = 100):
+def make_list1(end: int = 1000):
     last = 0
 
     with open(os.path.join(os.getcwd(), 'games1.csv'), 'w', newline='', encoding='utf-8') as myfile:
