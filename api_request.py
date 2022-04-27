@@ -4,8 +4,8 @@ import time
 
 
 file = 0
-token = 'Bearer%20awezqu488bbrfihoev5yxu4oe2h0yt'
-client_id = 'tvm3g7znmadal06thlqf63p41ll5kz'
+token = ''
+client_id = ''
 
 while file < 50:
     time.sleep(10)
