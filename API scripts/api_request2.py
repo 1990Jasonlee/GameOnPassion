@@ -25,7 +25,7 @@ def get_games2(last, wrap):
 def make_list2(end: int = 1000):
     last = 0
 
-    with open(os.path.join(os.getcwd(), 'games2.csv'), 'w', newline='', encoding='utf-8') as myfile:
+    with open(os.path.join(os.getcwd(), '../Data/games2.csv'), 'w', newline='', encoding='utf-8') as myfile:
         wr = csv.writer(myfile)
         for last in range(0, end, LIMIT):
             wr.writerows(

@@ -17,13 +17,13 @@ def get_games(last, wrap):
 
     print('returning {0}'.format(last))
     time.sleep(1)
-    return wrap.api_request('game_modes', options)
+    return wrap.api_request('genres', options)
 
 
 def make_list(end: int = 50):
     last = 0
 
-    with open(os.path.join(os.getcwd(), 'mode.csv'), 'w', newline='', encoding='utf-8') as myfile:
+    with open(os.path.join(os.getcwd(), '../Data/genre.csv'), 'w', newline='', encoding='utf-8') as myfile:
         wr = csv.writer(myfile)
         for last in range(0, end, LIMIT):
             wr.writerows(

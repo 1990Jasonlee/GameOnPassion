@@ -5,19 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request1.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_request1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request2.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_request2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request4.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_request4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request5.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_request5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games.csv" beforeDir="false" afterPath="$PROJECT_DIR$/games.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/games1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/games2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/games4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/games5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_genre.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_genre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_mode.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_mode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_platform.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_platform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_request1.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_request1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_request2.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_request2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_request4.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_request4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_request5.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_request5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/genre.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mode.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/mode.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/platforms.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_request1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_request1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_request2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_request2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_request4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_request4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_request5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_request5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />

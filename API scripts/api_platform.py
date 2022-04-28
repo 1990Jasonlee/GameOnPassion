@@ -23,7 +23,7 @@ def get_games(last, wrap):
 def make_list(end: int = 200):
     last = 0
 
-    with open(os.path.join(os.getcwd(), 'platforms.csv'), 'w', newline='', encoding='utf-8') as myfile:
+    with open(os.path.join(os.getcwd(), '../Data/platforms.csv'), 'w', newline='', encoding='utf-8') as myfile:
         wr = csv.writer(myfile)
         for last in range(0, end, LIMIT):
             wr.writerows(
