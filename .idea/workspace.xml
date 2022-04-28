@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="" />
+    <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/data.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +29,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/API scripts/api_game_request.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -157,10 +159,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.api_game_request" />
         <item itemvalue="Python.api_platform_request" />
         <item itemvalue="Python.api_genre_request" />
         <item itemvalue="Python.api_gamemode_request" />
-        <item itemvalue="Python.api_game_request" />
         <item itemvalue="Python.api_cover_request" />
       </list>
     </recent_temporary>
