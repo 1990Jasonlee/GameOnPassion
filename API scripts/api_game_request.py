@@ -21,7 +21,7 @@ def get_games(offset=offset):
             'Content-Type': 'application/x-www-form-urlencoded',
         }
 
-        data = 'fields id, aggregated_rating, aggregated_rating_count, cover, first_release_date, ' \
+        data = 'fields id, aggregated_rating, aggregated_rating_count, cover, category, first_release_date, ' \
                'game_modes, genres, name, platforms, rating, rating_count, summary, total_rating, ' \
                f'total_rating_count; sort id asc; limit {limit}; offset {offset};'
         response = requests.post(url, headers=headers, data=data)
