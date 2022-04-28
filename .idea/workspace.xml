@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/API scripts/api_url.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameOn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GameOn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <recent name="$PROJECT_DIR$/API scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.api_url">
+  <component name="RunManager" selected="Python.api_test">
     <configuration name="api_request2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api_url" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="api_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_url.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +156,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.api_url" />
+        <item itemvalue="Python.api_test" />
         <item itemvalue="Python.api_request5" />
         <item itemvalue="Python.api_request4" />
         <item itemvalue="Python.api_request2" />
