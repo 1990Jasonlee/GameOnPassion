@@ -11,6 +11,7 @@ offset = 0
 limit = 500
 result = 1000
 
+
 def get_games(offset=offset):
     while True:
         headers = {
@@ -32,4 +33,6 @@ def get_games(offset=offset):
             json.dump(response.json(), f, ensure_ascii=False, indent=4)
             if result == offset:
                 break
+
+
 get_games()

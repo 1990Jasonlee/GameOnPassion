@@ -6,7 +6,7 @@ import requests
 igdb_token = os.environ.get('IGDB_TOKEN')
 igdb_id = os.environ.get('IGDB_ID')
 wrapper = IGDBWrapper(igdb_id, igdb_token)
-url = 'https://api.igdb.com/v4/covers'
+url = 'https://api.igdb.com/v4/game_modes'
 offset = 0
 limit = 500
 result = 1000
@@ -21,12 +21,12 @@ def get_games(offset=offset):
             'Content-Type': 'application/x-www-form-urlencoded',
         }
 
-        data = f'fields id, url; sort id asc; limit {limit}; offset {offset};'
+        data = f'fields id, name; sort id asc; limit {limit}; offset {offset};'
         response = requests.post(url, headers=headers, data=data)
         print(response)
         offset += limit
 
-        with open('../Data/data_url.json', 'w', encoding='utf-8') as f:
+        with open('../Data/data_gamemode.json', 'w', encoding='utf-8') as f:
 
             json.dump(response.json(), f, ensure_ascii=False, indent=4)
             if result == offset:
