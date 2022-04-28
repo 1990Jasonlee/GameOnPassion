@@ -1,0 +1,730 @@
+[
+    {
+        "id": 3,
+        "url": "https://www.igdb.com/platforms/linux"
+    },
+    {
+        "id": 4,
+        "url": "https://www.igdb.com/platforms/n64"
+    },
+    {
+        "id": 5,
+        "url": "https://www.igdb.com/platforms/wii"
+    },
+    {
+        "id": 6,
+        "url": "https://www.igdb.com/platforms/win"
+    },
+    {
+        "id": 7,
+        "url": "https://www.igdb.com/platforms/ps"
+    },
+    {
+        "id": 8,
+        "url": "https://www.igdb.com/platforms/ps2"
+    },
+    {
+        "id": 9,
+        "url": "https://www.igdb.com/platforms/ps3"
+    },
+    {
+        "id": 11,
+        "url": "https://www.igdb.com/platforms/xbox"
+    },
+    {
+        "id": 12,
+        "url": "https://www.igdb.com/platforms/xbox360"
+    },
+    {
+        "id": 13,
+        "url": "https://www.igdb.com/platforms/dos"
+    },
+    {
+        "id": 14,
+        "url": "https://www.igdb.com/platforms/mac"
+    },
+    {
+        "id": 15,
+        "url": "https://www.igdb.com/platforms/c64"
+    },
+    {
+        "id": 16,
+        "url": "https://www.igdb.com/platforms/amiga"
+    },
+    {
+        "id": 18,
+        "url": "https://www.igdb.com/platforms/nes"
+    },
+    {
+        "id": 19,
+        "url": "https://www.igdb.com/platforms/snes--1"
+    },
+    {
+        "id": 20,
+        "url": "https://www.igdb.com/platforms/nds"
+    },
+    {
+        "id": 21,
+        "url": "https://www.igdb.com/platforms/ngc"
+    },
+    {
+        "id": 22,
+        "url": "https://www.igdb.com/platforms/gbc"
+    },
+    {
+        "id": 23,
+        "url": "https://www.igdb.com/platforms/dc"
+    },
+    {
+        "id": 24,
+        "url": "https://www.igdb.com/platforms/gba"
+    },
+    {
+        "id": 25,
+        "url": "https://www.igdb.com/platforms/acpc"
+    },
+    {
+        "id": 26,
+        "url": "https://www.igdb.com/platforms/zxs"
+    },
+    {
+        "id": 27,
+        "url": "https://www.igdb.com/platforms/msx"
+    },
+    {
+        "id": 29,
+        "url": "https://www.igdb.com/platforms/smd"
+    },
+    {
+        "id": 30,
+        "url": "https://www.igdb.com/platforms/sega32"
+    },
+    {
+        "id": 32,
+        "url": "https://www.igdb.com/platforms/saturn"
+    },
+    {
+        "id": 33,
+        "url": "https://www.igdb.com/platforms/gb"
+    },
+    {
+        "id": 34,
+        "url": "https://www.igdb.com/platforms/android"
+    },
+    {
+        "id": 35,
+        "url": "https://www.igdb.com/platforms/gamegear"
+    },
+    {
+        "id": 37,
+        "url": "https://www.igdb.com/platforms/3ds"
+    },
+    {
+        "id": 38,
+        "url": "https://www.igdb.com/platforms/psp"
+    },
+    {
+        "id": 39,
+        "url": "https://www.igdb.com/platforms/ios"
+    },
+    {
+        "id": 41,
+        "url": "https://www.igdb.com/platforms/wiiu"
+    },
+    {
+        "id": 42,
+        "url": "https://www.igdb.com/platforms/ngage"
+    },
+    {
+        "id": 44,
+        "url": "https://www.igdb.com/platforms/zod"
+    },
+    {
+        "id": 46,
+        "url": "https://www.igdb.com/platforms/psvita"
+    },
+    {
+        "id": 47,
+        "url": "https://www.igdb.com/platforms/vc"
+    },
+    {
+        "id": 48,
+        "url": "https://www.igdb.com/platforms/ps4--1"
+    },
+    {
+        "id": 49,
+        "url": "https://www.igdb.com/platforms/xboxone"
+    },
+    {
+        "id": 50,
+        "url": "https://www.igdb.com/platforms/3do"
+    },
+    {
+        "id": 51,
+        "url": "https://www.igdb.com/platforms/fds"
+    },
+    {
+        "id": 52,
+        "url": "https://www.igdb.com/platforms/arcade"
+    },
+    {
+        "id": 53,
+        "url": "https://www.igdb.com/platforms/msx2"
+    },
+    {
+        "id": 55,
+        "url": "https://www.igdb.com/platforms/mobile"
+    },
+    {
+        "id": 57,
+        "url": "https://www.igdb.com/platforms/wonderswan"
+    },
+    {
+        "id": 58,
+        "url": "https://www.igdb.com/platforms/sfam"
+    },
+    {
+        "id": 59,
+        "url": "https://www.igdb.com/platforms/atari2600"
+    },
+    {
+        "id": 60,
+        "url": "https://www.igdb.com/platforms/atari7800"
+    },
+    {
+        "id": 61,
+        "url": "https://www.igdb.com/platforms/lynx"
+    },
+    {
+        "id": 62,
+        "url": "https://www.igdb.com/platforms/jaguar"
+    },
+    {
+        "id": 63,
+        "url": "https://www.igdb.com/platforms/atari-st"
+    },
+    {
+        "id": 64,
+        "url": "https://www.igdb.com/platforms/sms"
+    },
+    {
+        "id": 65,
+        "url": "https://www.igdb.com/platforms/atari8bit"
+    },
+    {
+        "id": 66,
+        "url": "https://www.igdb.com/platforms/atari5200"
+    },
+    {
+        "id": 67,
+        "url": "https://www.igdb.com/platforms/intellivision"
+    },
+    {
+        "id": 68,
+        "url": "https://www.igdb.com/platforms/colecovision"
+    },
+    {
+        "id": 69,
+        "url": "https://www.igdb.com/platforms/bbcmicro"
+    },
+    {
+        "id": 70,
+        "url": "https://www.igdb.com/platforms/vectrex"
+    },
+    {
+        "id": 71,
+        "url": "https://www.igdb.com/platforms/vic-20"
+    },
+    {
+        "id": 72,
+        "url": "https://www.igdb.com/platforms/ouya"
+    },
+    {
+        "id": 73,
+        "url": "https://www.igdb.com/platforms/blackberry"
+    },
+    {
+        "id": 74,
+        "url": "https://www.igdb.com/platforms/winphone"
+    },
+    {
+        "id": 75,
+        "url": "https://www.igdb.com/platforms/appleii"
+    },
+    {
+        "id": 77,
+        "url": "https://www.igdb.com/platforms/x1"
+    },
+    {
+        "id": 78,
+        "url": "https://www.igdb.com/platforms/segacd"
+    },
+    {
+        "id": 79,
+        "url": "https://www.igdb.com/platforms/neogeomvs"
+    },
+    {
+        "id": 80,
+        "url": "https://www.igdb.com/platforms/neogeoaes"
+    },
+    {
+        "id": 82,
+        "url": "https://www.igdb.com/platforms/browser"
+    },
+    {
+        "id": 84,
+        "url": "https://www.igdb.com/platforms/sg1000"
+    },
+    {
+        "id": 85,
+        "url": "https://www.igdb.com/platforms/donner30"
+    },
+    {
+        "id": 86,
+        "url": "https://www.igdb.com/platforms/turbografx16--1"
+    },
+    {
+        "id": 87,
+        "url": "https://www.igdb.com/platforms/virtualboy"
+    },
+    {
+        "id": 88,
+        "url": "https://www.igdb.com/platforms/odyssey--1"
+    },
+    {
+        "id": 89,
+        "url": "https://www.igdb.com/platforms/microvision--1"
+    },
+    {
+        "id": 90,
+        "url": "https://www.igdb.com/platforms/cpet"
+    },
+    {
+        "id": 91,
+        "url": "https://www.igdb.com/platforms/astrocade"
+    },
+    {
+        "id": 93,
+        "url": "https://www.igdb.com/platforms/c16"
+    },
+    {
+        "id": 94,
+        "url": "https://www.igdb.com/platforms/c-plus-4"
+    },
+    {
+        "id": 95,
+        "url": "https://www.igdb.com/platforms/pdp1"
+    },
+    {
+        "id": 96,
+        "url": "https://www.igdb.com/platforms/pdp10"
+    },
+    {
+        "id": 97,
+        "url": "https://www.igdb.com/platforms/pdp-8--1"
+    },
+    {
+        "id": 98,
+        "url": "https://www.igdb.com/platforms/gt40"
+    },
+    {
+        "id": 99,
+        "url": "https://www.igdb.com/platforms/famicom"
+    },
+    {
+        "id": 100,
+        "url": "https://www.igdb.com/platforms/analogueelectronics"
+    },
+    {
+        "id": 101,
+        "url": "https://www.igdb.com/platforms/nimrod"
+    },
+    {
+        "id": 102,
+        "url": "https://www.igdb.com/platforms/edsac--1"
+    },
+    {
+        "id": 103,
+        "url": "https://www.igdb.com/platforms/pdp-7--1"
+    },
+    {
+        "id": 104,
+        "url": "https://www.igdb.com/platforms/hp2100"
+    },
+    {
+        "id": 105,
+        "url": "https://www.igdb.com/platforms/hp3000"
+    },
+    {
+        "id": 106,
+        "url": "https://www.igdb.com/platforms/sdssigma7"
+    },
+    {
+        "id": 107,
+        "url": "https://www.igdb.com/platforms/call-a-computer"
+    },
+    {
+        "id": 108,
+        "url": "https://www.igdb.com/platforms/pdp11"
+    },
+    {
+        "id": 109,
+        "url": "https://www.igdb.com/platforms/cdccyber70"
+    },
+    {
+        "id": 110,
+        "url": "https://www.igdb.com/platforms/plato--1"
+    },
+    {
+        "id": 111,
+        "url": "https://www.igdb.com/platforms/imlac-pds1"
+    },
+    {
+        "id": 112,
+        "url": "https://www.igdb.com/platforms/microcomputer--1"
+    },
+    {
+        "id": 113,
+        "url": "https://www.igdb.com/platforms/onlive-game-system"
+    },
+    {
+        "id": 114,
+        "url": "https://www.igdb.com/platforms/amiga-cd32"
+    },
+    {
+        "id": 115,
+        "url": "https://www.igdb.com/platforms/apple-iigs"
+    },
+    {
+        "id": 116,
+        "url": "https://www.igdb.com/platforms/acorn-archimedes"
+    },
+    {
+        "id": 117,
+        "url": "https://www.igdb.com/platforms/philips-cd-i"
+    },
+    {
+        "id": 118,
+        "url": "https://www.igdb.com/platforms/fm-towns"
+    },
+    {
+        "id": 119,
+        "url": "https://www.igdb.com/platforms/neo-geo-pocket"
+    },
+    {
+        "id": 120,
+        "url": "https://www.igdb.com/platforms/neo-geo-pocket-color"
+    },
+    {
+        "id": 121,
+        "url": "https://www.igdb.com/platforms/sharp-x68000"
+    },
+    {
+        "id": 122,
+        "url": "https://www.igdb.com/platforms/nuon"
+    },
+    {
+        "id": 123,
+        "url": "https://www.igdb.com/platforms/wonderswan-color"
+    },
+    {
+        "id": 124,
+        "url": "https://www.igdb.com/platforms/swancrystal"
+    },
+    {
+        "id": 125,
+        "url": "https://www.igdb.com/platforms/pc-8801"
+    },
+    {
+        "id": 126,
+        "url": "https://www.igdb.com/platforms/trs-80"
+    },
+    {
+        "id": 127,
+        "url": "https://www.igdb.com/platforms/fairchild-channel-f"
+    },
+    {
+        "id": 128,
+        "url": "https://www.igdb.com/platforms/supergrafx"
+    },
+    {
+        "id": 129,
+        "url": "https://www.igdb.com/platforms/ti-99"
+    },
+    {
+        "id": 130,
+        "url": "https://www.igdb.com/platforms/switch"
+    },
+    {
+        "id": 131,
+        "url": "https://www.igdb.com/platforms/nintendo-playstation"
+    },
+    {
+        "id": 132,
+        "url": "https://www.igdb.com/platforms/amazon-fire-tv"
+    },
+    {
+        "id": 133,
+        "url": "https://www.igdb.com/platforms/philips-videopac-g7000"
+    },
+    {
+        "id": 134,
+        "url": "https://www.igdb.com/platforms/acorn-electron"
+    },
+    {
+        "id": 135,
+        "url": "https://www.igdb.com/platforms/hyper-neo-geo-64"
+    },
+    {
+        "id": 136,
+        "url": "https://www.igdb.com/platforms/neo-geo-cd"
+    },
+    {
+        "id": 137,
+        "url": "https://www.igdb.com/platforms/new-nintendo-3ds"
+    },
+    {
+        "id": 138,
+        "url": "https://www.igdb.com/platforms/vc-4000"
+    },
+    {
+        "id": 139,
+        "url": "https://www.igdb.com/platforms/1292-advanced-programmable-video-system"
+    },
+    {
+        "id": 140,
+        "url": "https://www.igdb.com/platforms/ay-3-8500"
+    },
+    {
+        "id": 141,
+        "url": "https://www.igdb.com/platforms/ay-3-8610"
+    },
+    {
+        "id": 142,
+        "url": "https://www.igdb.com/platforms/pc-50x-family"
+    },
+    {
+        "id": 143,
+        "url": "https://www.igdb.com/platforms/ay-3-8760"
+    },
+    {
+        "id": 144,
+        "url": "https://www.igdb.com/platforms/ay-3-8710"
+    },
+    {
+        "id": 145,
+        "url": "https://www.igdb.com/platforms/ay-3-8603"
+    },
+    {
+        "id": 146,
+        "url": "https://www.igdb.com/platforms/ay-3-8605"
+    },
+    {
+        "id": 147,
+        "url": "https://www.igdb.com/platforms/ay-3-8606"
+    },
+    {
+        "id": 148,
+        "url": "https://www.igdb.com/platforms/ay-3-8607"
+    },
+    {
+        "id": 149,
+        "url": "https://www.igdb.com/platforms/pc-98"
+    },
+    {
+        "id": 150,
+        "url": "https://www.igdb.com/platforms/turbografx-16-slash-pc-engine-cd"
+    },
+    {
+        "id": 151,
+        "url": "https://www.igdb.com/platforms/trs-80-color-computer"
+    },
+    {
+        "id": 152,
+        "url": "https://www.igdb.com/platforms/fm-7"
+    },
+    {
+        "id": 153,
+        "url": "https://www.igdb.com/platforms/dragon-32-slash-64"
+    },
+    {
+        "id": 154,
+        "url": "https://www.igdb.com/platforms/amstrad-pcw"
+    },
+    {
+        "id": 155,
+        "url": "https://www.igdb.com/platforms/tatung-einstein"
+    },
+    {
+        "id": 156,
+        "url": "https://www.igdb.com/platforms/thomson-mo5"
+    },
+    {
+        "id": 157,
+        "url": "https://www.igdb.com/platforms/nec-pc-6000-series"
+    },
+    {
+        "id": 158,
+        "url": "https://www.igdb.com/platforms/commodore-cdtv"
+    },
+    {
+        "id": 159,
+        "url": "https://www.igdb.com/platforms/nintendo-dsi"
+    },
+    {
+        "id": 161,
+        "url": "https://www.igdb.com/platforms/windows-mixed-reality"
+    },
+    {
+        "id": 162,
+        "url": "https://www.igdb.com/platforms/oculus-vr"
+    },
+    {
+        "id": 163,
+        "url": "https://www.igdb.com/platforms/steam-vr"
+    },
+    {
+        "id": 164,
+        "url": "https://www.igdb.com/platforms/daydream"
+    },
+    {
+        "id": 165,
+        "url": "https://www.igdb.com/platforms/playstation-vr"
+    },
+    {
+        "id": 166,
+        "url": "https://www.igdb.com/platforms/pokemon-mini"
+    },
+    {
+        "id": 167,
+        "url": "https://www.igdb.com/platforms/ps5"
+    },
+    {
+        "id": 169,
+        "url": "https://www.igdb.com/platforms/series-x"
+    },
+    {
+        "id": 170,
+        "url": "https://www.igdb.com/platforms/stadia"
+    },
+    {
+        "id": 203,
+        "url": "https://www.igdb.com/platforms/duplicate-stadia"
+    },
+    {
+        "id": 236,
+        "url": "https://www.igdb.com/platforms/exidy-sorcerer"
+    },
+    {
+        "id": 237,
+        "url": "https://www.igdb.com/platforms/sol-20"
+    },
+    {
+        "id": 238,
+        "url": "https://www.igdb.com/platforms/dvd-player"
+    },
+    {
+        "id": 239,
+        "url": "https://www.igdb.com/platforms/blu-ray-player"
+    },
+    {
+        "id": 240,
+        "url": "https://www.igdb.com/platforms/zeebo"
+    },
+    {
+        "id": 274,
+        "url": "https://www.igdb.com/platforms/pc-fx"
+    },
+    {
+        "id": 306,
+        "url": "https://www.igdb.com/platforms/satellaview"
+    },
+    {
+        "id": 307,
+        "url": "https://www.igdb.com/platforms/game-and-watch"
+    },
+    {
+        "id": 308,
+        "url": "https://www.igdb.com/platforms/playdia"
+    },
+    {
+        "id": 309,
+        "url": "https://www.igdb.com/platforms/evercade"
+    },
+    {
+        "id": 339,
+        "url": "https://www.igdb.com/platforms/sega-pico"
+    },
+    {
+        "id": 372,
+        "url": "https://www.igdb.com/platforms/ooparts"
+    },
+    {
+        "id": 373,
+        "url": "https://www.igdb.com/platforms/sinclair-zx81"
+    },
+    {
+        "id": 374,
+        "url": "https://www.igdb.com/platforms/sharp-mz-2200"
+    },
+    {
+        "id": 375,
+        "url": "https://www.igdb.com/platforms/epoch-cassette-vision"
+    },
+    {
+        "id": 376,
+        "url": "https://www.igdb.com/platforms/epoch-super-cassette-vision"
+    },
+    {
+        "id": 377,
+        "url": "https://www.igdb.com/platforms/plug-and-play"
+    },
+    {
+        "id": 378,
+        "url": "https://www.igdb.com/platforms/gamate"
+    },
+    {
+        "id": 379,
+        "url": "https://www.igdb.com/platforms/game-dot-com"
+    },
+    {
+        "id": 380,
+        "url": "https://www.igdb.com/platforms/casio-loopy"
+    },
+    {
+        "id": 381,
+        "url": "https://www.igdb.com/platforms/playdate"
+    },
+    {
+        "id": 382,
+        "url": "https://www.igdb.com/platforms/intellivision-amico"
+    },
+    {
+        "id": 384,
+        "url": "https://www.igdb.com/platforms/oculus-quest"
+    },
+    {
+        "id": 385,
+        "url": "https://www.igdb.com/platforms/oculus-rift"
+    },
+    {
+        "id": 386,
+        "url": "https://www.igdb.com/platforms/oculus-quest-2"
+    },
+    {
+        "id": 387,
+        "url": "https://www.igdb.com/platforms/oculus-go"
+    },
+    {
+        "id": 388,
+        "url": "https://www.igdb.com/platforms/gear-vr"
+    },
+    {
+        "id": 389,
+        "url": "https://www.igdb.com/platforms/airconsole"
+    },
+    {
+        "id": 390,
+        "url": "https://www.igdb.com/platforms/playstation-vr2"
+    }
+]
