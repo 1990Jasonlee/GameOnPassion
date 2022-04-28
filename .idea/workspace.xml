@@ -157,10 +157,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.api_game_request" />
         <item itemvalue="Python.api_platform_request" />
         <item itemvalue="Python.api_genre_request" />
         <item itemvalue="Python.api_gamemode_request" />
+        <item itemvalue="Python.api_game_request" />
         <item itemvalue="Python.api_cover_request" />
       </list>
     </recent_temporary>

@@ -28,7 +28,7 @@ def get_games(offset=offset):
         print(response)
         offset += limit
 
-        with open('../Data/data.json', 'w', encoding='utf-8') as f:
+        with open('../Data/data.json', 'a', encoding='utf-8') as f:
 
             json.dump(response.json(), f, ensure_ascii=False, indent=4)
             if result == offset:
