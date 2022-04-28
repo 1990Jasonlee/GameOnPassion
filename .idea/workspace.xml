@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/API scripts/api_genre_request.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API scripts/api_cover_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_cover_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API scripts/api_game_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_game_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API scripts/api_gamemode_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_gamemode_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/data_url.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/data_url.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <recent name="$PROJECT_DIR$/API scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.api_cover_request">
+  <component name="RunManager" selected="Python.api_genre_request">
     <configuration name="api_cover_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api_request4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="api_gamemode_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_request4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_gamemode_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api_request5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="api_genre_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_request5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_genre_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.api_genre_request" />
+        <item itemvalue="Python.api_gamemode_request" />
         <item itemvalue="Python.api_cover_request" />
         <item itemvalue="Python.api_game_request" />
         <item itemvalue="Python.api_test" />
-        <item itemvalue="Python.api_request5" />
-        <item itemvalue="Python.api_request4" />
       </list>
     </recent_temporary>
   </component>
