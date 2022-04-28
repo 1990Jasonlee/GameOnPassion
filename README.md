@@ -10,4 +10,6 @@ learning/prediction model. It will include a filter allowing results to be sorte
 console, genre, reviewer ratings and other criteria that factors into whether a person would 
 play the game. 
  
-This project will be done using Python, Pandas, SQL database, Django and Heroku.
+This project will be done utilizing Python, Docker and Airflow to extract API data, 
+transforming with Pandas, and loading in a SQL database afterwards. 
+The front end will be created using Django and hosted on Heroku.
