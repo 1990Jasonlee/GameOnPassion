@@ -22,7 +22,7 @@ def get_games(offset=offset):
         }
 
         data = 'fields id, aggregated_rating, aggregated_rating_count, cover, first_release_date, ' \
-               'game_modes, genres, name, platforms, rating, rating_count, summary, themes, total_rating, ' \
+               'game_modes, genres, name, platforms, rating, rating_count, summary, total_rating, ' \
                f'total_rating_count; sort id asc; limit {limit}; offset {offset};'
         response = requests.post(url, headers=headers, data=data)
         print(response)
