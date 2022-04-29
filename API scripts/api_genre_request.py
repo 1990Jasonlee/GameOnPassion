@@ -1,3 +1,4 @@
+import csv
 import json
 import os
 from igdb.wrapper import IGDBWrapper

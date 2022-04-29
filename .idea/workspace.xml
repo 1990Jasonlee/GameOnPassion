@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="" />
+    <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API scripts/api_genre_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_genre_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOnJson.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GameOnJson.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,7 @@
       <recent name="$PROJECT_DIR$/API scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.api_platform_request">
+  <component name="RunManager" selected="Python.api_genre_request">
     <configuration name="api_cover_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,9 +158,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.api_genre_request" />
         <item itemvalue="Python.api_platform_request" />
         <item itemvalue="Python.api_game_request" />
-        <item itemvalue="Python.api_genre_request" />
         <item itemvalue="Python.api_gamemode_request" />
         <item itemvalue="Python.api_cover_request" />
       </list>
