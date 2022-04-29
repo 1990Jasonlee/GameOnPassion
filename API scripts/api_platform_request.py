@@ -21,7 +21,7 @@ def get_games(offset=offset):
             'Content-Type': 'application/x-www-form-urlencoded',
         }
 
-        data = f'fields id, url; sort id asc; limit {limit}; offset {offset};'
+        data = f'fields id, name; sort id asc; limit {limit}; offset {offset};'
         response = requests.post(url, headers=headers, data=data)
         print(response)
         offset += limit
