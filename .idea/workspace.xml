@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/api_genre.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_genre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_mode.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_mode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_platform.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_platform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request1.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_request1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request2.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_request2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request4.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_request4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_request5.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_request5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games5.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/genre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/genre.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mode.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/mode.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/platforms.csv" afterDir="false" />
-    </list>
+    <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,8 +40,14 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/jason/dev/GameOnPassion&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.api_request5">
-    <configuration name="api_request1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data" />
+      <recent name="$PROJECT_DIR$/API scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.api_platform_request">
+    <configuration name="api_cover_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_request1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_cover_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api_request2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="api_game_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_request2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_game_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api_request4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="api_gamemode_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_request4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_gamemode_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api_request5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="api_genre_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_request5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_genre_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="api_platform_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API scripts/api_platform_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.api_request5" />
-        <item itemvalue="Python.api_request4" />
-        <item itemvalue="Python.api_request2" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.api_request1" />
+        <item itemvalue="Python.api_platform_request" />
+        <item itemvalue="Python.api_game_request" />
+        <item itemvalue="Python.api_genre_request" />
+        <item itemvalue="Python.api_gamemode_request" />
+        <item itemvalue="Python.api_cover_request" />
       </list>
     </recent_temporary>
   </component>
