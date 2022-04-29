@@ -1,0 +1,653 @@
+1,Simulator
+2,Adventure
+3,Simulator
+4,Adventure
+7,Strategy
+8,Strategy
+9,Strategy
+10,Adventure
+12,Adventure
+13,Turn-based strategy (TBS)
+14,Turn-based strategy (TBS)
+15,Role-playing (RPG)
+16,Role-playing (RPG)
+17,Strategy
+20,Role-playing (RPG)
+21,Role-playing (RPG)
+22,Role-playing (RPG)
+23,Role-playing (RPG)
+24,Turn-based strategy (TBS)
+25,Turn-based strategy (TBS)
+26,Strategy
+27,Simulator
+28,Adventure
+29,Adventure
+30,Puzzle
+31,Adventure
+32,Puzzle
+33,Adventure
+34,Real Time Strategy (RTS)
+35,Strategy
+36,Strategy
+38,Adventure
+39,Shooter
+40,Racing
+41,Role-playing (RPG)
+42,Role-playing (RPG)
+43,Role-playing (RPG)
+44,Strategy
+45,Strategy
+46,Strategy
+47,Adventure
+48,Hack and slash/Beat 'em up
+49,Tactical
+50,Tactical
+51,Tactical
+53,Adventure
+55,Adventure
+56,Adventure
+57,Adventure
+58,Adventure
+59,Adventure
+60,Puzzle
+61,Puzzle
+62,Puzzle
+63,Puzzle
+64,Puzzle
+65,Puzzle
+66,Puzzle
+67,Turn-based strategy (TBS)
+68,Turn-based strategy (TBS)
+69,Turn-based strategy (TBS)
+70,Simulator
+71,Platform
+72,Platform
+73,Role-playing (RPG)
+74,Role-playing (RPG)
+75,Role-playing (RPG)
+77,Strategy
+78,Adventure
+80,Adventure
+82,Strategy
+83,Hack and slash/Beat 'em up
+84,Hack and slash/Beat 'em up
+85,Strategy
+86,Strategy
+87,Strategy
+89,Strategy
+90,Simulator
+91,Simulator
+92,Simulator
+93,Simulator
+94,Simulator
+95,Simulator
+96,Simulator
+97,Simulator
+99,Simulator
+100,Simulator
+101,Arcade
+102,Simulator
+103,Arcade
+104,Simulator
+106,Adventure
+107,Simulator
+109,Adventure
+111,Adventure
+112,Adventure
+116,Adventure
+117,Puzzle
+118,Strategy
+120,Hack and slash/Beat 'em up
+121,Arcade
+123,Adventure
+125,Strategy
+126,Hack and slash/Beat 'em up
+127,Adventure
+128,Adventure
+129,Strategy
+130,Strategy
+131,Strategy
+132,Strategy
+133,Strategy
+135,Adventure
+136,Hack and slash/Beat 'em up
+137,Hack and slash/Beat 'em up
+138,Puzzle
+139,Simulator
+140,Simulator
+142,Adventure
+143,Racing
+144,Strategy
+145,Simulator
+147,Simulator
+148,Tactical
+149,Simulator
+151,Strategy
+152,Adventure
+153,Adventure
+155,Adventure
+162,Arcade
+163,Simulator
+164,Adventure
+166,Simulator
+168,Simulator
+169,Simulator
+174,Strategy
+175,Strategy
+176,Sport
+180,Puzzle
+181,Puzzle
+184,Puzzle
+186,Adventure
+188,Adventure
+189,Adventure
+190,Adventure
+191,Puzzle
+192,Adventure
+193,Adventure
+195,Adventure
+202,Adventure
+206,Simulator
+207,Adventure
+209,Simulator
+210,Adventure
+212,Real Time Strategy (RTS)
+214,Adventure
+216,Adventure
+217,Role-playing (RPG)
+218,Platform
+219,Platform
+221,Adventure
+222,Adventure
+223,Simulator
+224,Simulator
+225,Simulator
+226,Simulator
+230,Strategy
+231,Puzzle
+232,Platform
+234,Strategy
+235,Simulator
+236,Puzzle
+237,Strategy
+238,Puzzle
+239,Strategy
+242,Strategy
+244,Strategy
+245,Strategy
+246,Hack and slash/Beat 'em up
+247,Puzzle
+248,Simulator
+250,Adventure
+251,Adventure
+253,Adventure
+254,Strategy
+255,Strategy
+257,Strategy
+260,Simulator
+264,Simulator
+270,Adventure
+273,Platform
+274,Strategy
+276,Simulator
+278,Puzzle
+279,Puzzle
+282,Adventure
+283,Simulator
+285,Strategy
+287,Role-playing (RPG)
+288,Simulator
+289,Simulator
+290,Tactical
+291,Simulator
+293,Strategy
+294,Strategy
+295,Strategy
+296,Adventure
+298,Strategy
+299,Simulator
+300,Simulator
+302,Strategy
+303,Simulator
+304,Adventure
+305,Simulator
+308,Simulator
+309,Strategy
+310,Strategy
+311,Simulator
+313,Simulator
+314,Tactical
+316,Strategy
+317,Simulator
+319,Strategy
+320,Role-playing (RPG)
+321,Strategy
+322,Adventure
+323,Puzzle
+324,Strategy
+325,Role-playing (RPG)
+327,Strategy
+330,Strategy
+331,Strategy
+332,Card & Board Game
+336,Adventure
+337,Puzzle
+339,Puzzle
+340,Strategy
+341,Puzzle
+344,Adventure
+345,Simulator
+346,Simulator
+352,Simulator
+357,Simulator
+358,Adventure
+359,Adventure
+360,Platform
+361,Adventure
+362,Strategy
+363,Strategy
+364,Strategy
+365,Strategy
+366,Strategy
+367,Strategy
+368,Strategy
+369,Strategy
+370,Strategy
+371,Strategy
+372,Strategy
+373,Strategy
+374,Adventure
+375,Adventure
+378,Strategy
+379,Tactical
+380,Tactical
+382,Strategy
+383,Hack and slash/Beat 'em up
+384,Adventure
+385,Adventure
+386,Strategy
+387,Adventure
+389,Adventure
+390,Arcade
+391,Role-playing (RPG)
+392,Strategy
+393,Adventure
+394,Simulator
+396,Adventure
+397,Adventure
+398,Adventure
+399,Adventure
+400,Adventure
+401,Adventure
+403,Adventure
+406,Adventure
+407,Adventure
+409,Adventure
+410,Adventure
+411,Adventure
+412,Simulator
+413,Adventure
+414,Strategy
+415,Adventure
+417,Adventure
+418,Adventure
+419,Adventure
+421,Turn-based strategy (TBS)
+423,Adventure
+424,Adventure
+425,Adventure
+426,Adventure
+427,Turn-based strategy (TBS)
+428,Strategy
+430,Adventure
+431,Platform
+432,Simulator
+434,Role-playing (RPG)
+436,Strategy
+437,Strategy
+438,Simulator
+440,Simulator
+441,Strategy
+442,Strategy
+443,Strategy
+444,Strategy
+445,Strategy
+446,Strategy
+447,Turn-based strategy (TBS)
+448,Simulator
+449,Simulator
+450,Simulator
+451,Puzzle
+452,Adventure
+453,Adventure
+454,Puzzle
+456,Strategy
+457,Strategy
+458,Strategy
+459,Puzzle
+460,Puzzle
+461,Adventure
+462,Adventure
+465,Strategy
+466,Strategy
+467,Strategy
+468,Strategy
+469,Strategy
+470,Strategy
+471,Adventure
+472,Adventure
+474,Adventure
+475,Hack and slash/Beat 'em up
+476,Adventure
+477,Tactical
+478,Adventure
+479,Tactical
+480,Adventure
+481,Adventure
+482,Adventure
+488,Adventure
+490,Adventure
+491,Adventure
+495,Role-playing (RPG)
+496,Adventure
+498,Role-playing (RPG)
+499,Adventure
+500,Adventure
+501,Adventure
+503,Sport
+504,Hack and slash/Beat 'em up
+505,Hack and slash/Beat 'em up
+506,Adventure
+507,Adventure
+508,Sport
+509,Racing
+512,Platform
+513,Hack and slash/Beat 'em up
+514,Adventure
+515,Hack and slash/Beat 'em up
+521,Adventure
+522,Adventure
+523,Platform
+524,Sport
+527,Indie
+528,Adventure
+529,Adventure
+530,Tactical
+531,Simulator
+532,Indie
+533,Adventure
+534,Puzzle
+535,Role-playing (RPG)
+536,Hack and slash/Beat 'em up
+538,Adventure
+540,Adventure
+541,Simulator
+542,Adventure
+543,Adventure
+549,Hack and slash/Beat 'em up
+550,Adventure
+551,Hack and slash/Beat 'em up
+552,Adventure
+553,Adventure
+555,Adventure
+557,Hack and slash/Beat 'em up
+558,Racing
+561,Sport
+562,Tactical
+563,Strategy
+564,Tactical
+565,Platform
+566,Adventure
+568,Hack and slash/Beat 'em up
+570,Hack and slash/Beat 'em up
+572,Simulator
+573,Adventure
+575,Racing
+576,Role-playing (RPG)
+578,Role-playing (RPG)
+585,Strategy
+586,Platform
+587,Strategy
+589,Strategy
+590,Strategy
+591,Strategy
+596,Simulator
+597,Tactical
+599,Strategy
+601,Role-playing (RPG)
+602,Adventure
+604,Puzzle
+605,Sport
+606,Strategy
+612,Adventure
+613,Real Time Strategy (RTS)
+614,Arcade
+616,Puzzle
+617,Strategy
+618,Strategy
+619,Simulator
+623,Simulator
+625,Adventure
+633,Strategy
+634,Turn-based strategy (TBS)
+635,Strategy
+636,Puzzle
+640,Simulator
+641,Simulator
+642,Simulator
+647,Strategy
+648,Strategy
+649,Strategy
+650,Strategy
+652,Strategy
+653,Real Time Strategy (RTS)
+654,Strategy
+655,Turn-based strategy (TBS)
+659,Strategy
+661,Strategy
+662,Simulator
+663,Strategy
+666,Shooter
+667,Simulator
+668,Simulator
+670,Strategy
+674,Strategy
+675,Simulator
+676,Strategy
+677,Simulator
+678,Strategy
+680,Strategy
+681,Simulator
+682,Simulator
+683,Strategy
+689,Simulator
+690,Simulator
+694,Adventure
+699,Sport
+707,Strategy
+708,Adventure
+716,Sport
+717,Sport
+718,Racing
+719,Simulator
+720,Strategy
+721,Strategy
+723,Turn-based strategy (TBS)
+724,Turn-based strategy (TBS)
+726,Strategy
+727,Simulator
+728,Simulator
+730,Racing
+731,Racing
+732,Racing
+733,Racing
+734,Strategy
+735,Strategy
+736,Simulator
+737,Simulator
+738,Simulator
+739,Strategy
+741,Strategy
+744,Puzzle
+748,Tactical
+749,Strategy
+750,Simulator
+751,Simulator
+753,Strategy
+758,Simulator
+759,Strategy
+760,Racing
+764,Platform
+766,Strategy
+767,Strategy
+769,Platform
+774,Adventure
+775,Strategy
+776,Sport
+777,Sport
+778,Sport
+781,Simulator
+783,Role-playing (RPG)
+784,Simulator
+786,Simulator
+787,Indie
+790,Turn-based strategy (TBS)
+791,Real Time Strategy (RTS)
+793,Simulator
+795,Sport
+797,Puzzle
+798,Adventure
+799,Strategy
+803,Simulator
+804,Simulator
+807,Simulator
+810,Simulator
+811,Sport
+813,Simulator
+814,Sport
+815,Sport
+816,Sport
+818,Strategy
+819,Racing
+825,Racing
+826,Racing
+827,Adventure
+832,Role-playing (RPG)
+834,Strategy
+836,Adventure
+837,Platform
+838,Simulator
+839,Simulator
+840,Strategy
+841,Simulator
+842,Simulator
+843,Adventure
+844,Shooter
+846,Adventure
+847,Adventure
+848,Strategy
+849,Strategy
+850,Turn-based strategy (TBS)
+851,Tactical
+852,Puzzle
+853,Strategy
+854,Adventure
+856,Sport
+857,Indie
+858,Indie
+860,Strategy
+862,Adventure
+863,Strategy
+864,Strategy
+865,Strategy
+866,Strategy
+868,Role-playing (RPG)
+869,Sport
+870,Strategy
+872,Strategy
+873,Racing
+874,Tactical
+876,Strategy
+879,Tactical
+880,Adventure
+881,Strategy
+885,Adventure
+888,Strategy
+890,Puzzle
+892,Puzzle
+893,Puzzle
+895,Adventure
+898,Simulator
+899,Simulator
+900,Strategy
+902,Turn-based strategy (TBS)
+904,Sport
+907,Sport
+908,Simulator
+909,Tactical
+910,Tactical
+911,Tactical
+912,Platform
+916,Adventure
+918,Strategy
+921,Strategy
+922,Simulator
+923,Sport
+924,Simulator
+929,Strategy
+932,Turn-based strategy (TBS)
+933,Strategy
+935,Simulator
+936,Sport
+937,Simulator
+939,Adventure
+941,Strategy
+942,Simulator
+943,Sport
+944,Sport
+945,Sport
+946,Sport
+947,Platform
+948,Platform
+951,Indie
+953,Sport
+955,Adventure
+956,Platform
+957,Platform
+959,Strategy
+961,Tactical
+962,Strategy
+964,Simulator
+965,Simulator
+966,Adventure
+968,Puzzle
+970,Adventure
+972,Puzzle
+973,Puzzle
+976,Adventure
+977,Adventure
+978,Adventure
+979,Tactical
+980,Racing
+981,Adventure
+983,Simulator
+984,Adventure
+988,Strategy
+993,Strategy
+996,Tactical
+997,Tactical
+998,Platform
+999,Puzzle
+1000,Puzzle
+1001,Puzzle
+1002,Platform
+1003,Shooter
+1004,Shooter
+1007,Adventure
+1008,Simulator
+1009,Adventure
+1010,Strategy
+1011,Role-playing (RPG)
+1013,Simulator
+1014,Adventure
+1015,Adventure
