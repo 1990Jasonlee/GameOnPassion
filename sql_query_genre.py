@@ -6,6 +6,11 @@ conn = psycopg2.connect(
 conn.autocommit = True
 cursor = conn.cursor()
 
+genre_info_table = '''COPY(
+                           genre_info(genre_id, name)
+                           from './genre_table.csv' delimiter ',' csv header;
+                           )'''
+
 genre_table = '''COPY(
                            game_genre(game_id, genre1, genre2, genre3, genre4, 
                            genre5, genre6, genre7, genre8, genre9) 
