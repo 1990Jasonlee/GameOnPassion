@@ -1,869 +1,1496 @@
 1,Shooter
 2,Simulator
-3,Shooter
-4,Shooter
 5,Role-playing (RPG)
 6,Role-playing (RPG)
-7,Role-playing (RPG)
-8,Role-playing (RPG)
 9,Role-playing (RPG)
-10,Role-playing (RPG)
 11,Role-playing (RPG)
-12,Role-playing (RPG)
 13,Role-playing (RPG)
 14,Role-playing (RPG)
-15,Shooter
 16,Shooter
-17,Role-playing (RPG)
 18,Shooter
 19,Shooter
 20,Shooter
-21,Shooter
 22,Shooter
 23,Shooter
 24,Strategy
-25,Strategy
-26,Real Time Strategy (RTS)
-27,Real Time Strategy (RTS)
-28,Point-and-click
-29,Point-and-click
-30,Point-and-click
-31,Point-and-click
-32,Point-and-click
-33,Point-and-click
-34,Shooter
 35,Real Time Strategy (RTS)
 36,Real Time Strategy (RTS)
 37,Shooter
 38,Shooter
 39,Fighting
-40,Shooter
 41,Shooter
-42,Shooter
-43,Shooter
-44,Role-playing (RPG)
-45,Role-playing (RPG)
-46,Role-playing (RPG)
-47,Hack and slash/Beat 'em up
-48,Puzzle
-49,Strategy
 50,Strategy
-51,Strategy
-52,Role-playing (RPG)
-53,Role-playing (RPG)
-54,Role-playing (RPG)
-55,Role-playing (RPG)
 56,Role-playing (RPG)
-57,Role-playing (RPG)
-58,Role-playing (RPG)
 59,Role-playing (RPG)
 60,Point-and-click
 61,Point-and-click
 62,Point-and-click
-63,Point-and-click
-64,Point-and-click
 65,Point-and-click
 66,Point-and-click
 67,Strategy
 68,Strategy
-69,Strategy
-70,Shooter
 71,Shooter
 72,Shooter
 73,Shooter
 74,Shooter
 75,Shooter
 76,Role-playing (RPG)
-77,Role-playing (RPG)
-78,Role-playing (RPG)
-79,Adventure
-80,Role-playing (RPG)
-81,Role-playing (RPG)
-82,Role-playing (RPG)
-83,Role-playing (RPG)
-84,Role-playing (RPG)
-85,Real Time Strategy (RTS)
 86,Real Time Strategy (RTS)
-87,Real Time Strategy (RTS)
-88,Adventure
-89,Real Time Strategy (RTS)
-90,Racing
-91,Racing
-92,Racing
-93,Racing
-94,Racing
-95,Racing
-96,Racing
-97,Racing
-98,Racing
-99,Racing
-100,Racing
-101,Racing
-102,Racing
-103,Racing
-104,Racing
-105,Racing
-106,Point-and-click
-107,Shooter
-109,Strategy
-111,Puzzle
-112,Hack and slash/Beat 'em up
-113,Adventure
-114,Role-playing (RPG)
-115,MOBA
 116,Role-playing (RPG)
-117,Platform
 118,Role-playing (RPG)
-119,Fighting
-120,Role-playing (RPG)
-121,Adventure
-122,Shooter
 123,Role-playing (RPG)
-124,Shooter
-125,Role-playing (RPG)
 126,Role-playing (RPG)
 127,Platform
-128,Platform
-129,Real Time Strategy (RTS)
 130,Real Time Strategy (RTS)
-131,Real Time Strategy (RTS)
 132,Real Time Strategy (RTS)
 133,Real Time Strategy (RTS)
-134,Hack and slash/Beat 'em up
-135,Hack and slash/Beat 'em up
-136,Shooter
-137,Role-playing (RPG)
-138,Platform
-139,Real Time Strategy (RTS)
-140,Real Time Strategy (RTS)
-141,Shooter
 142,Shooter
-143,Shooter
-144,Real Time Strategy (RTS)
-145,Role-playing (RPG)
-147,Role-playing (RPG)
-148,Shooter
-149,Shooter
-150,Shooter
-151,Real Time Strategy (RTS)
-152,Shooter
-153,Shooter
-154,Racing
-155,Puzzle
-156,Shooter
-157,Shooter
-158,Adventure
-160,Shooter
-161,Shooter
-162,Shooter
-163,Shooter
-164,Shooter
 166,Shooter
-168,Shooter
 169,Shooter
-170,Simulator
-172,Simulator
-174,Real Time Strategy (RTS)
-175,Simulator
-176,Racing
-180,Point-and-click
 181,Point-and-click
 184,Point-and-click
-185,Platform
-186,Point-and-click
-187,Adventure
-188,Fighting
-189,Platform
-190,Platform
 191,Point-and-click
 192,Point-and-click
 193,Point-and-click
-195,Platform
-196,Shooter
-200,Puzzle
 202,Point-and-click
-203,Simulator
-206,Role-playing (RPG)
 207,Point-and-click
-209,Racing
-210,Shooter
-211,Shooter
-212,Music
-214,Role-playing (RPG)
-215,Role-playing (RPG)
-216,Role-playing (RPG)
-217,Platform
-218,Shooter
-219,Shooter
-221,Point-and-click
 222,Point-and-click
-223,Role-playing (RPG)
-224,Role-playing (RPG)
-225,Role-playing (RPG)
-226,Role-playing (RPG)
 227,Role-playing (RPG)
 228,Role-playing (RPG)
-229,Role-playing (RPG)
 230,Real Time Strategy (RTS)
 231,Shooter
-232,Shooter
 233,Shooter
-234,Role-playing (RPG)
-235,Real Time Strategy (RTS)
-236,Point-and-click
-237,Simulator
-238,Point-and-click
 239,Real Time Strategy (RTS)
-240,Shooter
-241,Shooter
-242,Real Time Strategy (RTS)
-243,Quiz/Trivia
-244,Shooter
 245,Real Time Strategy (RTS)
 246,Role-playing (RPG)
 247,Shooter
-248,Real Time Strategy (RTS)
-250,Shooter
-251,Puzzle
-253,Role-playing (RPG)
-254,Simulator
 255,Role-playing (RPG)
 257,Real Time Strategy (RTS)
-260,Role-playing (RPG)
-264,Shooter
-270,Role-playing (RPG)
-271,Shooter
 272,Shooter
-273,Shooter
-274,Simulator
-275,Shooter
-276,Real Time Strategy (RTS)
-277,Shooter
-278,Point-and-click
-279,Point-and-click
-280,Shooter
-281,Shooter
-282,Role-playing (RPG)
-283,Real Time Strategy (RTS)
-284,Shooter
 285,Simulator
-286,Shooter
-287,Real Time Strategy (RTS)
 288,Shooter
-289,Real Time Strategy (RTS)
-290,Real Time Strategy (RTS)
-291,Real Time Strategy (RTS)
 293,Simulator
-294,Shooter
 295,Real Time Strategy (RTS)
-296,Shooter
-297,Shooter
-298,Real Time Strategy (RTS)
-299,Real Time Strategy (RTS)
-300,Real Time Strategy (RTS)
-301,Simulator
-302,Real Time Strategy (RTS)
 303,Real Time Strategy (RTS)
-304,Role-playing (RPG)
-305,Real Time Strategy (RTS)
-306,Shooter
-307,Shooter
-308,Real Time Strategy (RTS)
-309,Simulator
-310,Simulator
-311,Real Time Strategy (RTS)
 312,Shooter
-313,Shooter
-314,Shooter
 316,Shooter
-317,Shooter
-318,Role-playing (RPG)
-319,Shooter
-320,Shooter
-321,Real Time Strategy (RTS)
 322,Point-and-click
-323,Point-and-click
-324,Real Time Strategy (RTS)
-325,Shooter
-326,Shooter
 327,Real Time Strategy (RTS)
-328,Role-playing (RPG)
-329,Role-playing (RPG)
-330,Simulator
-331,Simulator
-332,Strategy
-333,Shooter
-334,Simulator
-335,Shooter
-336,Shooter
-337,Platform
-338,Shooter
 339,Shooter
-340,Real Time Strategy (RTS)
-341,Platform
-342,Shooter
-343,Shooter
-344,Shooter
-345,Shooter
-346,Shooter
-347,Shooter
-348,Shooter
-349,Shooter
-350,Shooter
-351,Shooter
-352,Shooter
-354,Shooter
-355,Shooter
-356,Shooter
-357,Shooter
-358,Platform
-359,Role-playing (RPG)
-360,Fighting
-361,Shooter
-362,Role-playing (RPG)
 363,Role-playing (RPG)
 364,Role-playing (RPG)
 365,Role-playing (RPG)
 366,Role-playing (RPG)
-367,Role-playing (RPG)
-368,Role-playing (RPG)
-369,Role-playing (RPG)
-370,Role-playing (RPG)
-371,Role-playing (RPG)
-372,Role-playing (RPG)
-373,Role-playing (RPG)
-374,Shooter
 375,Strategy
 376,Adventure
-377,Adventure
-378,Shooter
 379,Shooter
 380,Shooter
-381,Adventure
-382,Shooter
-383,Role-playing (RPG)
-384,Role-playing (RPG)
-385,Role-playing (RPG)
-386,Role-playing (RPG)
-387,Role-playing (RPG)
-388,Role-playing (RPG)
-389,Role-playing (RPG)
-390,Racing
-391,Fighting
-392,Role-playing (RPG)
-393,Role-playing (RPG)
 394,Role-playing (RPG)
-395,Role-playing (RPG)
-396,Role-playing (RPG)
-397,Role-playing (RPG)
 398,Role-playing (RPG)
-399,Role-playing (RPG)
-400,Role-playing (RPG)
-401,Role-playing (RPG)
 403,Role-playing (RPG)
-406,Role-playing (RPG)
-407,Role-playing (RPG)
-408,Role-playing (RPG)
-409,Role-playing (RPG)
-410,Role-playing (RPG)
-411,Role-playing (RPG)
-412,Role-playing (RPG)
-413,Role-playing (RPG)
-414,Role-playing (RPG)
-415,Role-playing (RPG)
-417,Role-playing (RPG)
 418,Role-playing (RPG)
-419,Role-playing (RPG)
 421,Role-playing (RPG)
-422,Racing
-423,Role-playing (RPG)
-424,Puzzle
-425,Role-playing (RPG)
 426,Role-playing (RPG)
 427,Role-playing (RPG)
 428,Role-playing (RPG)
-429,Shooter
-430,Shooter
-431,Shooter
-432,Real Time Strategy (RTS)
-433,Shooter
 434,Shooter
 436,Real Time Strategy (RTS)
-437,Real Time Strategy (RTS)
-438,Real Time Strategy (RTS)
-439,Hack and slash/Beat 'em up
 440,Real Time Strategy (RTS)
-441,Real Time Strategy (RTS)
-442,Real Time Strategy (RTS)
-443,Real Time Strategy (RTS)
-444,Real Time Strategy (RTS)
-445,Simulator
-446,Simulator
-447,Strategy
 448,Shooter
 449,Shooter
-450,Shooter
-451,Shooter
-452,Platform
-453,Hack and slash/Beat 'em up
-454,Platform
-455,Fighting
 456,Real Time Strategy (RTS)
 457,Real Time Strategy (RTS)
 458,Real Time Strategy (RTS)
-459,Point-and-click
 460,Point-and-click
-461,Point-and-click
-462,Point-and-click
-464,Shooter
-465,Real Time Strategy (RTS)
-466,Real Time Strategy (RTS)
-467,Real Time Strategy (RTS)
-468,Real Time Strategy (RTS)
-469,Real Time Strategy (RTS)
-470,Real Time Strategy (RTS)
-471,Shooter
 472,Role-playing (RPG)
-473,Shooter
 474,Shooter
-475,Role-playing (RPG)
-476,Shooter
-477,Strategy
-478,Role-playing (RPG)
 479,Shooter
-480,Puzzle
 481,Puzzle
-482,Puzzle
-483,Adventure
-484,Adventure
-485,Adventure
-486,Adventure
-487,Adventure
-488,Shooter
-489,Role-playing (RPG)
-490,Shooter
-491,Hack and slash/Beat 'em up
-492,Shooter
-493,Adventure
-494,Shooter
-495,Shooter
-496,Hack and slash/Beat 'em up
-497,Shooter
-498,Shooter
 499,Hack and slash/Beat 'em up
 500,Hack and slash/Beat 'em up
 501,Hack and slash/Beat 'em up
-502,Shooter
-503,Simulator
-504,Role-playing (RPG)
-505,Role-playing (RPG)
-506,Platform
-507,Platform
-508,Racing
-509,Shooter
-510,Fighting
 512,Shooter
-513,Role-playing (RPG)
-514,Shooter
-515,Puzzle
-516,Role-playing (RPG)
-517,Shooter
-518,Shooter
-519,Shooter
-520,Shooter
-521,Role-playing (RPG)
-522,Role-playing (RPG)
-523,Shooter
-524,Racing
-526,Racing
-527,Shooter
-528,Shooter
-529,Shooter
-530,Shooter
-531,Shooter
-532,Shooter
 533,Role-playing (RPG)
-534,Platform
-535,Shooter
-536,Shooter
-537,Adventure
 538,Shooter
-539,Shooter
-540,Platform
-541,Racing
-542,Puzzle
-543,Shooter
-544,Shooter
-545,Shooter
-546,Shooter
-547,Shooter
-548,Shooter
-549,Strategy
-550,Hack and slash/Beat 'em up
 551,Platform
-552,Hack and slash/Beat 'em up
-553,Platform
-554,Racing
-555,Shooter
-556,Shooter
-557,Puzzle
-558,Shooter
-559,Shooter
-560,Shooter
-561,Racing
-562,Shooter
-563,Role-playing (RPG)
-564,Shooter
 565,Shooter
-566,Shooter
-567,Racing
-568,Role-playing (RPG)
-569,Shooter
-570,Platform
-571,Shooter
-572,Shooter
-573,Hack and slash/Beat 'em up
-574,Shooter
-575,Shooter
-576,Fighting
-578,Shooter
-583,Sport
-584,Racing
-585,Simulator
-586,Shooter
-587,Real Time Strategy (RTS)
-589,Role-playing (RPG)
-590,Role-playing (RPG)
-591,Role-playing (RPG)
-594,Shooter
-596,Real Time Strategy (RTS)
-597,Shooter
-599,Real Time Strategy (RTS)
-600,Simulator
-601,Shooter
-602,Role-playing (RPG)
-603,Role-playing (RPG)
-604,Point-and-click
-605,Simulator
-606,Real Time Strategy (RTS)
-607,Shooter
-612,Point-and-click
-613,Shooter
-614,Puzzle
-616,Point-and-click
-617,Shooter
-618,Shooter
-619,Shooter
-620,Racing
-621,Shooter
-622,Shooter
-623,Shooter
-624,Shooter
-625,Shooter
-626,Racing
-633,Simulator
 634,Strategy
-635,Simulator
-636,Shooter
 640,Real Time Strategy (RTS)
-641,Racing
-642,Racing
 647,Real Time Strategy (RTS)
-648,Real Time Strategy (RTS)
-649,Real Time Strategy (RTS)
-650,Real Time Strategy (RTS)
-651,Adventure
-652,Real Time Strategy (RTS)
 653,Shooter
 654,Real Time Strategy (RTS)
-655,Strategy
-656,Shooter
 657,Role-playing (RPG)
-659,Real Time Strategy (RTS)
-660,Role-playing (RPG)
-661,Real Time Strategy (RTS)
-662,Real Time Strategy (RTS)
-663,Real Time Strategy (RTS)
-665,Racing
-666,Fighting
-667,Shooter
-668,Shooter
-669,Simulator
-670,Real Time Strategy (RTS)
-671,Role-playing (RPG)
-672,Shooter
-673,Shooter
-674,Role-playing (RPG)
-675,Racing
-676,Real Time Strategy (RTS)
-677,Platform
-678,Real Time Strategy (RTS)
-680,Shooter
-681,Real Time Strategy (RTS)
-682,Real Time Strategy (RTS)
-683,Real Time Strategy (RTS)
-686,Role-playing (RPG)
-689,Racing
-690,Racing
-694,Role-playing (RPG)
-696,Sport
-698,Sport
-699,Simulator
-700,Sport
-701,Sport
-703,Sport
-705,Sport
-706,Shooter
-707,Real Time Strategy (RTS)
-708,Simulator
-712,Simulator
-713,Simulator
-716,Simulator
 717,Simulator
-718,Shooter
-719,Shooter
-720,Role-playing (RPG)
 721,Role-playing (RPG)
-722,Simulator
-723,Strategy
-724,Strategy
-725,Turn-based strategy (TBS)
-726,Puzzle
-727,Racing
 728,Racing
 730,Shooter
-731,Shooter
 732,Shooter
 733,Shooter
-734,Real Time Strategy (RTS)
-735,Real Time Strategy (RTS)
 736,Racing
-737,Racing
-738,Racing
-739,Role-playing (RPG)
-740,Shooter
 741,Real Time Strategy (RTS)
-744,Point-and-click
-748,Shooter
-749,Real Time Strategy (RTS)
 750,Real Time Strategy (RTS)
-751,Real Time Strategy (RTS)
-752,Strategy
-753,Role-playing (RPG)
-754,Simulator
-755,Simulator
-757,Simulator
-758,Shooter
-759,Real Time Strategy (RTS)
-760,Shooter
-763,MOBA
-764,Shooter
-766,Real Time Strategy (RTS)
 767,Real Time Strategy (RTS)
-769,Shooter
-774,Role-playing (RPG)
-775,Real Time Strategy (RTS)
-776,Simulator
-777,Simulator
-778,Simulator
-780,Shooter
-781,Real Time Strategy (RTS)
 782,Role-playing (RPG)
-783,Shooter
-784,Shooter
-786,Shooter
-787,Shooter
 788,Simulator
 790,Role-playing (RPG)
-791,Point-and-click
-793,Racing
 794,Simulator
-795,Racing
 796,Sport
 797,Point-and-click
-798,Puzzle
-799,Real Time Strategy (RTS)
-803,Racing
-804,Racing
-807,Racing
-808,Sport
-809,Sport
-810,Shooter
-811,Simulator
-812,Sport
-813,Platform
-814,Simulator
 815,Simulator
-816,Simulator
 817,Sport
-818,Sport
-819,Shooter
 820,Shooter
 824,Sport
-825,Shooter
-826,Shooter
 827,Shooter
-828,Shooter
 832,Real Time Strategy (RTS)
-833,Real Time Strategy (RTS)
-834,Simulator
-836,Platform
-837,Fighting
-838,Racing
-839,Racing
-840,Simulator
 841,Racing
 842,Racing
-843,Platform
-844,Point-and-click
-845,Simulator
-846,Shooter
-847,Shooter
-848,Real Time Strategy (RTS)
-849,Real Time Strategy (RTS)
-850,Strategy
 851,Strategy
-852,Point-and-click
-853,Real Time Strategy (RTS)
-854,Point-and-click
-855,Sport
-856,Simulator
-857,Shooter
-858,Shooter
-860,Real Time Strategy (RTS)
-862,Point-and-click
 863,Simulator
-864,Real Time Strategy (RTS)
-865,Simulator
 866,Simulator
-868,Real Time Strategy (RTS)
-869,Simulator
-870,Simulator
-871,Simulator
-872,Real Time Strategy (RTS)
-873,Shooter
-874,Shooter
-875,Sport
-876,Role-playing (RPG)
-877,Shooter
-879,Strategy
-880,Shooter
-881,Shooter
-884,Fighting
-885,Platform
-888,Real Time Strategy (RTS)
-890,Point-and-click
-891,Shooter
-892,Point-and-click
-893,Point-and-click
-894,Role-playing (RPG)
-895,Point-and-click
-897,Shooter
-898,Role-playing (RPG)
-899,Role-playing (RPG)
-900,Real Time Strategy (RTS)
 902,Strategy
-903,Sport
-904,Simulator
-905,Sport
-906,Sport
-907,Racing
-908,Shooter
-909,Shooter
-910,Shooter
 911,Shooter
-912,Shooter
 913,Sport
-914,Sport
-915,Sport
 916,Point-and-click
-918,Real Time Strategy (RTS)
-920,Simulator
-921,Simulator
-922,Shooter
-923,Shooter
-924,Shooter
-925,Sport
-926,Shooter
-927,Shooter
-928,Shooter
-929,Real Time Strategy (RTS)
-932,Strategy
-933,Platform
 934,Simulator
 935,Shooter
-936,Simulator
-937,Racing
-939,Role-playing (RPG)
-940,Simulator
-941,Real Time Strategy (RTS)
-942,Puzzle
-943,Racing
-944,Simulator
-945,Simulator
-946,Simulator
-947,Shooter
-948,Shooter
-949,Shooter
-951,Racing
-952,Sport
-953,Simulator
-954,Sport
 955,Point-and-click
-956,Shooter
-957,Shooter
-958,Strategy
-959,Real Time Strategy (RTS)
-960,Shooter
-961,Strategy
-962,Simulator
-964,Real Time Strategy (RTS)
-965,Real Time Strategy (RTS)
-966,Shooter
-967,Shooter
-968,Shooter
-970,Shooter
-971,Shooter
-972,Shooter
-973,Shooter
 974,Shooter
-975,Shooter
-976,Shooter
-977,Shooter
-978,Shooter
-979,Shooter
-980,Shooter
-981,Platform
-982,Shooter
-983,Shooter
-984,Simulator
-985,Shooter
-986,Shooter
 987,Shooter
-988,Real Time Strategy (RTS)
-989,Shooter
 990,Shooter
-991,Shooter
-993,Simulator
-994,Simulator
-995,Simulator
-996,Shooter
-997,Shooter
-998,Shooter
-999,Platform
-1000,Platform
-1001,Platform
-1002,Shooter
-1003,Fighting
-1004,Fighting
-1005,Role-playing (RPG)
-1006,Shooter
-1007,Point-and-click
-1008,Role-playing (RPG)
 1009,Shooter
-1010,Simulator
-1011,Shooter
-1012,Shooter
-1013,Fighting
-1014,Shooter
-1015,Hack and slash/Beat 'em up
+1020,Shooter
+1026,Role-playing (RPG)
+1027,Role-playing (RPG)
+1028,Adventure
+1029,Platform
+1030,Adventure
+1033,Platform
+1036,Role-playing (RPG)
+1039,Platform
+1046,Simulator
+1068,Platform
+1070,Platform
+1073,Platform
+1074,Platform
+1077,Platform
+1078,Platform
+1090,Platform
+1092,Platform
+1103,Shooter
+1105,Shooter
+1107,Shooter
+1108,Shooter
+1111,Shooter
+1112,Shooter
+1115,Platform
+1128,Platform
+1134,Platform
+1173,Role-playing (RPG)
+1179,Role-playing (RPG)
+1200,Role-playing (RPG)
+1204,Role-playing (RPG)
+1215,Role-playing (RPG)
+1217,Role-playing (RPG)
+1221,Role-playing (RPG)
+1224,Role-playing (RPG)
+1229,Role-playing (RPG)
+1230,Role-playing (RPG)
+1233,Role-playing (RPG)
+1250,Point-and-click
+1251,Point-and-click
+1253,Platform
+1255,Simulator
+1260,Strategy
+1271,Role-playing (RPG)
+1272,Simulator
+1341,Shooter
+1346,Role-playing (RPG)
+1348,Puzzle
+1352,Platform
+1357,Shooter
+1370,Real Time Strategy (RTS)
+1371,Real Time Strategy (RTS)
+1399,Puzzle
+1428,Adventure
+1433,Role-playing (RPG)
+1436,Role-playing (RPG)
+1437,Role-playing (RPG)
+1439,Role-playing (RPG)
+1440,Role-playing (RPG)
+1442,Role-playing (RPG)
+1443,Role-playing (RPG)
+1454,Role-playing (RPG)
+1463,Shooter
+1466,Shooter
+1498,Strategy
+1511,Role-playing (RPG)
+1513,Role-playing (RPG)
+1514,Role-playing (RPG)
+1517,Role-playing (RPG)
+1518,Role-playing (RPG)
+1520,Role-playing (RPG)
+1545,Racing
+1551,Fighting
+1556,Role-playing (RPG)
+1558,Role-playing (RPG)
+1600,Racing
+1601,Racing
+1627,Fighting
+1638,Shooter
+1671,Role-playing (RPG)
+1692,Strategy
+1698,Platform
+1706,Puzzle
+1715,Platform
+1741,Shooter
+1754,Shooter
+1757,Real Time Strategy (RTS)
+1758,Role-playing (RPG)
+1779,Shooter
+1780,Shooter
+1786,Role-playing (RPG)
+1802,Role-playing (RPG)
+1804,Role-playing (RPG)
+1814,Role-playing (RPG)
+1816,Role-playing (RPG)
+1819,Role-playing (RPG)
+1840,Role-playing (RPG)
+1864,Role-playing (RPG)
+1871,Point-and-click
+1904,Real Time Strategy (RTS)
+1934,Shooter
+1942,Role-playing (RPG)
+1955,Point-and-click
+1968,Platform
+1985,Shooter
+2012,Real Time Strategy (RTS)
+2025,Shooter
+2037,Real Time Strategy (RTS)
+2054,Racing
+2133,Shooter
+2135,Fighting
+2143,Shooter
+2144,Shooter
+2148,Platform
+2155,Role-playing (RPG)
+2164,Point-and-click
+2180,Platform
+2194,Fighting
+2200,Racing
+2201,Racing
+2207,Platform
+2229,Simulator
+2240,Puzzle
+2259,Music
+2261,Role-playing (RPG)
+2262,Role-playing (RPG)
+2266,Role-playing (RPG)
+2274,Point-and-click
+2276,Platform
+2283,Role-playing (RPG)
+2295,Adventure
+2350,Racing
+2364,Role-playing (RPG)
+2413,Shooter
+2445,Shooter
+2481,Role-playing (RPG)
+2528,Role-playing (RPG)
+2541,Simulator
+2591,Shooter
+2617,Real Time Strategy (RTS)
+2687,Simulator
+2692,Music
+2693,Music
+2853,Platform
+2878,Role-playing (RPG)
+2895,Role-playing (RPG)
+2899,Role-playing (RPG)
+2900,Adventure
+2909,Puzzle
+2912,Point-and-click
+2922,Real Time Strategy (RTS)
+2951,Shooter
+2968,Real Time Strategy (RTS)
+2985,Role-playing (RPG)
+3000,Role-playing (RPG)
+3023,Simulator
+3029,Platform
+3036,Shooter
+3047,Racing
+3067,Real Time Strategy (RTS)
+3084,Shooter
+3088,Music
+3102,Simulator
+3126,Role-playing (RPG)
+3127,Role-playing (RPG)
+3141,Role-playing (RPG)
+3197,Role-playing (RPG)
+3216,Role-playing (RPG)
+3230,Point-and-click
+3272,Strategy
+3319,Racing
+3322,Racing
+3340,Platform
+3349,Role-playing (RPG)
+3351,Role-playing (RPG)
+3363,Platform
+3378,Role-playing (RPG)
+3380,Role-playing (RPG)
+3384,Role-playing (RPG)
+3405,Sport
+3418,Platform
+3448,Strategy
+3466,Role-playing (RPG)
+3568,Real Time Strategy (RTS)
+3637,Puzzle
+3641,Sport
+3683,Role-playing (RPG)
+3719,Platform
+3725,Platform
+3730,Puzzle
+3735,Shooter
+3783,Sport
+3794,Adventure
+3795,Role-playing (RPG)
+3798,Role-playing (RPG)
+3814,Shooter
+3915,Fighting
+3932,Role-playing (RPG)
+3953,Shooter
+4034,Simulator
+4035,Sport
+4036,Sport
+4041,Sport
+4042,Sport
+4043,Simulator
+4126,Puzzle
+4152,Role-playing (RPG)
+4157,Platform
+4174,Racing
+4316,Point-and-click
+4345,Sport
+4348,Platform
+4438,Platform
+4641,Role-playing (RPG)
+4678,Role-playing (RPG)
+4691,Music
+4706,Sport
+4716,Sport
+4719,Shooter
+4754,Adventure
+4816,Role-playing (RPG)
+4820,Platform
+4833,Simulator
+4841,Racing
+4884,Shooter
+4887,Shooter
+4959,Platform
+4985,Simulator
+4986,Simulator
+5039,Role-playing (RPG)
+5056,Sport
+5065,Simulator
+5079,Shooter
+5082,Role-playing (RPG)
+5099,Pinball
+5105,Adventure
+5114,Adventure
+5132,Role-playing (RPG)
+5136,Role-playing (RPG)
+5199,Platform
+5223,Simulator
+5233,Simulator
+5258,Sport
+5349,Platform
+5369,Role-playing (RPG)
+5401,Role-playing (RPG)
+5413,Racing
+5418,Platform
+5422,Shooter
+5423,Real Time Strategy (RTS)
+5440,Fighting
+5450,Shooter
+5502,Simulator
+5503,Hack and slash/Beat 'em up
+5504,Simulator
+5508,Role-playing (RPG)
+5514,Puzzle
+5550,Role-playing (RPG)
+5563,Shooter
+5595,Fighting
+5613,Role-playing (RPG)
+5623,Fighting
+5626,Role-playing (RPG)
+5641,Role-playing (RPG)
+5645,Shooter
+5654,Adventure
+5831,Shooter
+5850,Racing
+5882,Real Time Strategy (RTS)
+5894,Strategy
+5911,Shooter
+5951,Simulator
+5953,Simulator
+5954,Sport
+5982,Role-playing (RPG)
+6036,Shooter
+6154,Fighting
+6165,Role-playing (RPG)
+6256,Real Time Strategy (RTS)
+6279,Puzzle
+6291,Sport
+6294,Strategy
+6325,Point-and-click
+6341,Role-playing (RPG)
+6375,Fighting
+6405,Shooter
+6440,Role-playing (RPG)
+6453,Puzzle
+6454,Puzzle
+6456,Puzzle
+6459,Puzzle
+6462,Puzzle
+6504,Racing
+6516,Role-playing (RPG)
+6517,Fighting
+6555,Puzzle
+6614,Point-and-click
+6616,Role-playing (RPG)
+6701,Point-and-click
+6707,Adventure
+6739,Shooter
+6741,Point-and-click
+6763,Sport
+6838,Adventure
+6855,Shooter
+6865,Puzzle
+6887,Role-playing (RPG)
+6892,Simulator
+6906,Role-playing (RPG)
+6933,Fighting
+6962,Simulator
+6967,Simulator
+6978,Fighting
+6982,Role-playing (RPG)
+7016,Shooter
+7039,Hack and slash/Beat 'em up
+7046,Simulator
+7111,Simulator
+7130,Fighting
+7139,Racing
+7140,Racing
+7158,Fighting
+7160,Racing
+7167,Fighting
+7178,Racing
+7179,Racing
+7180,Racing
+7189,Platform
+7194,Role-playing (RPG)
+7275,Role-playing (RPG)
+7278,Role-playing (RPG)
+7331,Shooter
+7334,Role-playing (RPG)
+7342,Platform
+7344,Platform
+7346,Role-playing (RPG)
+7348,Shooter
+7351,Shooter
+7356,Platform
+7386,Puzzle
+7397,Role-playing (RPG)
+7406,Platform
+7444,Platform
+7464,Role-playing (RPG)
+7470,Adventure
+7477,Role-playing (RPG)
+7489,Shooter
+7510,Real Time Strategy (RTS)
+7512,Real Time Strategy (RTS)
+7543,Point-and-click
+7585,Simulator
+7592,Role-playing (RPG)
+7593,Real Time Strategy (RTS)
+7594,Role-playing (RPG)
+7595,Real Time Strategy (RTS)
+7603,Hack and slash/Beat 'em up
+7634,Music
+7635,Point-and-click
+7650,Puzzle
+7739,Role-playing (RPG)
+7789,Shooter
+7824,Shooter
+7841,Fighting
+7881,Simulator
+7900,Role-playing (RPG)
+7936,Platform
+8002,Racing
+8072,Point-and-click
+8100,Simulator
+8145,Platform
+8167,Music
+8195,Shooter
+8197,Puzzle
+8199,Shooter
+8211,Fighting
+8214,Shooter
+8240,Shooter
+8247,Fighting
+8254,Shooter
+8257,Strategy
+8288,Role-playing (RPG)
+8292,Point-and-click
+8293,Point-and-click
+8307,Puzzle
+8362,Role-playing (RPG)
+8389,Role-playing (RPG)
+8467,Shooter
+8471,Real Time Strategy (RTS)
+8477,Shooter
+8492,Role-playing (RPG)
+8584,Shooter
+8593,Role-playing (RPG)
+8711,Shooter
+8734,Platform
+8735,Fighting
+8749,Platform
+8750,Platform
+8763,Shooter
+8773,Real Time Strategy (RTS)
+8864,Role-playing (RPG)
+8912,Simulator
+8947,Puzzle
+8968,Adventure
+8969,Role-playing (RPG)
+8973,Simulator
+8974,Sport
+8975,Simulator
+8986,Role-playing (RPG)
+9014,Puzzle
+9035,Point-and-click
+9037,Point-and-click
+9046,Role-playing (RPG)
+9058,Real Time Strategy (RTS)
+9059,Real Time Strategy (RTS)
+9061,Shooter
+9067,Real Time Strategy (RTS)
+9103,Platform
+9112,Point-and-click
+9142,Fighting
+9143,Fighting
+9146,Fighting
+9191,Role-playing (RPG)
+9232,Simulator
+9262,Puzzle
+9495,Shooter
+9532,Shooter
+9538,Real Time Strategy (RTS)
+9542,Real Time Strategy (RTS)
+9577,Role-playing (RPG)
+9587,Shooter
+9600,Role-playing (RPG)
+9601,Platform
+9607,Adventure
+9609,Racing
+9611,Platform
+9620,Role-playing (RPG)
+9627,Simulator
+9632,Role-playing (RPG)
+9633,Role-playing (RPG)
+9643,Puzzle
+9694,Shooter
+9700,Adventure
+9740,Shooter
+9759,Real Time Strategy (RTS)
+9789,Real Time Strategy (RTS)
+9808,Platform
+9809,Puzzle
+9833,Real Time Strategy (RTS)
+9834,Real Time Strategy (RTS)
+9840,Strategy
+9894,Racing
+9898,Real Time Strategy (RTS)
+9927,Role-playing (RPG)
+10039,Fighting
+10107,Real Time Strategy (RTS)
+10121,Sport
+10166,Shooter
+10175,Adventure
+10192,Shooter
+10222,Hack and slash/Beat 'em up
+10235,Platform
+10496,Role-playing (RPG)
+10578,Puzzle
+10583,Point-and-click
+10760,Platform
+10951,Puzzle
+10962,Shooter
+11002,Shooter
+11051,Shooter
+11104,Real Time Strategy (RTS)
+11118,Shooter
+11133,Role-playing (RPG)
+11156,Shooter
+11169,Role-playing (RPG)
+11208,Role-playing (RPG)
+11210,Role-playing (RPG)
+11212,Role-playing (RPG)
+11219,Platform
+11222,Fighting
+11226,Simulator
+11227,Shooter
+11230,Simulator
+11244,Shooter
+11247,Shooter
+11250,Platform
+11259,Real Time Strategy (RTS)
+11270,Point-and-click
+11328,Shooter
+11374,Shooter
+11394,Adventure
+11397,Role-playing (RPG)
+11416,Role-playing (RPG)
+11417,Platform
+11437,Role-playing (RPG)
+11459,Role-playing (RPG)
+11565,Fighting
+11575,Shooter
+11594,Role-playing (RPG)
+11610,Role-playing (RPG)
+11612,Fighting
+11621,Point-and-click
+11631,Point-and-click
+11650,Sport
+11654,Puzzle
+11658,Role-playing (RPG)
+11737,Puzzle
+11772,Role-playing (RPG)
+11783,Platform
+11800,Role-playing (RPG)
+11828,Role-playing (RPG)
+11845,Shooter
+11885,Shooter
+11987,Role-playing (RPG)
+12071,Real Time Strategy (RTS)
+12089,Platform
+12151,Simulator
+12328,Adventure
+12329,Adventure
+12382,Role-playing (RPG)
+12423,Adventure
+12443,Strategy
+12497,Sport
+12503,Role-playing (RPG)
+12517,Role-playing (RPG)
+12579,Adventure
+12586,Shooter
+12672,Racing
+12765,Puzzle
+12861,Shooter
+12987,Shooter
+13074,Racing
+13093,Role-playing (RPG)
+13100,Shooter
+13137,Simulator
+13152,Simulator
+13155,Role-playing (RPG)
+13166,Role-playing (RPG)
+13177,Shooter
+13178,Role-playing (RPG)
+13226,Puzzle
+13257,Sport
+13350,Platform
+13547,Shooter
+13620,Fighting
+13676,Role-playing (RPG)
+13679,Shooter
+13690,Shooter
+13923,Shooter
+13925,Shooter
+13926,Shooter
+13927,Shooter
+13928,Shooter
+14173,Turn-based strategy (TBS)
+14177,Role-playing (RPG)
+14411,Adventure
+14437,Adventure
+14481,Puzzle
+14542,Shooter
+14544,Adventure
+14593,Platform
+14647,Role-playing (RPG)
+14697,Hack and slash/Beat 'em up
+14701,Puzzle
+14717,Role-playing (RPG)
+14718,Role-playing (RPG)
+14723,Role-playing (RPG)
+14741,Platform
+14891,Simulator
+15020,Role-playing (RPG)
+15072,Role-playing (RPG)
+15123,Real Time Strategy (RTS)
+15128,Shooter
+15140,Platform
+15167,Role-playing (RPG)
+15464,Adventure
+15465,Simulator
+15467,Role-playing (RPG)
+15531,Hack and slash/Beat 'em up
+15535,Shooter
+15559,Music
+15698,Platform
+15709,Role-playing (RPG)
+15744,Simulator
+15815,Puzzle
+15839,Role-playing (RPG)
+15841,Shooter
+15843,Role-playing (RPG)
+16203,Point-and-click
+16305,Music
+16310,Puzzle
+16328,Strategy
+16480,Role-playing (RPG)
+16538,Fighting
+16585,Role-playing (RPG)
+16617,Platform
+16665,Role-playing (RPG)
+16730,Adventure
+16748,Platform
+16840,Role-playing (RPG)
+16867,Role-playing (RPG)
+16983,Role-playing (RPG)
+17000,Role-playing (RPG)
+17011,Shooter
+17224,Point-and-click
+17467,Shooter
+17573,Shooter
+18056,Role-playing (RPG)
+18058,Role-playing (RPG)
+18074,Simulator
+18131,Puzzle
+18136,Simulator
+18150,Fighting
+18165,Shooter
+18182,Platform
+18189,Point-and-click
+18197,Shooter
+18211,Role-playing (RPG)
+18221,Platform
+18224,Role-playing (RPG)
+18314,Strategy
+18337,Role-playing (RPG)
+18370,Role-playing (RPG)
+18453,Indie
+18597,Puzzle
+18698,Racing
+18699,Racing
+18730,Platform
+18735,Hack and slash/Beat 'em up
+18808,Shooter
+18829,Simulator
+18870,Simulator
+18872,Sport
+18924,Role-playing (RPG)
+18967,Role-playing (RPG)
+18984,Shooter
+19009,Shooter
+19069,Arcade
+19085,Real Time Strategy (RTS)
+19118,Platform
+19121,Platform
+19131,Role-playing (RPG)
+19150,Platform
+19190,Shooter
+19293,Racing
+19297,Point-and-click
+19325,Strategy
+19334,Role-playing (RPG)
+19351,Strategy
+19394,Puzzle
+19409,Simulator
+19456,Platform
+19457,Role-playing (RPG)
+19526,Simulator
+19560,Hack and slash/Beat 'em up
+19564,Shooter
+19565,Hack and slash/Beat 'em up
+19598,Platform
+19636,Strategy
+19686,Shooter
+19728,Shooter
+19729,Puzzle
+19803,Racing
+19839,Shooter
+19874,Shooter
+19875,Simulator
+19897,Simulator
+19910,Music
+19924,Role-playing (RPG)
+19942,Puzzle
+19947,Platform
+19959,Hack and slash/Beat 'em up
+19984,Platform
+19994,Shooter
+20065,Shooter
+20068,Hack and slash/Beat 'em up
+20113,Platform
+20189,Role-playing (RPG)
+20192,Shooter
+20196,Role-playing (RPG)
+20203,Real Time Strategy (RTS)
+20341,Role-playing (RPG)
+20545,Shooter
+20566,Shooter
+20622,Shooter
+20655,Role-playing (RPG)
+20734,Platform
+20740,Role-playing (RPG)
+20741,Strategy
+20744,Role-playing (RPG)
+20749,Adventure
+20834,Hack and slash/Beat 'em up
+20880,Role-playing (RPG)
+20970,Fighting
+20979,Role-playing (RPG)
+21014,Shooter
+21040,Role-playing (RPG)
+21073,Shooter
+21084,Simulator
+21184,Platform
+21206,Role-playing (RPG)
+21669,Fighting
+21704,Hack and slash/Beat 'em up
+21715,Adventure
+21737,Puzzle
+21762,Role-playing (RPG)
+21798,Puzzle
+21838,Role-playing (RPG)
+21874,Fighting
+21892,Shooter
+21970,Strategy
+21972,Point-and-click
+21988,Role-playing (RPG)
+22066,Adventure
+22144,Puzzle
+22239,Fighting
+22439,Role-playing (RPG)
+22461,Role-playing (RPG)
+22500,Indie
+22555,Role-playing (RPG)
+22686,Role-playing (RPG)
+22705,Simulator
+22754,Adventure
+22778,Role-playing (RPG)
+22958,Point-and-click
+22984,Fighting
+23048,Sport
+23095,Music
+23158,Role-playing (RPG)
+23190,Simulator
+23192,Simulator
+23294,Point-and-click
+23322,Role-playing (RPG)
+23323,Role-playing (RPG)
+23427,Racing
+23499,Role-playing (RPG)
+23501,Platform
+23701,Point-and-click
+23717,Shooter
+23851,Music
+23910,Platform
+23954,Adventure
+23957,Shooter
+24080,Role-playing (RPG)
+24223,Shooter
+24413,Racing
+24417,Role-playing (RPG)
+24427,Role-playing (RPG)
+24481,Simulator
+24493,Role-playing (RPG)
+24512,Simulator
+24645,Music
+24723,Shooter
+24869,Puzzle
+24891,Simulator
+24917,Adventure
+24930,Puzzle
+24952,Simulator
+24962,Simulator
+25076,Shooter
+25100,Role-playing (RPG)
+25253,Platform
+25358,Shooter
+25513,Adventure
+25532,Shooter
+25572,Indie
+25599,Platform
+25632,Shooter
+25649,Platform
+25651,Strategy
+25838,Fighting
+25843,Adventure
+26127,Arcade
+26143,Shooter
+26176,Puzzle
+26192,Shooter
+26195,Racing
+26226,Platform
+26255,Simulator
+26384,Shooter
+26451,Shooter
+26472,Role-playing (RPG)
+26625,Role-playing (RPG)
+26673,Role-playing (RPG)
+26700,Adventure
+26758,Platform
+26766,Role-playing (RPG)
+26775,Role-playing (RPG)
+26795,Shooter
+26805,Role-playing (RPG)
+26834,Role-playing (RPG)
+26840,Role-playing (RPG)
+26845,Role-playing (RPG)
+26848,Platform
+26916,Role-playing (RPG)
+26940,Role-playing (RPG)
+26974,Puzzle
+27028,Music
+27033,Platform
+27034,Platform
+27035,Platform
+27072,Puzzle
+27129,Role-playing (RPG)
+27241,Platform
+27258,Strategy
+27304,Role-playing (RPG)
+27396,Platform
+27397,Music
+27436,Role-playing (RPG)
+27461,Racing
+27499,Puzzle
+27667,Role-playing (RPG)
+27677,Shooter
+27685,Role-playing (RPG)
+27762,Point-and-click
+27820,Simulator
+27844,Role-playing (RPG)
+27845,Role-playing (RPG)
+27857,Adventure
+27862,Hack and slash/Beat 'em up
+27867,Point-and-click
+27911,Role-playing (RPG)
+27916,Role-playing (RPG)
+27930,Role-playing (RPG)
+27959,Role-playing (RPG)
+27979,Role-playing (RPG)
+28028,Real Time Strategy (RTS)
+28073,Simulator
+28129,Role-playing (RPG)
+28142,Puzzle
+28160,Role-playing (RPG)
+28176,Fighting
+28210,Role-playing (RPG)
+28222,Point-and-click
+28323,Shooter
+28337,Simulator
+28389,Platform
+28412,Shooter
+28710,Shooter
+28738,Role-playing (RPG)
+28896,Shooter
+28935,Indie
+28955,Simulator
+28972,Role-playing (RPG)
+28981,Real Time Strategy (RTS)
+29211,Real Time Strategy (RTS)
+29586,Fighting
+29920,Puzzle
+29927,Adventure
+29961,Point-and-click
+30155,Music
+30237,Shooter
+30424,Puzzle
+30548,Shooter
+30583,Shooter
+30804,Role-playing (RPG)
+30968,Puzzle
+30994,Puzzle
+31149,Strategy
+31292,Puzzle
+32469,Indie
+32614,Role-playing (RPG)
+32889,Simulator
+32902,Shooter
+32969,Platform
+33306,Shooter
+33414,Fighting
+33992,Fighting
+34062,Simulator
+34266,Simulator
+34293,Shooter
+34392,Role-playing (RPG)
+34610,Role-playing (RPG)
+34669,Strategy
+34670,Platform
+34951,Shooter
+35282,Puzzle
+35934,Simulator
+36550,Role-playing (RPG)
+36620,Platform
+36721,Role-playing (RPG)
+36749,Puzzle
+36929,Role-playing (RPG)
+37001,Platform
+37034,Role-playing (RPG)
+37057,Role-playing (RPG)
+37059,Real Time Strategy (RTS)
+37060,Strategy
+37083,Role-playing (RPG)
+37138,Strategy
+37184,Puzzle
+38387,Puzzle
+38884,Fighting
+38973,Role-playing (RPG)
+39216,Strategy
+39217,Role-playing (RPG)
+39463,Arcade
+39539,Fighting
+40477,Role-playing (RPG)
+41026,Simulator
+41595,Shooter
+41597,Role-playing (RPG)
+41610,Adventure
+41620,Racing
+41621,Simulator
+41829,Role-playing (RPG)
+41862,Shooter
+41876,Shooter
+41877,Shooter
+41884,Shooter
+42554,Fighting
+42635,Role-playing (RPG)
+42813,Music
+42929,Fighting
+42931,Role-playing (RPG)
+42975,Shooter
+43017,Shooter
+43680,Music
+43914,Role-playing (RPG)
+44078,Role-playing (RPG)
+44390,Platform
+45142,Platform
+45178,Shooter
+46265,Shooter
+46614,Role-playing (RPG)
+46619,Strategy
+46976,Role-playing (RPG)
+46980,Point-and-click
+47107,Puzzle
+47445,Role-playing (RPG)
+47447,Fighting
+49652,Adventure
+50347,Shooter
+50357,Strategy
+51226,Strategy
+51267,Adventure
+51378,Shooter
+51485,Platform
+51799,Simulator
+51820,Strategy
+52006,Shooter
+52213,Simulator
+52496,Strategy
+52578,Puzzle
+52715,Racing
+52881,Puzzle
+53127,Puzzle
+53387,Role-playing (RPG)
+53506,Shooter
+53812,Strategy
+53818,Shooter
+54167,Hack and slash/Beat 'em up
+54220,Role-playing (RPG)
+54350,Hack and slash/Beat 'em up
+54612,Shooter
+54662,Simulator
+55036,Simulator
+55056,Real Time Strategy (RTS)
+55057,Real Time Strategy (RTS)
+55077,Role-playing (RPG)
+55090,Role-playing (RPG)
+55112,Role-playing (RPG)
+55169,Racing
+55322,Role-playing (RPG)
+55372,Strategy
+55590,Simulator
+55697,Adventure
+55771,Role-playing (RPG)
+56018,Arcade
+56060,Shooter
+56590,Puzzle
+56929,Sport
+56967,Strategy
+57064,Puzzle
+57153,Simulator
+57191,Sport
+57192,Point-and-click
+57297,Puzzle
+58141,Music
+58656,Platform
+58672,Arcade
+58717,Racing
+58946,Music
+59086,Point-and-click
+59433,Adventure
+59437,Role-playing (RPG)
+59547,Indie
+59849,Shooter
+59858,Fighting
+60224,Puzzle
+63499,Platform
+65290,Racing
+67778,Music
+67852,Real Time Strategy (RTS)
+68161,Adventure
+68316,Puzzle
+68344,Arcade
+68407,Music
+68713,Adventure
+69392,Racing
+69638,Shooter
+70166,Role-playing (RPG)
+71595,Platform
+72327,Hack and slash/Beat 'em up
+72443,Adventure
+72870,Shooter
+74162,Racing
+74285,Platform
+74545,Puzzle
+74732,Music
+74828,Shooter
+74878,Adventure
+74904,Shooter
+74946,Role-playing (RPG)
+74960,Arcade
+75131,Puzzle
+75235,Adventure
+75239,Platform
+75868,Simulator
+75932,Puzzle
+76045,Fighting
+76110,Indie
+76217,Shooter
+76244,Point-and-click
+76331,Shooter
+76356,Simulator
+76641,Strategy
+76844,Platform
+76882,Hack and slash/Beat 'em up
+76927,Simulator
+76959,Fighting
+77264,Shooter
+77267,Shooter
+77336,Role-playing (RPG)
+77378,Platform
+77488,Shooter
+77537,Music
+78059,Racing
+78115,Role-playing (RPG)
+78127,Fighting
+78386,Puzzle
+78544,Simulator
+78559,Adventure
+78631,Role-playing (RPG)
+78951,Racing
+79149,Role-playing (RPG)
+79156,Shooter
+79812,Racing
+79987,Role-playing (RPG)
+80174,Puzzle
+80185,Shooter
+80468,Role-playing (RPG)
+80731,Puzzle
+80877,Fighting
+81016,Indie
+81085,Role-playing (RPG)
+81141,Shooter
+81247,Platform
+81272,Adventure
+81732,Puzzle
+81894,Indie
+82370,Platform
+82372,Simulator
+82374,Adventure
+82375,Shooter
+82376,Arcade
+82377,Arcade
+82392,Sport
+82418,Adventure
+82421,Music
+82435,Shooter
+82441,Adventure
+83322,Role-playing (RPG)
+83504,Role-playing (RPG)
+83535,Shooter
+83730,Platform
+83876,Shooter
+83881,Racing
+84157,Puzzle
+84657,Platform
+84677,Fighting
+84696,Strategy
+84697,Strategy
+84724,Simulator
+84972,Point-and-click
+85619,Puzzle
+86295,Puzzle
+86389,Shooter
+86494,Simulator
+86647,Shooter
+86828,Simulator
+86970,Tactical
+87020,Adventure
+87026,Role-playing (RPG)
+87030,Puzzle
+87031,Puzzle
+87088,Puzzle
+87183,Shooter
+87197,Fighting
+87214,Puzzle
+87338,Simulator
+87352,Arcade
+87367,Simulator
+87407,Simulator
+87530,Simulator
+87570,Platform
+87577,Simulator
+87579,Simulator
+87683,Platform
+88223,Role-playing (RPG)
+88320,Strategy
+88563,Platform
+88578,Puzzle
+88618,Sport
+88750,Adventure
+88844,Indie
+88881,Simulator
+88904,Arcade
+88905,Puzzle
+88907,Fighting
+88938,Card & Board Game
+89181,Puzzle
+89492,Arcade
+89594,Platform
+89730,Shooter
+89738,Indie
+89771,Fighting
+89817,Puzzle
+89929,Adventure
+90051,Puzzle
+90101,Fighting
+90435,Puzzle
+90517,Fighting
+90518,Shooter
+90974,Role-playing (RPG)
+91121,Platform
+91191,Shooter
+91212,Shooter
+91477,Adventure
+92116,Arcade
+93901,Shooter
+94049,Simulator
+94054,Platform
+94784,Shooter
+94873,Platform
+94969,Platform
+94983,Role-playing (RPG)
+95027,Shooter
+95054,Racing
+95069,Adventure
+95508,Platform
+95645,Puzzle
+95832,Platform
+96252,Shooter
+96439,Platform
+96488,Shooter
+98077,Shooter
+98753,Role-playing (RPG)
+99118,Role-playing (RPG)
+99821,Shooter
+102129,Platform
+103198,Platform
+103221,Music
+103281,Shooter
+103294,Role-playing (RPG)
+103317,Platform
+103333,Adventure
+103337,Role-playing (RPG)
+103340,Role-playing (RPG)
+103364,Shooter
+104096,Role-playing (RPG)
+104786,Puzzle
+104789,Role-playing (RPG)
+104819,Fighting
+104967,Role-playing (RPG)
+104971,Puzzle
+104974,Adventure
+105420,Platform
+105594,Simulator
+105624,Strategy
+106819,Role-playing (RPG)
+107218,Real Time Strategy (RTS)
+107300,Role-playing (RPG)
+108254,Shooter
+109108,Strategy
+109233,Platform
+109241,Shooter
+109282,Role-playing (RPG)
+109287,Platform
+109367,Role-playing (RPG)
+109456,Hack and slash/Beat 'em up
+109459,Role-playing (RPG)
+109464,Puzzle
+109465,Role-playing (RPG)
+109596,Role-playing (RPG)
+110062,Racing
+110069,Role-playing (RPG)
+110875,Adventure
+111081,Puzzle
+111276,Puzzle
+111661,Platform
+112191,Role-playing (RPG)
+112412,Role-playing (RPG)
+112874,Role-playing (RPG)
+113112,Role-playing (RPG)
+113113,Racing
+113344,Role-playing (RPG)
+113345,Role-playing (RPG)
+113598,Shooter
+113895,Indie
+114135,Fighting
+114283,Role-playing (RPG)
+114392,Music
+115278,Role-playing (RPG)
+115776,Strategy
+115875,Shooter
+116146,Role-playing (RPG)
+116201,Simulator
+116539,Shooter
+116559,Role-playing (RPG)
+116667,Racing
+116794,Role-playing (RPG)
+117882,Hack and slash/Beat 'em up
+118308,Role-playing (RPG)
+119133,Role-playing (RPG)
+119190,Platform
+119270,Role-playing (RPG)
+119295,Simulator
+119304,Platform
+119305,Puzzle
+119314,Platform
+119390,Role-playing (RPG)
+119394,Role-playing (RPG)
+119402,Role-playing (RPG)
+119445,Shooter
+119506,Role-playing (RPG)
+119656,Simulator
+120200,Shooter
+120436,Hack and slash/Beat 'em up
+120551,Role-playing (RPG)
+120646,Indie
+120710,Point-and-click
+120974,Adventure
+121404,Platform
+121436,Racing
+122082,Platform
+122195,Simulator
+122556,Platform
+122559,Simulator
+122661,Strategy
+123354,Fighting
+123395,Real Time Strategy (RTS)
+124954,Role-playing (RPG)
+125009,Shooter
+125021,Puzzle
+125175,Role-playing (RPG)
+125286,Puzzle
+125764,Fighting
+126098,Shooter
+126120,Simulator
+126138,Shooter
+126153,Shooter
+127036,Shooter
+127155,Fighting
+127358,Role-playing (RPG)
+127782,Real Time Strategy (RTS)
+127816,Puzzle
+127976,Adventure
+129694,Simulator
+129797,Point-and-click
+131887,Fighting
+132165,Adventure
+132205,Racing
+132224,Turn-based strategy (TBS)
+132234,Puzzle
+132907,Point-and-click
+133040,Arcade
+133887,Simulator
+133945,Shooter
+134582,Shooter
+134595,Shooter
+134597,Platform
+134606,Role-playing (RPG)
+135243,Platform
+135295,Racing
+135337,Platform
+135450,Platform
+135919,Adventure
+135999,Music
+136604,Shooter
+136770,Platform
+136868,Simulator
+138227,Platform
+138569,Adventure
+138851,Music
+138858,Platform
+138949,Hack and slash/Beat 'em up
+138950,Role-playing (RPG)
+139078,Simulator
+139090,Strategy
+139399,Music
+139403,Platform
+139446,Fighting
+140059,Simulator
+140158,Racing
+140204,Shooter
+140839,Role-playing (RPG)
+141415,Simulator
+141503,Racing
+141540,Role-playing (RPG)
+141828,Role-playing (RPG)
+142289,Point-and-click
+142494,Strategy
+142803,Role-playing (RPG)
+143232,Role-playing (RPG)
+143335,Platform
+143610,Role-playing (RPG)
+144024,Role-playing (RPG)
+144133,Indie
+144345,Shooter
+145327,Simulator
+146075,Puzzle
+149292,Simulator
+152063,Adventure
+152122,Role-playing (RPG)
+153700,Role-playing (RPG)
+154772,Adventure
+163344,Arcade
+168670,Shooter
+170777,Role-playing (RPG)
+171768,Role-playing (RPG)
+172427,Platform
+176552,Simulator
+178111,Role-playing (RPG)
+178283,Simulator
+187043,Card & Board Game
+196789,Fighting

@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API scripts/api_cover_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_cover_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API scripts/api_game_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/API scripts/api_game_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/data_url.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/data_url.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameOnJson.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GameOnJson.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +32,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Data/data_url.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -48,7 +56,7 @@
       <recent name="$PROJECT_DIR$/API scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.api_genre_request">
+  <component name="RunManager" selected="Python.api_game_request">
     <configuration name="api_cover_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameOnPassion" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.api_game_request" />
+        <item itemvalue="Python.api_cover_request" />
         <item itemvalue="Python.api_genre_request" />
         <item itemvalue="Python.api_platform_request" />
-        <item itemvalue="Python.api_game_request" />
         <item itemvalue="Python.api_gamemode_request" />
-        <item itemvalue="Python.api_cover_request" />
       </list>
     </recent_temporary>
   </component>

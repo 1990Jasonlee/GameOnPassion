@@ -1,869 +1,1496 @@
 1,PC (Microsoft Windows)
 2,PC (Microsoft Windows)
-3,PC (Microsoft Windows)
-4,PC (Microsoft Windows)
 5,Linux
 6,Linux
-7,PC DOS
-8,PC DOS
 9,Linux
-10,PC (Microsoft Windows)
 11,PC (Microsoft Windows)
-12,PC (Microsoft Windows)
 13,PC (Microsoft Windows)
 14,PC (Microsoft Windows)
-15,PC (Microsoft Windows)
 16,PC (Microsoft Windows)
-17,PC (Microsoft Windows)
 18,PC (Microsoft Windows)
 19,PC (Microsoft Windows)
 20,PC (Microsoft Windows)
-21,PC (Microsoft Windows)
 22,PC (Microsoft Windows)
 23,PC DOS
 24,PC (Microsoft Windows)
-25,PC (Microsoft Windows)
-26,PC (Microsoft Windows)
-27,PC (Microsoft Windows)
-28,PC DOS
-29,PC DOS
-30,PC DOS
-31,PC (Microsoft Windows)
-32,PC DOS
-33,PC (Microsoft Windows)
-34,PC (Microsoft Windows)
 35,PC (Microsoft Windows)
 36,PC (Microsoft Windows)
 37,PC (Microsoft Windows)
 38,PC (Microsoft Windows)
 39,PC (Microsoft Windows)
-40,PC (Microsoft Windows)
 41,PC (Microsoft Windows)
-42,PC (Microsoft Windows)
-43,PC (Microsoft Windows)
-44,PC (Microsoft Windows)
-45,PC (Microsoft Windows)
-46,PC (Microsoft Windows)
-47,Wii
-48,Nintendo DS
-49,PC DOS
 50,PC DOS
-51,PlayStation
-52,PC (Microsoft Windows)
-53,PC DOS
-54,PC DOS
-55,PC DOS
 56,PC (Microsoft Windows)
-57,PC (Microsoft Windows)
-58,PC (Microsoft Windows)
 59,PC (Microsoft Windows)
 60,PC DOS
 61,PC DOS
 62,PC (Microsoft Windows)
-63,PC (Microsoft Windows)
-64,Wii
 65,PC (Microsoft Windows)
 66,PC (Microsoft Windows)
 67,PC DOS
 68,PC (Microsoft Windows)
-69,PC (Microsoft Windows)
-70,PC DOS
 71,Linux
 72,Linux
 73,PC (Microsoft Windows)
 74,PC (Microsoft Windows)
 75,PC (Microsoft Windows)
 76,PC (Microsoft Windows)
-77,Linux
-78,PC (Microsoft Windows)
-79,PC (Microsoft Windows)
-80,PC (Microsoft Windows)
-81,PC (Microsoft Windows)
-82,PC (Microsoft Windows)
-83,Linux
-84,PlayStation 2
-85,PC DOS
 86,PC DOS
-87,PC (Microsoft Windows)
-88,PC (Microsoft Windows)
-89,PC (Microsoft Windows)
-90,PC (Microsoft Windows)
-91,PC (Microsoft Windows)
-92,PC (Microsoft Windows)
-93,PC (Microsoft Windows)
-94,PC (Microsoft Windows)
-95,PC (Microsoft Windows)
-96,PC (Microsoft Windows)
-97,PC (Microsoft Windows)
-98,PC (Microsoft Windows)
-99,Wii
-100,Wii
-101,Wii
-102,PC (Microsoft Windows)
-103,Wii
-104,PC (Microsoft Windows)
-105,Wii
-106,PC DOS
-107,PC (Microsoft Windows)
-109,PC (Microsoft Windows)
-111,Linux
-112,PC (Microsoft Windows)
-113,PC (Microsoft Windows)
-114,PC (Microsoft Windows)
-115,PC (Microsoft Windows)
 116,PC (Microsoft Windows)
-117,PlayStation 4
 118,Linux
-119,PC (Microsoft Windows)
-120,PC (Microsoft Windows)
-121,Linux
-122,PC (Microsoft Windows)
 123,PC (Microsoft Windows)
-124,Linux
-125,PC (Microsoft Windows)
 126,PC (Microsoft Windows)
 127,PC (Microsoft Windows)
-128,PC (Microsoft Windows)
-129,PC DOS
 130,PC (Microsoft Windows)
-131,PC (Microsoft Windows)
 132,PC (Microsoft Windows)
 133,PC (Microsoft Windows)
-134,PC (Microsoft Windows)
-135,PC (Microsoft Windows)
-136,PC (Microsoft Windows)
-137,Linux
-138,Wii
-139,PC (Microsoft Windows)
-140,PC (Microsoft Windows)
-141,PC (Microsoft Windows)
 142,PC (Microsoft Windows)
-143,PlayStation
-144,PC (Microsoft Windows)
-145,PC (Microsoft Windows)
-147,PC (Microsoft Windows)
-148,PC (Microsoft Windows)
-149,PC (Microsoft Windows)
-150,PC (Microsoft Windows)
-151,PC (Microsoft Windows)
-152,PC (Microsoft Windows)
-153,PC (Microsoft Windows)
-154,Nintendo 64
-155,PC (Microsoft Windows)
-156,Nintendo 64
-157,PC (Microsoft Windows)
-158,PC (Microsoft Windows)
-160,PC (Microsoft Windows)
-161,PC (Microsoft Windows)
-162,PC (Microsoft Windows)
-163,Nintendo 64
-164,Nintendo 64
 166,PC DOS
-168,PC DOS
 169,PC (Microsoft Windows)
-170,PC (Microsoft Windows)
-172,PC (Microsoft Windows)
-174,PC (Microsoft Windows)
-175,Linux
-176,Commodore C64/128
-180,PC (Microsoft Windows)
 181,PC (Microsoft Windows)
 184,Linux
-185,PC DOS
-186,PC DOS
-187,PC (Microsoft Windows)
-188,Nintendo 64
-189,Wii
-190,PC (Microsoft Windows)
 191,Linux
 192,PC (Microsoft Windows)
 193,PC DOS
-195,PC DOS
-196,PC (Microsoft Windows)
-200,PC (Microsoft Windows)
 202,Linux
-203,PC (Microsoft Windows)
-206,PC (Microsoft Windows)
 207,Linux
-209,Wii
-210,Wii
-211,PC (Microsoft Windows)
-212,Linux
-214,PC (Microsoft Windows)
-215,PC (Microsoft Windows)
-216,Linux
-217,Nintendo DS
-218,Wii
-219,PC (Microsoft Windows)
-221,PC (Microsoft Windows)
 222,PC (Microsoft Windows)
-223,Linux
-224,PC (Microsoft Windows)
-225,Wii
-226,PC (Microsoft Windows)
 227,PC (Microsoft Windows)
 228,PC (Microsoft Windows)
-229,PC (Microsoft Windows)
 230,PC (Microsoft Windows)
 231,Linux
-232,Linux
 233,Linux
-234,PC (Microsoft Windows)
-235,PC (Microsoft Windows)
-236,PC (Microsoft Windows)
-237,Linux
-238,PC (Microsoft Windows)
 239,PC (Microsoft Windows)
-240,PC (Microsoft Windows)
-241,Linux
-242,PC (Microsoft Windows)
-243,Wii
-244,PC (Microsoft Windows)
 245,PC (Microsoft Windows)
 246,PC (Microsoft Windows)
 247,Linux
-248,PC DOS
-250,PC (Microsoft Windows)
-251,PC DOS
-253,PC (Microsoft Windows)
-254,PC (Microsoft Windows)
 255,PC (Microsoft Windows)
 257,PC (Microsoft Windows)
-260,Wii
-264,PC (Microsoft Windows)
-270,PC (Microsoft Windows)
-271,PC (Microsoft Windows)
 272,Linux
-273,PC (Microsoft Windows)
-274,PC (Microsoft Windows)
-275,PC (Microsoft Windows)
-276,PC (Microsoft Windows)
-277,PC (Microsoft Windows)
-278,PC (Microsoft Windows)
-279,PlayStation
-280,Linux
-281,Linux
-282,PC (Microsoft Windows)
-283,PlayStation
-284,PC (Microsoft Windows)
 285,Linux
-286,Linux
-287,Linux
 288,PC (Microsoft Windows)
-289,PC (Microsoft Windows)
-290,PC (Microsoft Windows)
-291,PC (Microsoft Windows)
 293,PC (Microsoft Windows)
-294,PC (Microsoft Windows)
 295,PC (Microsoft Windows)
-296,PC (Microsoft Windows)
-297,Linux
-298,PC (Microsoft Windows)
-299,PC (Microsoft Windows)
-300,PC (Microsoft Windows)
-301,PC (Microsoft Windows)
-302,PC (Microsoft Windows)
 303,PC (Microsoft Windows)
-304,PC (Microsoft Windows)
-305,Linux
-306,PC (Microsoft Windows)
-307,Linux
-308,PC (Microsoft Windows)
-309,PC (Microsoft Windows)
-310,PC (Microsoft Windows)
-311,PC (Microsoft Windows)
 312,PC (Microsoft Windows)
-313,PC (Microsoft Windows)
-314,PlayStation 2
 316,PC (Microsoft Windows)
-317,PC (Microsoft Windows)
-318,PC (Microsoft Windows)
-319,PlayStation Portable
-320,PC (Microsoft Windows)
-321,PC (Microsoft Windows)
 322,PC (Microsoft Windows)
-323,Linux
-324,PC (Microsoft Windows)
-325,PC (Microsoft Windows)
-326,Linux
 327,PC (Microsoft Windows)
-328,Linux
-329,PC (Microsoft Windows)
-330,Nintendo 64
-331,PC (Microsoft Windows)
-332,PC (Microsoft Windows)
-333,Linux
-334,PC (Microsoft Windows)
-335,PC (Microsoft Windows)
-336,PC (Microsoft Windows)
-337,PC (Microsoft Windows)
-338,Linux
 339,PC (Microsoft Windows)
-340,PC (Microsoft Windows)
-341,PlayStation
-342,PC (Microsoft Windows)
-343,PC (Microsoft Windows)
-344,PC (Microsoft Windows)
-345,PC (Microsoft Windows)
-346,PC (Microsoft Windows)
-347,PC (Microsoft Windows)
-348,PlayStation 2
-349,PC (Microsoft Windows)
-350,PC (Microsoft Windows)
-351,PlayStation 3
-352,PC (Microsoft Windows)
-354,PC (Microsoft Windows)
-355,Linux
-356,Linux
-357,PC (Microsoft Windows)
-358,Wii
-359,PC (Microsoft Windows)
-360,Nintendo 64
-361,PC (Microsoft Windows)
-362,PC (Microsoft Windows)
 363,PC (Microsoft Windows)
 364,Linux
 365,PC (Microsoft Windows)
 366,PC (Microsoft Windows)
-367,PC (Microsoft Windows)
-368,PC (Microsoft Windows)
-369,PC (Microsoft Windows)
-370,PC (Microsoft Windows)
-371,PC (Microsoft Windows)
-372,PC (Microsoft Windows)
-373,PC (Microsoft Windows)
-374,Wii
 375,PC (Microsoft Windows)
 376,PC (Microsoft Windows)
-377,Wii
-378,PC (Microsoft Windows)
 379,PlayStation 2
 380,PlayStation 3
-381,PlayStation Portable
-382,PlayStation 3
-383,PlayStation Portable
-384,PC (Microsoft Windows)
-385,Wii
-386,PC (Microsoft Windows)
-387,Wii
-388,Wii
-389,PC (Microsoft Windows)
-390,PC (Microsoft Windows)
-391,PlayStation Portable
-392,Nintendo DS
-393,PC (Microsoft Windows)
 394,PlayStation 3
-395,Android
-396,Game Boy
-397,Android
 398,PlayStation 2
-399,Wii
-400,Nintendo DS
-401,Wii
 403,Nintendo DS
-406,Game Boy Advance
-407,Game Boy
-408,Game Boy Advance
-409,PC (Microsoft Windows)
-410,Nintendo DS
-411,PC (Microsoft Windows)
-412,Nintendo GameCube
-413,PlayStation 2
-414,Game Boy Advance
-415,Wii
-417,PlayStation
 418,PlayStation 2
-419,Wii
 421,PlayStation
-422,Nintendo 64
-423,PlayStation
-424,PC (Microsoft Windows)
-425,PC (Microsoft Windows)
 426,Wii
 427,PC (Microsoft Windows)
 428,PlayStation
-429,PC (Microsoft Windows)
-430,PC (Microsoft Windows)
-431,PlayStation 3
-432,Linux
-433,PC (Microsoft Windows)
 434,PlayStation 3
 436,PC (Microsoft Windows)
-437,PC (Microsoft Windows)
-438,PC (Microsoft Windows)
-439,PlayStation 2
 440,Linux
-441,Linux
-442,PC (Microsoft Windows)
-443,PC (Microsoft Windows)
-444,PC (Microsoft Windows)
-445,PC (Microsoft Windows)
-446,PC (Microsoft Windows)
-447,Linux
 448,PC (Microsoft Windows)
 449,PC (Microsoft Windows)
-450,PC (Microsoft Windows)
-451,PC (Microsoft Windows)
-452,PC (Microsoft Windows)
-453,Super Nintendo Entertainment System (SNES)
-454,PC (Microsoft Windows)
-455,Super Nintendo Entertainment System (SNES)
 456,PC (Microsoft Windows)
 457,PC (Microsoft Windows)
 458,PC (Microsoft Windows)
-459,PC (Microsoft Windows)
 460,PC (Microsoft Windows)
-461,PC (Microsoft Windows)
-462,PC (Microsoft Windows)
-464,PC (Microsoft Windows)
-465,PC (Microsoft Windows)
-466,Linux
-467,PC (Microsoft Windows)
-468,PC (Microsoft Windows)
-469,Linux
-470,Linux
-471,PC (Microsoft Windows)
 472,PC (Microsoft Windows)
-473,PlayStation 3
 474,PC (Microsoft Windows)
-475,Wii
-476,PlayStation Portable
-477,PC (Microsoft Windows)
-478,Linux
 479,PlayStation 2
-480,PlayStation
 481,PC (Microsoft Windows)
-482,PC (Microsoft Windows)
-483,PC (Microsoft Windows)
-484,PlayStation 2
-485,PC (Microsoft Windows)
-486,Wii
-487,PlayStation 3
-488,PC (Microsoft Windows)
-489,Linux
-490,PC (Microsoft Windows)
-491,PC (Microsoft Windows)
-492,Xbox 360
-493,PC (Microsoft Windows)
-494,PC (Microsoft Windows)
-495,Linux
-496,Linux
-497,Wii
-498,PC (Microsoft Windows)
 499,PlayStation 3
 500,PC (Microsoft Windows)
 501,PC (Microsoft Windows)
-502,PC (Microsoft Windows)
-503,Wii
-504,PC (Microsoft Windows)
-505,PC (Microsoft Windows)
-506,PC (Microsoft Windows)
-507,PC (Microsoft Windows)
-508,PC (Microsoft Windows)
-509,PC (Microsoft Windows)
-510,Xbox 360
 512,PlayStation 3
-513,PC (Microsoft Windows)
-514,PC (Microsoft Windows)
-515,PlayStation 3
-516,PC (Microsoft Windows)
-517,Linux
-518,PC (Microsoft Windows)
-519,PC (Microsoft Windows)
-520,PC (Microsoft Windows)
-521,Xbox
-522,Xbox 360
-523,PlayStation 3
-524,PC (Microsoft Windows)
-526,PC (Microsoft Windows)
-527,Linux
-528,PC (Microsoft Windows)
-529,PC (Microsoft Windows)
-530,PC (Microsoft Windows)
-531,PC (Microsoft Windows)
-532,PC (Microsoft Windows)
 533,PC (Microsoft Windows)
-534,Wii
-535,PC (Microsoft Windows)
-536,PC (Microsoft Windows)
-537,PC (Microsoft Windows)
 538,Linux
-539,PC (Microsoft Windows)
-540,Wii
-541,PC (Microsoft Windows)
-542,Wii
-543,Linux
-544,PC (Microsoft Windows)
-545,Wii
-546,Linux
-547,PC (Microsoft Windows)
-548,Xbox 360
-549,PlayStation 2
-550,PlayStation 3
 551,PlayStation 2
-552,PlayStation 3
-553,Wii
-554,Wii
-555,PC (Microsoft Windows)
-556,Linux
-557,PC (Microsoft Windows)
-558,Linux
-559,PC (Microsoft Windows)
-560,PC (Microsoft Windows)
-561,Wii
-562,PC (Microsoft Windows)
-563,PC (Microsoft Windows)
-564,PC (Microsoft Windows)
 565,PlayStation 3
-566,Wii
-567,PC (Microsoft Windows)
-568,Wii
-569,PC (Microsoft Windows)
-570,PC (Microsoft Windows)
-571,Linux
-572,PC (Microsoft Windows)
-573,Wii
-574,PlayStation 3
-575,PC (Microsoft Windows)
-576,PC (Microsoft Windows)
-578,PC (Microsoft Windows)
-583,PC (Microsoft Windows)
-584,PC (Microsoft Windows)
-585,PC (Microsoft Windows)
-586,Linux
-587,PC (Microsoft Windows)
-589,Linux
-590,Linux
-591,Linux
-594,PC (Microsoft Windows)
-596,PC (Microsoft Windows)
-597,PC (Microsoft Windows)
-599,PC (Microsoft Windows)
-600,PC DOS
-601,PC (Microsoft Windows)
-602,PC (Microsoft Windows)
-603,PC (Microsoft Windows)
-604,PC DOS
-605,PC (Microsoft Windows)
-606,PC (Microsoft Windows)
-607,PC (Microsoft Windows)
-612,Linux
-613,PC (Microsoft Windows)
-614,Wii
-616,PlayStation
-617,PC (Microsoft Windows)
-618,PC (Microsoft Windows)
-619,Wii
-620,PlayStation 3
-621,PC (Microsoft Windows)
-622,PC (Microsoft Windows)
-623,Wii
-624,PC (Microsoft Windows)
-625,Wii
-626,Nintendo 64
-633,PC (Microsoft Windows)
 634,PC (Microsoft Windows)
-635,PC (Microsoft Windows)
-636,PC (Microsoft Windows)
 640,PC (Microsoft Windows)
-641,PC (Microsoft Windows)
-642,PC (Microsoft Windows)
 647,Nintendo 64
-648,PC (Microsoft Windows)
-649,PC (Microsoft Windows)
-650,PC (Microsoft Windows)
-651,PC DOS
-652,PC (Microsoft Windows)
 653,PC (Microsoft Windows)
 654,PC (Microsoft Windows)
-655,PC DOS
-656,PC (Microsoft Windows)
 657,PC (Microsoft Windows)
-659,PC (Microsoft Windows)
-660,PC (Microsoft Windows)
-661,Linux
-662,PC (Microsoft Windows)
-663,PC (Microsoft Windows)
-665,PC (Microsoft Windows)
-666,PC (Microsoft Windows)
-667,Linux
-668,PC (Microsoft Windows)
-669,PC (Microsoft Windows)
-670,Linux
-671,PC (Microsoft Windows)
-672,Linux
-673,Linux
-674,PC (Microsoft Windows)
-675,PC (Microsoft Windows)
-676,PC (Microsoft Windows)
-677,PC (Microsoft Windows)
-678,PC (Microsoft Windows)
-680,Linux
-681,PC (Microsoft Windows)
-682,PC (Microsoft Windows)
-683,PC (Microsoft Windows)
-686,PC (Microsoft Windows)
-689,PC (Microsoft Windows)
-690,PC (Microsoft Windows)
-694,PC (Microsoft Windows)
-696,PC (Microsoft Windows)
-698,PC (Microsoft Windows)
-699,Nintendo 64
-700,PC (Microsoft Windows)
-701,PC (Microsoft Windows)
-703,PC (Microsoft Windows)
-705,Nintendo 64
-706,PC (Microsoft Windows)
-707,PC (Microsoft Windows)
-708,PC (Microsoft Windows)
-712,PC (Microsoft Windows)
-713,PC (Microsoft Windows)
-716,PC (Microsoft Windows)
 717,PC (Microsoft Windows)
-718,Nintendo 64
-719,PC (Microsoft Windows)
-720,PC (Microsoft Windows)
 721,PC (Microsoft Windows)
-722,PC (Microsoft Windows)
-723,PC (Microsoft Windows)
-724,PC (Microsoft Windows)
-725,PC (Microsoft Windows)
-726,PC (Microsoft Windows)
-727,PC (Microsoft Windows)
 728,PC DOS
 730,PC (Microsoft Windows)
-731,PC (Microsoft Windows)
 732,PC (Microsoft Windows)
 733,PC (Microsoft Windows)
-734,PC (Microsoft Windows)
-735,PC (Microsoft Windows)
 736,PC (Microsoft Windows)
-737,PC (Microsoft Windows)
-738,PC (Microsoft Windows)
-739,PC (Microsoft Windows)
-740,PC (Microsoft Windows)
 741,PC (Microsoft Windows)
-744,PC (Microsoft Windows)
-748,PC (Microsoft Windows)
-749,Linux
 750,PC (Microsoft Windows)
-751,PC (Microsoft Windows)
-752,PC (Microsoft Windows)
-753,PC (Microsoft Windows)
-754,PC (Microsoft Windows)
-755,PC (Microsoft Windows)
-757,PC (Microsoft Windows)
-758,PC (Microsoft Windows)
-759,PC (Microsoft Windows)
-760,PC (Microsoft Windows)
-763,Linux
-764,PC (Microsoft Windows)
-766,PC (Microsoft Windows)
 767,Linux
-769,PC (Microsoft Windows)
-774,PC (Microsoft Windows)
-775,PC DOS
-776,PC (Microsoft Windows)
-777,PC (Microsoft Windows)
-778,PC (Microsoft Windows)
-780,PC (Microsoft Windows)
-781,Linux
 782,PC (Microsoft Windows)
-783,PC (Microsoft Windows)
-784,PC (Microsoft Windows)
-786,PC (Microsoft Windows)
-787,Linux
 788,PC (Microsoft Windows)
 790,PC (Microsoft Windows)
-791,PC DOS
-793,PC (Microsoft Windows)
 794,PC DOS
-795,PC (Microsoft Windows)
 796,PC (Microsoft Windows)
 797,PC (Microsoft Windows)
-798,PC (Microsoft Windows)
-799,Linux
-803,PC (Microsoft Windows)
-804,PC (Microsoft Windows)
-807,PC (Microsoft Windows)
-808,PC (Microsoft Windows)
-809,PC (Microsoft Windows)
-810,PC DOS
-811,Nintendo 64
-812,Nintendo 64
-813,PC (Microsoft Windows)
-814,PC (Microsoft Windows)
 815,PC (Microsoft Windows)
-816,PC (Microsoft Windows)
 817,PC (Microsoft Windows)
-818,PC (Microsoft Windows)
-819,PC (Microsoft Windows)
 820,PC (Microsoft Windows)
 824,PC (Microsoft Windows)
-825,Xbox 360
-826,PC (Microsoft Windows)
 827,PC (Microsoft Windows)
-828,PC (Microsoft Windows)
 832,Linux
-833,PlayStation 3
-834,PC (Microsoft Windows)
-836,PC (Microsoft Windows)
-837,PC (Microsoft Windows)
-838,PC (Microsoft Windows)
-839,PC (Microsoft Windows)
-840,PC (Microsoft Windows)
 841,PC (Microsoft Windows)
 842,PC (Microsoft Windows)
-843,Nintendo 64
-844,Linux
-845,PC (Microsoft Windows)
-846,PC (Microsoft Windows)
-847,PC (Microsoft Windows)
-848,PC (Microsoft Windows)
-849,PC (Microsoft Windows)
-850,PC (Microsoft Windows)
 851,Linux
-852,PC (Microsoft Windows)
-853,PC (Microsoft Windows)
-854,Wii
-855,PC (Microsoft Windows)
-856,PC (Microsoft Windows)
-857,Linux
-858,PC (Microsoft Windows)
-860,PC (Microsoft Windows)
-862,Wii
 863,Linux
-864,PC (Microsoft Windows)
-865,PC (Microsoft Windows)
 866,Linux
-868,Wii
-869,PC (Microsoft Windows)
-870,PC (Microsoft Windows)
-871,PC (Microsoft Windows)
-872,PC (Microsoft Windows)
-873,PC (Microsoft Windows)
-874,PC (Microsoft Windows)
-875,PC (Microsoft Windows)
-876,PC (Microsoft Windows)
-877,PC (Microsoft Windows)
-879,PC (Microsoft Windows)
-880,Nintendo 64
-881,PC (Microsoft Windows)
-884,PC (Microsoft Windows)
-885,Linux
-888,Linux
-890,PC (Microsoft Windows)
-891,Linux
-892,PC (Microsoft Windows)
-893,PC DOS
-894,PC (Microsoft Windows)
-895,PC (Microsoft Windows)
-897,PC (Microsoft Windows)
-898,PC (Microsoft Windows)
-899,PC (Microsoft Windows)
-900,PC (Microsoft Windows)
 902,PC (Microsoft Windows)
-903,PC (Microsoft Windows)
-904,PC (Microsoft Windows)
-905,PC (Microsoft Windows)
-906,PC (Microsoft Windows)
-907,PC (Microsoft Windows)
-908,PC (Microsoft Windows)
-909,PC (Microsoft Windows)
-910,PC (Microsoft Windows)
 911,PC (Microsoft Windows)
-912,PC (Microsoft Windows)
 913,Nintendo 64
-914,Nintendo 64
-915,PC (Microsoft Windows)
 916,PC (Microsoft Windows)
-918,PC (Microsoft Windows)
-920,PC (Microsoft Windows)
-921,PC (Microsoft Windows)
-922,Linux
-923,PC (Microsoft Windows)
-924,PC (Microsoft Windows)
-925,PC (Microsoft Windows)
-926,Linux
-927,Linux
-928,PC (Microsoft Windows)
-929,PC (Microsoft Windows)
-932,PC (Microsoft Windows)
-933,PC (Microsoft Windows)
 934,PC (Microsoft Windows)
 935,PC (Microsoft Windows)
-936,PC (Microsoft Windows)
-937,PC (Microsoft Windows)
-939,PC (Microsoft Windows)
-940,PC DOS
-941,PC (Microsoft Windows)
-942,Linux
-943,PC (Microsoft Windows)
-944,PC (Microsoft Windows)
-945,PC (Microsoft Windows)
-946,PC (Microsoft Windows)
-947,PC (Microsoft Windows)
-948,Nintendo 64
-949,Wii
-951,PC (Microsoft Windows)
-952,PlayStation 3
-953,PlayStation 3
-954,PlayStation 3
 955,PC DOS
-956,PC (Microsoft Windows)
-957,PC (Microsoft Windows)
-958,PC (Microsoft Windows)
-959,PC (Microsoft Windows)
-960,PC (Microsoft Windows)
-961,PC (Microsoft Windows)
-962,PC DOS
-964,PC (Microsoft Windows)
-965,PC (Microsoft Windows)
-966,PC (Microsoft Windows)
-967,PC (Microsoft Windows)
-968,Dreamcast
-970,Wii
-971,PlayStation 2
-972,PlayStation 2
-973,PlayStation 2
 974,Wii
-975,Wii
-976,Nintendo 3DS
-977,PC (Microsoft Windows)
-978,Nintendo 3DS
-979,Wii
-980,PC (Microsoft Windows)
-981,Wii
-982,Wii
-983,PC (Microsoft Windows)
-984,Wii
-985,Wii
-986,PC (Microsoft Windows)
 987,PC (Microsoft Windows)
-988,Xbox 360
-989,PC (Microsoft Windows)
 990,PC (Microsoft Windows)
-991,PC (Microsoft Windows)
-993,PC (Microsoft Windows)
-994,PC (Microsoft Windows)
-995,PC (Microsoft Windows)
-996,PlayStation 3
-997,PlayStation 3
-998,PlayStation Vita
-999,PC (Microsoft Windows)
-1000,PC (Microsoft Windows)
-1001,Linux
-1002,PC (Microsoft Windows)
-1003,PC (Microsoft Windows)
-1004,PC (Microsoft Windows)
-1005,PC (Microsoft Windows)
-1006,PC (Microsoft Windows)
-1007,PC (Microsoft Windows)
-1008,Linux
 1009,PlayStation 3
-1010,Linux
-1011,Linux
-1012,PC (Microsoft Windows)
-1013,PlayStation 3
-1014,PC (Microsoft Windows)
-1015,PC (Microsoft Windows)
+1020,PC (Microsoft Windows)
+1026,Wii
+1027,Game Boy Color
+1028,Game Boy
+1029,Nintendo 64
+1030,Nintendo 64
+1033,Nintendo GameCube
+1036,Nintendo GameCube
+1039,Nintendo 3DS
+1046,PC (Microsoft Windows)
+1068,Wii
+1070,Wii
+1073,Super Nintendo Entertainment System (SNES)
+1074,Nintendo 64
+1077,Wii
+1078,Wii
+1090,Wii
+1092,Wii
+1103,Wii
+1105,Wii
+1107,Game Boy Advance
+1108,Nintendo GameCube
+1111,Wii
+1112,Wii
+1115,MSX
+1128,PlayStation
+1134,Game Boy Advance
+1173,Game Boy Advance
+1179,Game Boy Color
+1200,Super Famicom
+1204,PC (Microsoft Windows)
+1215,PlayStation 2
+1217,PC (Microsoft Windows)
+1221,PlayStation 2
+1224,PlayStation Portable
+1229,PlayStation 2
+1230,Wii
+1233,Wii
+1250,PC (Microsoft Windows)
+1251,PC (Microsoft Windows)
+1253,Super Nintendo Entertainment System (SNES)
+1255,PC (Microsoft Windows)
+1260,Xbox 360
+1271,Wii
+1272,Wii
+1341,PC (Microsoft Windows)
+1346,PlayStation
+1348,Nintendo DS
+1352,PC (Microsoft Windows)
+1357,Amiga
+1370,PC (Microsoft Windows)
+1371,PC (Microsoft Windows)
+1399,Nintendo DS
+1428,Wii
+1433,Wii
+1436,Wii
+1437,Wii
+1439,Game Boy Advance
+1440,Game Boy Advance
+1442,Wii
+1443,Nintendo 3DS
+1454,PC (Microsoft Windows)
+1463,Nintendo 64
+1466,Xbox 360
+1498,PlayStation
+1511,Game Boy
+1513,Game Boy Color
+1514,Game Boy Color
+1517,Game Boy Advance
+1518,Nintendo DS
+1520,Nintendo DS
+1545,PlayStation Vita
+1551,Dreamcast
+1556,Nintendo DS
+1558,Game Boy Color
+1600,PlayStation 2
+1601,PlayStation 2
+1627,Nintendo GameCube
+1638,Nintendo 64
+1671,Sega Saturn
+1692,Game Boy Advance
+1698,Game Boy Color
+1706,Wii
+1715,Wii
+1741,Wii
+1754,PC (Microsoft Windows)
+1757,Game Boy Advance
+1758,Game Boy Advance
+1779,Nintendo DS
+1780,Nintendo DS
+1786,Nintendo DS
+1802,Wii
+1804,PlayStation
+1814,Nintendo Entertainment System (NES)
+1816,PlayStation 2
+1819,PlayStation 2
+1840,PC (Microsoft Windows)
+1864,PlayStation 3
+1871,Linux
+1904,Linux
+1934,PC DOS
+1942,PC (Microsoft Windows)
+1955,PC (Microsoft Windows)
+1968,PC (Microsoft Windows)
+1985,PC (Microsoft Windows)
+2012,Linux
+2025,Linux
+2037,PC (Microsoft Windows)
+2054,PC (Microsoft Windows)
+2133,PlayStation 3
+2135,Wii U
+2143,PlayStation 2
+2144,PlayStation 2
+2148,Nintendo 64
+2155,PC (Microsoft Windows)
+2164,PC (Microsoft Windows)
+2180,Wii U
+2194,Wii
+2200,PC DOS
+2201,PC DOS
+2207,PlayStation 2
+2229,PC DOS
+2240,Wii
+2259,Wii
+2261,PC (Microsoft Windows)
+2262,PC (Microsoft Windows)
+2266,Wii
+2274,Linux
+2276,Wii U
+2283,PC (Microsoft Windows)
+2295,PC DOS
+2350,Wii U
+2364,Wii
+2413,PC (Microsoft Windows)
+2445,PC DOS
+2481,PC (Microsoft Windows)
+2528,PC DOS
+2541,Wii
+2591,Nintendo 64
+2617,PC DOS
+2687,Nintendo 3DS
+2692,Wii
+2693,Wii
+2853,Linux
+2878,PC (Microsoft Windows)
+2895,Linux
+2899,Super Nintendo Entertainment System (SNES)
+2900,PC (Microsoft Windows)
+2909,Nintendo 3DS
+2912,PC (Microsoft Windows)
+2922,PC (Microsoft Windows)
+2951,PC DOS
+2968,PlayStation 2
+2985,PC (Microsoft Windows)
+3000,Sega Mega Drive/Genesis
+3023,PC (Microsoft Windows)
+3029,PC (Microsoft Windows)
+3036,PC (Microsoft Windows)
+3047,Xbox 360
+3067,Linux
+3084,PC (Microsoft Windows)
+3088,PC (Microsoft Windows)
+3102,Linux
+3126,PC (Microsoft Windows)
+3127,PlayStation
+3141,PC DOS
+3197,Wii
+3216,Wii
+3230,PC (Microsoft Windows)
+3272,Linux
+3319,Dreamcast
+3322,Xbox 360
+3340,Nintendo 64
+3349,Nintendo GameCube
+3351,Game Boy Advance
+3363,Nintendo DS
+3378,Nintendo 64
+3380,PlayStation
+3384,Nintendo GameCube
+3405,Nintendo 3DS
+3418,Nintendo 64
+3448,Wii
+3466,Nintendo DS
+3568,Nintendo 64
+3637,Nintendo 64
+3641,Nintendo 64
+3683,Game Boy Advance
+3719,Wii
+3725,Wii
+3730,Wii
+3735,PlayStation 3
+3783,PlayStation 2
+3794,Wii
+3795,Nintendo GameCube
+3798,PC DOS
+3814,PC (Microsoft Windows)
+3915,PlayStation 2
+3932,PlayStation 2
+3953,PC (Microsoft Windows)
+4034,PC (Microsoft Windows)
+4035,PlayStation 2
+4036,PlayStation 2
+4041,PlayStation 2
+4042,PlayStation 2
+4043,PC (Microsoft Windows)
+4126,PlayStation
+4152,Nintendo GameCube
+4157,Nintendo GameCube
+4174,PlayStation 2
+4316,PC DOS
+4345,PC DOS
+4348,PC (Microsoft Windows)
+4438,Wii
+4641,PC (Microsoft Windows)
+4678,Wii
+4691,Xbox 360
+4706,Wii
+4716,Wii
+4719,Wii
+4754,Linux
+4816,Wii
+4820,Wii
+4833,Wii
+4841,PlayStation 3
+4884,Wii
+4887,Xbox 360
+4959,PlayStation
+4985,Wii
+4986,Wii
+5039,PC (Microsoft Windows)
+5056,Wii
+5065,Wii
+5079,Wii
+5082,PC (Microsoft Windows)
+5099,Wii
+5105,PlayStation 2
+5114,Wii
+5132,Wii
+5136,Wii
+5199,Super Nintendo Entertainment System (SNES)
+5223,Wii
+5233,Wii
+5258,Wii
+5349,Wii
+5369,Sega CD
+5401,Sega CD
+5413,PlayStation 2
+5418,Wii
+5422,Xbox 360
+5423,PC DOS
+5440,Nintendo 3DS
+5450,Amiga
+5502,PlayStation
+5503,PC (Microsoft Windows)
+5504,PC DOS
+5508,Linux
+5514,PC (Microsoft Windows)
+5550,Wii
+5563,PC (Microsoft Windows)
+5595,PlayStation 4
+5613,Linux
+5623,PC (Microsoft Windows)
+5626,Linux
+5641,PC (Microsoft Windows)
+5645,PC (Microsoft Windows)
+5654,Intellivision
+5831,Xbox
+5850,PC (Microsoft Windows)
+5882,PC (Microsoft Windows)
+5894,Linux
+5911,Xbox
+5951,PC (Microsoft Windows)
+5953,PlayStation 2
+5954,PlayStation 2
+5982,PC (Microsoft Windows)
+6036,PlayStation 4
+6154,Nintendo Entertainment System (NES)
+6165,PC DOS
+6256,Linux
+6279,iOS
+6291,PC (Microsoft Windows)
+6294,PC (Microsoft Windows)
+6325,PC (Microsoft Windows)
+6341,Linux
+6375,Game Boy Advance
+6405,Linux
+6440,Nintendo 3DS
+6453,PlayStation 2
+6454,PlayStation 2
+6456,Xbox 360
+6459,PlayStation 3
+6462,PlayStation Vita
+6504,Game Boy Advance
+6516,Nintendo DS
+6517,PlayStation 3
+6555,Wii
+6614,PC (Microsoft Windows)
+6616,Game Boy Advance
+6701,Linux
+6707,PC (Microsoft Windows)
+6739,Linux
+6741,Linux
+6763,Donner Model 30
+6838,Nintendo DS
+6855,Arcade
+6865,Wii
+6887,Nintendo 3DS
+6892,Nintendo 3DS
+6906,Nintendo 3DS
+6933,Xbox 360
+6962,PC (Microsoft Windows)
+6967,PC (Microsoft Windows)
+6978,PlayStation 2
+6982,PlayStation 3
+7016,PlayStation 3
+7039,PlayStation 3
+7046,Linux
+7111,PlayStation 2
+7130,Xbox 360
+7139,PC (Microsoft Windows)
+7140,PC (Microsoft Windows)
+7158,PlayStation 3
+7160,Xbox 360
+7167,Xbox 360
+7178,PC (Microsoft Windows)
+7179,PC (Microsoft Windows)
+7180,PC (Microsoft Windows)
+7189,PlayStation 3
+7194,PC (Microsoft Windows)
+7275,PlayStation 3
+7278,PlayStation 3
+7331,PlayStation 4
+7334,PlayStation 4
+7342,PC (Microsoft Windows)
+7344,PC (Microsoft Windows)
+7346,Wii U
+7348,PC (Microsoft Windows)
+7351,PC (Microsoft Windows)
+7356,PlayStation 3
+7386,Linux
+7397,PC (Microsoft Windows)
+7406,Linux
+7444,Linux
+7464,PlayStation 3
+7470,PlayStation 3
+7477,PlayStation 3
+7489,PlayStation 3
+7510,PC (Microsoft Windows)
+7512,PC (Microsoft Windows)
+7543,Linux
+7585,PC (Microsoft Windows)
+7592,PC (Microsoft Windows)
+7593,PC (Microsoft Windows)
+7594,PC (Microsoft Windows)
+7595,PC (Microsoft Windows)
+7603,PC (Microsoft Windows)
+7634,Linux
+7635,Linux
+7650,PC (Microsoft Windows)
+7739,PC (Microsoft Windows)
+7789,Linux
+7824,Super Nintendo Entertainment System (SNES)
+7841,PlayStation 3
+7881,PlayStation 2
+7900,PC (Microsoft Windows)
+7936,Wii
+8002,PlayStation
+8072,PC (Microsoft Windows)
+8100,Sega Mega Drive/Genesis
+8145,PC (Microsoft Windows)
+8167,Nintendo DS
+8195,Sega Mega Drive/Genesis
+8197,PC DOS
+8199,Nintendo DS
+8211,PC (Microsoft Windows)
+8214,Linux
+8240,PlayStation 2
+8247,PlayStation 2
+8254,PC (Microsoft Windows)
+8257,PC DOS
+8288,PC (Microsoft Windows)
+8292,PC (Microsoft Windows)
+8293,PC (Microsoft Windows)
+8307,PC DOS
+8362,PC (Microsoft Windows)
+8389,Wii
+8467,PC (Microsoft Windows)
+8471,PC (Microsoft Windows)
+8477,Atari Jaguar
+8492,Linux
+8584,Linux
+8593,Nintendo 3DS
+8711,Mac
+8734,Web browser
+8735,PC (Microsoft Windows)
+8749,Xbox 360
+8750,Linux
+8763,PC (Microsoft Windows)
+8773,PC (Microsoft Windows)
+8864,Linux
+8912,PC (Microsoft Windows)
+8947,PC (Microsoft Windows)
+8968,Linux
+8969,PC (Microsoft Windows)
+8973,PC (Microsoft Windows)
+8974,PC (Microsoft Windows)
+8975,Linux
+8986,PC (Microsoft Windows)
+9014,Linux
+9035,Linux
+9037,PC (Microsoft Windows)
+9046,Linux
+9058,PC (Microsoft Windows)
+9059,PC (Microsoft Windows)
+9061,PC (Microsoft Windows)
+9067,Nintendo 64
+9103,PC (Microsoft Windows)
+9112,Linux
+9142,PlayStation 2
+9143,PC (Microsoft Windows)
+9146,PC (Microsoft Windows)
+9191,PC (Microsoft Windows)
+9232,PC (Microsoft Windows)
+9262,PC (Microsoft Windows)
+9495,PC (Microsoft Windows)
+9532,Linux
+9538,PC (Microsoft Windows)
+9542,PC (Microsoft Windows)
+9577,PlayStation 2
+9587,Linux
+9600,PlayStation 2
+9601,Nintendo DS
+9607,PC (Microsoft Windows)
+9609,Linux
+9611,PC (Microsoft Windows)
+9620,PC (Microsoft Windows)
+9627,Linux
+9632,Linux
+9633,Super Nintendo Entertainment System (SNES)
+9643,PC (Microsoft Windows)
+9694,Linux
+9700,Linux
+9740,PC (Microsoft Windows)
+9759,PC (Microsoft Windows)
+9789,Linux
+9808,PC (Microsoft Windows)
+9809,PC (Microsoft Windows)
+9833,PC (Microsoft Windows)
+9834,PC (Microsoft Windows)
+9840,PC (Microsoft Windows)
+9894,PC (Microsoft Windows)
+9898,Linux
+9927,PlayStation 3
+10039,PC (Microsoft Windows)
+10107,PC (Microsoft Windows)
+10121,PC DOS
+10166,PC (Microsoft Windows)
+10175,Linux
+10192,PC (Microsoft Windows)
+10222,Game Boy Advance
+10235,PC DOS
+10496,PC DOS
+10578,PC (Microsoft Windows)
+10583,PC (Microsoft Windows)
+10760,PC (Microsoft Windows)
+10951,PC (Microsoft Windows)
+10962,PlayStation 4
+11002,PC (Microsoft Windows)
+11051,PlayStation 2
+11104,PC (Microsoft Windows)
+11118,PC (Microsoft Windows)
+11133,PC (Microsoft Windows)
+11156,PC (Microsoft Windows)
+11169,PC (Microsoft Windows)
+11208,PC (Microsoft Windows)
+11210,PlayStation
+11212,PlayStation 2
+11219,PC (Microsoft Windows)
+11222,PlayStation Vita
+11226,PC (Microsoft Windows)
+11227,Super Nintendo Entertainment System (SNES)
+11230,PC (Microsoft Windows)
+11244,PlayStation 2
+11247,PC (Microsoft Windows)
+11250,PC (Microsoft Windows)
+11259,PC (Microsoft Windows)
+11270,Linux
+11328,PC (Microsoft Windows)
+11374,Commodore C64/128
+11394,PC (Microsoft Windows)
+11397,PC (Microsoft Windows)
+11416,PlayStation Portable
+11417,PC (Microsoft Windows)
+11437,PlayStation 2
+11459,Nintendo 3DS
+11565,PlayStation 3
+11575,PC (Microsoft Windows)
+11594,PlayStation 4
+11610,PlayStation 2
+11612,PC (Microsoft Windows)
+11621,PC (Microsoft Windows)
+11631,Linux
+11650,PC DOS
+11654,PlayStation 4
+11658,Nintendo 3DS
+11737,PC (Microsoft Windows)
+11772,Linux
+11783,Nintendo 3DS
+11800,PC (Microsoft Windows)
+11828,Nintendo 3DS
+11845,PC DOS
+11885,PC DOS
+11987,PlayStation 2
+12071,PC DOS
+12089,PC DOS
+12151,Linux
+12328,PC (Microsoft Windows)
+12329,PC (Microsoft Windows)
+12382,PlayStation Portable
+12423,PC DOS
+12443,PC (Microsoft Windows)
+12497,PC DOS
+12503,PC (Microsoft Windows)
+12517,Linux
+12579,PC (Microsoft Windows)
+12586,Commodore C64/128
+12672,PC DOS
+12765,Amiga
+12861,Amiga
+12987,PC (Microsoft Windows)
+13074,PC DOS
+13093,Linux
+13100,PC (Microsoft Windows)
+13137,PC (Microsoft Windows)
+13152,PC (Microsoft Windows)
+13155,PC (Microsoft Windows)
+13166,PC (Microsoft Windows)
+13177,PC (Microsoft Windows)
+13178,PC (Microsoft Windows)
+13226,Linux
+13257,PC DOS
+13350,Commodore C64/128
+13547,PC (Microsoft Windows)
+13620,PC (Microsoft Windows)
+13676,PlayStation
+13679,Arcade
+13690,PC (Microsoft Windows)
+13923,Linux
+13925,PC (Microsoft Windows)
+13926,PC (Microsoft Windows)
+13927,PC (Microsoft Windows)
+13928,PC (Microsoft Windows)
+14173,PC (Microsoft Windows)
+14177,Linux
+14411,PlayStation 2
+14437,PC (Microsoft Windows)
+14481,PC DOS
+14542,PC (Microsoft Windows)
+14544,PC (Microsoft Windows)
+14593,Linux
+14647,PlayStation 4
+14697,Super Nintendo Entertainment System (SNES)
+14701,PC (Microsoft Windows)
+14717,Nintendo DS
+14718,Nintendo DS
+14723,PC (Microsoft Windows)
+14741,Linux
+14891,PC (Microsoft Windows)
+15020,PlayStation
+15072,Linux
+15123,PC (Microsoft Windows)
+15128,Linux
+15140,PC (Microsoft Windows)
+15167,Linux
+15464,Linux
+15465,Linux
+15467,Nintendo DS
+15531,PC (Microsoft Windows)
+15535,Sega Game Gear
+15559,Wii
+15698,Nintendo Switch
+15709,PlayStation 3
+15744,PC (Microsoft Windows)
+15815,Linux
+15839,Nintendo DS
+15841,Wii
+15843,Super Famicom
+16203,PC (Microsoft Windows)
+16305,PC (Microsoft Windows)
+16310,PC (Microsoft Windows)
+16328,PC (Microsoft Windows)
+16480,Linux
+16538,PC (Microsoft Windows)
+16585,Super Famicom
+16617,Game Boy Advance
+16665,PC (Microsoft Windows)
+16730,Linux
+16748,Game Boy Advance
+16840,Linux
+16867,PC (Microsoft Windows)
+16983,PC (Microsoft Windows)
+17000,Linux
+17011,PC (Microsoft Windows)
+17224,Linux
+17467,Linux
+17573,Linux
+18056,PlayStation 2
+18058,Android
+18074,Linux
+18131,PlayStation 3
+18136,Linux
+18150,PC (Microsoft Windows)
+18165,PC (Microsoft Windows)
+18182,Linux
+18189,PC (Microsoft Windows)
+18197,PC (Microsoft Windows)
+18211,PC (Microsoft Windows)
+18221,Nintendo 3DS
+18224,Nintendo 3DS
+18314,Nintendo DS
+18337,PC (Microsoft Windows)
+18370,PlayStation Vita
+18453,PC (Microsoft Windows)
+18597,Nintendo DS
+18698,PlayStation
+18699,PlayStation
+18730,Linux
+18735,Xbox
+18808,Nintendo Entertainment System (NES)
+18829,PC (Microsoft Windows)
+18870,PC (Microsoft Windows)
+18872,PC (Microsoft Windows)
+18924,PC (Microsoft Windows)
+18967,PC (Microsoft Windows)
+18984,PC (Microsoft Windows)
+19009,PC (Microsoft Windows)
+19069,PC (Microsoft Windows)
+19085,Linux
+19118,Nintendo Entertainment System (NES)
+19121,Linux
+19131,Nintendo 3DS
+19150,Linux
+19190,PC (Microsoft Windows)
+19293,Linux
+19297,Linux
+19325,Linux
+19334,Android
+19351,PC (Microsoft Windows)
+19394,PC (Microsoft Windows)
+19409,PC (Microsoft Windows)
+19456,PC (Microsoft Windows)
+19457,PC (Microsoft Windows)
+19526,Mac
+19560,PC (Microsoft Windows)
+19564,PC (Microsoft Windows)
+19565,PlayStation 4
+19598,Nintendo 3DS
+19636,PlayStation 3
+19686,PC (Microsoft Windows)
+19728,Linux
+19729,Linux
+19803,PC (Microsoft Windows)
+19839,PC (Microsoft Windows)
+19874,PC (Microsoft Windows)
+19875,PC (Microsoft Windows)
+19897,PC (Microsoft Windows)
+19910,Xbox 360
+19924,PC (Microsoft Windows)
+19942,Linux
+19947,PC (Microsoft Windows)
+19959,PlayStation 4
+19984,Nintendo 3DS
+19994,PlayStation 3
+20065,PC (Microsoft Windows)
+20068,PlayStation 3
+20113,PlayStation 3
+20189,PC (Microsoft Windows)
+20192,Sega Mega Drive/Genesis
+20196,PlayStation 3
+20203,PC (Microsoft Windows)
+20341,PC (Microsoft Windows)
+20545,PC (Microsoft Windows)
+20566,PC (Microsoft Windows)
+20622,PlayStation 3
+20655,Game Boy Advance
+20734,PC (Microsoft Windows)
+20740,PC (Microsoft Windows)
+20741,PlayStation 3
+20744,PC (Microsoft Windows)
+20749,PlayStation 3
+20834,Wii U
+20880,PlayStation 4
+20970,PlayStation 3
+20979,Nintendo DS
+21014,Dreamcast
+21040,PC (Microsoft Windows)
+21073,Nintendo 3DS
+21084,PlayStation 3
+21184,Wii
+21206,Nintendo DS
+21669,PlayStation 3
+21704,PC (Microsoft Windows)
+21715,PlayStation 3
+21737,PlayStation 3
+21762,PC (Microsoft Windows)
+21798,Xbox 360
+21838,Xbox 360
+21874,PlayStation 3
+21892,PC (Microsoft Windows)
+21970,PC (Microsoft Windows)
+21972,PC (Microsoft Windows)
+21988,PC (Microsoft Windows)
+22066,PC (Microsoft Windows)
+22144,PC (Microsoft Windows)
+22239,PlayStation 2
+22439,PC (Microsoft Windows)
+22461,Nintendo 3DS
+22500,PC (Microsoft Windows)
+22555,Mac
+22686,Wii
+22705,Android
+22754,PC (Microsoft Windows)
+22778,PC (Microsoft Windows)
+22958,Nintendo DS
+22984,PlayStation 2
+23048,PC DOS
+23095,Nintendo DS
+23158,PC (Microsoft Windows)
+23190,Linux
+23192,Linux
+23294,PC (Microsoft Windows)
+23322,PC (Microsoft Windows)
+23323,PC (Microsoft Windows)
+23427,Android
+23499,PC (Microsoft Windows)
+23501,Linux
+23701,Linux
+23717,PC (Microsoft Windows)
+23851,PC (Microsoft Windows)
+23910,Linux
+23954,PlayStation 4
+23957,PC (Microsoft Windows)
+24080,PC (Microsoft Windows)
+24223,PC (Microsoft Windows)
+24413,PC (Microsoft Windows)
+24417,PC (Microsoft Windows)
+24427,Linux
+24481,Linux
+24493,Android
+24512,PC (Microsoft Windows)
+24645,Nintendo DS
+24723,PC (Microsoft Windows)
+24869,Wii
+24891,PlayStation 4
+24917,PC (Microsoft Windows)
+24930,PC (Microsoft Windows)
+24952,Nintendo 3DS
+24962,PlayStation 4
+25076,PC (Microsoft Windows)
+25100,Nintendo DS
+25253,PC (Microsoft Windows)
+25358,PC (Microsoft Windows)
+25513,PC (Microsoft Windows)
+25532,PC (Microsoft Windows)
+25572,Linux
+25599,PC (Microsoft Windows)
+25632,Windows Mixed Reality
+25649,PC (Microsoft Windows)
+25651,Linux
+25838,PC (Microsoft Windows)
+25843,Linux
+26127,PC (Microsoft Windows)
+26143,PlayStation
+26176,Nintendo 3DS
+26192,PlayStation 4
+26195,PlayStation 4
+26226,Linux
+26255,PC (Microsoft Windows)
+26384,PlayStation 3
+26451,PC (Microsoft Windows)
+26472,PC (Microsoft Windows)
+26625,PC (Microsoft Windows)
+26673,PC (Microsoft Windows)
+26700,PC (Microsoft Windows)
+26758,Nintendo Switch
+26766,Nintendo Switch
+26775,Nintendo Switch
+26795,PC (Microsoft Windows)
+26805,Nintendo DS
+26834,PC (Microsoft Windows)
+26840,Nintendo 3DS
+26845,Nintendo Switch
+26848,Linux
+26916,PC (Microsoft Windows)
+26940,PC (Microsoft Windows)
+26974,Linux
+27028,Android
+27033,Nintendo 3DS
+27034,Linux
+27035,PlayStation 4
+27072,Linux
+27129,Nintendo 3DS
+27241,Linux
+27258,Nintendo 3DS
+27304,PC (Microsoft Windows)
+27396,PC (Microsoft Windows)
+27397,Android
+27436,PC (Microsoft Windows)
+27461,Super Nintendo Entertainment System (SNES)
+27499,PC (Microsoft Windows)
+27667,PC (Microsoft Windows)
+27677,PC (Microsoft Windows)
+27685,PC (Microsoft Windows)
+27762,Linux
+27820,PC (Microsoft Windows)
+27844,PC (Microsoft Windows)
+27845,PC (Microsoft Windows)
+27857,PC (Microsoft Windows)
+27862,PC (Microsoft Windows)
+27867,PC (Microsoft Windows)
+27911,PC (Microsoft Windows)
+27916,Nintendo Switch
+27930,PC (Microsoft Windows)
+27959,Nintendo 3DS
+27979,PC (Microsoft Windows)
+28028,Linux
+28073,PC (Microsoft Windows)
+28129,PC (Microsoft Windows)
+28142,PC (Microsoft Windows)
+28160,Linux
+28176,PC (Microsoft Windows)
+28210,PC (Microsoft Windows)
+28222,PC (Microsoft Windows)
+28323,PC (Microsoft Windows)
+28337,PlayStation 4
+28389,Super Nintendo Entertainment System (SNES)
+28412,iOS
+28710,Android
+28738,PC (Microsoft Windows)
+28896,Android
+28935,Linux
+28955,Linux
+28972,PC (Microsoft Windows)
+28981,PC (Microsoft Windows)
+29211,PC (Microsoft Windows)
+29586,PC (Microsoft Windows)
+29920,PC (Microsoft Windows)
+29927,PC (Microsoft Windows)
+29961,Linux
+30155,PC (Microsoft Windows)
+30237,PC (Microsoft Windows)
+30424,Linux
+30548,PC (Microsoft Windows)
+30583,Linux
+30804,PC (Microsoft Windows)
+30968,PC (Microsoft Windows)
+30994,PC (Microsoft Windows)
+31149,PC (Microsoft Windows)
+31292,PC (Microsoft Windows)
+32469,PC (Microsoft Windows)
+32614,PC (Microsoft Windows)
+32889,PC (Microsoft Windows)
+32902,PC (Microsoft Windows)
+32969,PC (Microsoft Windows)
+33306,PC (Microsoft Windows)
+33414,PC (Microsoft Windows)
+33992,Linux
+34062,PC (Microsoft Windows)
+34266,PC (Microsoft Windows)
+34293,PC (Microsoft Windows)
+34392,PC (Microsoft Windows)
+34610,Linux
+34669,PC (Microsoft Windows)
+34670,PC (Microsoft Windows)
+34951,Linux
+35282,Linux
+35934,Linux
+36550,PC (Microsoft Windows)
+36620,PC (Microsoft Windows)
+36721,PC (Microsoft Windows)
+36749,Mac
+36929,Linux
+37001,PC (Microsoft Windows)
+37034,Nintendo Switch
+37057,Linux
+37059,PC (Microsoft Windows)
+37060,Linux
+37083,PlayStation 4
+37138,PC (Microsoft Windows)
+37184,Android
+38387,Super Famicom
+38884,iOS
+38973,PC (Microsoft Windows)
+39216,Android
+39217,PC (Microsoft Windows)
+39463,Arcade
+39539,Wii
+40477,Linux
+41026,Android
+41595,PC (Microsoft Windows)
+41597,PC (Microsoft Windows)
+41610,PC (Microsoft Windows)
+41620,PlayStation 4
+41621,PC (Microsoft Windows)
+41829,Wii U
+41862,PlayStation 4
+41876,PlayStation 4
+41877,PlayStation 4
+41884,PlayStation 3
+42554,Super Nintendo Entertainment System (SNES)
+42635,PC (Microsoft Windows)
+42813,PlayStation Portable
+42929,PlayStation 4
+42931,PlayStation 4
+42975,PlayStation 3
+43017,PlayStation 3
+43680,PlayStation 2
+43914,PlayStation
+44078,PC (Microsoft Windows)
+44390,Nintendo 3DS
+45142,Nintendo 64
+45178,PlayStation 3
+46265,Sega Mega Drive/Genesis
+46614,PC (Microsoft Windows)
+46619,PC (Microsoft Windows)
+46976,PC (Microsoft Windows)
+46980,PC (Microsoft Windows)
+47107,PC (Microsoft Windows)
+47445,PC (Microsoft Windows)
+47447,PlayStation 3
+49652,Game Boy Advance
+50347,PC (Microsoft Windows)
+50357,PC DOS
+51226,PC (Microsoft Windows)
+51267,PC (Microsoft Windows)
+51378,PlayStation 4
+51485,PC (Microsoft Windows)
+51799,PC (Microsoft Windows)
+51820,Linux
+52006,PC (Microsoft Windows)
+52213,Android
+52496,Linux
+52578,iOS
+52715,PlayStation 4
+52881,Android
+53127,PC (Microsoft Windows)
+53387,PC (Microsoft Windows)
+53506,Xbox One
+53812,PC (Microsoft Windows)
+53818,PC (Microsoft Windows)
+54167,PC (Microsoft Windows)
+54220,Nintendo 3DS
+54350,Android
+54612,PC (Microsoft Windows)
+54662,Linux
+55036,PC (Microsoft Windows)
+55056,PC (Microsoft Windows)
+55057,PC (Microsoft Windows)
+55077,PC (Microsoft Windows)
+55090,PC (Microsoft Windows)
+55112,PlayStation 4
+55169,Android
+55322,PC (Microsoft Windows)
+55372,PC (Microsoft Windows)
+55590,PC (Microsoft Windows)
+55697,Linux
+55771,PC (Microsoft Windows)
+56018,Android
+56060,Android
+56590,Android
+56929,iOS
+56967,iOS
+57064,Android
+57153,Linux
+57191,Android
+57192,PC (Microsoft Windows)
+57297,Nintendo 3DS
+58141,Android
+58656,Android
+58672,PC (Microsoft Windows)
+58717,PC (Microsoft Windows)
+58946,Wii U
+59086,PC (Microsoft Windows)
+59433,Nintendo 3DS
+59437,Android
+59547,PC (Microsoft Windows)
+59849,PlayStation 4
+59858,Linux
+60224,Android
+63499,Android
+65290,Mac
+67778,Wii
+67852,Nintendo DS
+68161,Nintendo Switch
+68316,iOS
+68344,PC (Microsoft Windows)
+68407,Wii
+68713,Linux
+69392,Android
+69638,Nintendo Entertainment System (NES)
+70166,Wii
+71595,PC (Microsoft Windows)
+72327,PC (Microsoft Windows)
+72443,PC (Microsoft Windows)
+72870,PC (Microsoft Windows)
+74162,PC (Microsoft Windows)
+74285,Nintendo Switch
+74545,Linux
+74732,Linux
+74828,Android
+74878,Linux
+74904,PC (Microsoft Windows)
+74946,PlayStation Vita
+74960,iOS
+75131,Mac
+75235,PlayStation 4
+75239,PC (Microsoft Windows)
+75868,PC (Microsoft Windows)
+75932,PC (Microsoft Windows)
+76045,Wii
+76110,PC (Microsoft Windows)
+76217,Nintendo Switch
+76244,PC (Microsoft Windows)
+76331,PC (Microsoft Windows)
+76356,Linux
+76641,PC (Microsoft Windows)
+76844,Android
+76882,PC (Microsoft Windows)
+76927,iOS
+76959,PlayStation 4
+77264,Linux
+77267,Android
+77336,Game Boy Advance
+77378,Super Nintendo Entertainment System (SNES)
+77488,PC (Microsoft Windows)
+77537,Nintendo Switch
+78059,PC (Microsoft Windows)
+78115,PC (Microsoft Windows)
+78127,PlayStation 4
+78386,Android
+78544,Android
+78559,FM-7
+78631,Wii
+78951,Android
+79149,Nintendo GameCube
+79156,PC (Microsoft Windows)
+79812,PlayStation 3
+79987,Nintendo Switch
+80174,Wii
+80185,PlayStation 4
+80468,PlayStation 3
+80731,Nintendo 3DS
+80877,PlayStation 4
+81016,iOS
+81085,PC (Microsoft Windows)
+81141,PC (Microsoft Windows)
+81247,PC (Microsoft Windows)
+81272,Nintendo 3DS
+81732,Linux
+81894,iOS
+82370,PlayStation Vita
+82372,PlayStation 4
+82374,Linux
+82375,Xbox One
+82376,PC (Microsoft Windows)
+82377,PC (Microsoft Windows)
+82392,PlayStation 4
+82418,Wii U
+82421,PlayStation 4
+82435,PC (Microsoft Windows)
+82441,PlayStation 4
+83322,Android
+83504,Linux
+83535,PC (Microsoft Windows)
+83730,Nintendo Switch
+83876,PC (Microsoft Windows)
+83881,PC (Microsoft Windows)
+84157,Wii
+84657,Nintendo 3DS
+84677,Nintendo 3DS
+84696,Wii
+84697,Wii
+84724,Nintendo Switch
+84972,Nintendo DS
+85619,Nintendo Switch
+86295,PC (Microsoft Windows)
+86389,PlayStation 4
+86494,Android
+86647,Nintendo Switch
+86828,iOS
+86970,Android
+87020,Android
+87026,Android
+87030,iOS
+87031,iOS
+87088,PC (Microsoft Windows)
+87183,Android
+87197,Nintendo Switch
+87214,PC (Microsoft Windows)
+87338,PC (Microsoft Windows)
+87352,PC (Microsoft Windows)
+87367,Android
+87407,iOS
+87530,PC (Microsoft Windows)
+87570,PC (Microsoft Windows)
+87577,iOS
+87579,Android
+87683,PC (Microsoft Windows)
+88223,Android
+88320,iOS
+88563,PC (Microsoft Windows)
+88578,PC (Microsoft Windows)
+88618,Nintendo Switch
+88750,PC (Microsoft Windows)
+88844,PC (Microsoft Windows)
+88881,Android
+88904,iOS
+88905,Android
+88907,PlayStation 4
+88938,iOS
+89181,Oculus Quest
+89492,iOS
+89594,Linux
+89730,Android
+89738,Xbox One
+89771,PC (Microsoft Windows)
+89817,Android
+89929,PlayStation 4
+90051,PC (Microsoft Windows)
+90101,Nintendo Switch
+90435,PC (Microsoft Windows)
+90517,PlayStation 4
+90518,PlayStation 4
+90974,PC (Microsoft Windows)
+91121,iOS
+91191,Linux
+91212,PC (Microsoft Windows)
+91477,PC (Microsoft Windows)
+92116,iOS
+93901,PC (Microsoft Windows)
+94049,PC (Microsoft Windows)
+94054,PC (Microsoft Windows)
+94784,Android
+94873,PlayStation 4
+94969,Linux
+94983,Nintendo Switch
+95027,Nintendo Switch
+95054,PC (Microsoft Windows)
+95069,Wii
+95508,PC (Microsoft Windows)
+95645,Android
+95832,PC (Microsoft Windows)
+96252,PC (Microsoft Windows)
+96439,iOS
+96488,PC (Microsoft Windows)
+98077,PC (Microsoft Windows)
+98753,PC (Microsoft Windows)
+99118,Android
+99821,PlayStation 3
+102129,PlayStation VR
+103198,Nintendo Switch
+103221,PC (Microsoft Windows)
+103281,PC (Microsoft Windows)
+103294,PC (Microsoft Windows)
+103317,Nintendo Switch
+103333,PC (Microsoft Windows)
+103337,PC (Microsoft Windows)
+103340,Nintendo Switch
+103364,Nintendo Switch
+104096,PC (Microsoft Windows)
+104786,PC (Microsoft Windows)
+104789,PlayStation 4
+104819,PC (Microsoft Windows)
+104967,Linux
+104971,PC (Microsoft Windows)
+104974,PlayStation 4
+105420,Linux
+105594,PC (Microsoft Windows)
+105624,PC (Microsoft Windows)
+106819,PC (Microsoft Windows)
+107218,Linux
+107300,PC (Microsoft Windows)
+108254,PlayStation 4
+109108,Nintendo Switch
+109233,PlayStation 4
+109241,PC (Microsoft Windows)
+109282,Android
+109287,PlayStation 4
+109367,PC (Microsoft Windows)
+109456,PC (Microsoft Windows)
+109459,PC (Microsoft Windows)
+109464,Nintendo Switch
+109465,PlayStation 4
+109596,Nintendo Switch
+110062,Nintendo Switch
+110069,PC (Microsoft Windows)
+110875,PC (Microsoft Windows)
+111081,PC (Microsoft Windows)
+111276,PC (Microsoft Windows)
+111661,PC (Microsoft Windows)
+112191,Mac
+112412,PC (Microsoft Windows)
+112874,PlayStation 4
+113112,PC (Microsoft Windows)
+113113,PlayStation 4
+113344,PC (Microsoft Windows)
+113345,PC (Microsoft Windows)
+113598,PC (Microsoft Windows)
+113895,PC (Microsoft Windows)
+114135,Nintendo Switch
+114283,PlayStation 4
+114392,PC (Microsoft Windows)
+115278,PC (Microsoft Windows)
+115776,PC (Microsoft Windows)
+115875,Nintendo Switch
+116146,PC (Microsoft Windows)
+116201,PC (Microsoft Windows)
+116539,PC (Microsoft Windows)
+116559,PlayStation 4
+116667,PC (Microsoft Windows)
+116794,PC (Microsoft Windows)
+117882,PlayStation 3
+118308,PC (Microsoft Windows)
+119133,PC (Microsoft Windows)
+119190,PC (Microsoft Windows)
+119270,PC (Microsoft Windows)
+119295,PC (Microsoft Windows)
+119304,Linux
+119305,PC (Microsoft Windows)
+119314,PC (Microsoft Windows)
+119390,PC (Microsoft Windows)
+119394,Nintendo Switch
+119402,PC (Microsoft Windows)
+119445,PC (Microsoft Windows)
+119506,PC (Microsoft Windows)
+119656,PC (Microsoft Windows)
+120200,PC (Microsoft Windows)
+120436,PC (Microsoft Windows)
+120551,PC (Microsoft Windows)
+120646,Linux
+120710,PC (Microsoft Windows)
+120974,Web browser
+121404,PC (Microsoft Windows)
+121436,Linux
+122082,PC (Microsoft Windows)
+122195,Linux
+122556,Linux
+122559,PC (Microsoft Windows)
+122661,Xbox One
+123354,PlayStation 4
+123395,Android
+124954,Linux
+125009,PC (Microsoft Windows)
+125021,Linux
+125175,PC (Microsoft Windows)
+125286,Nintendo Switch
+125764,PC (Microsoft Windows)
+126098,PC (Microsoft Windows)
+126120,PC (Microsoft Windows)
+126138,PC (Microsoft Windows)
+126153,PC (Microsoft Windows)
+127036,Linux
+127155,Wii
+127358,PC (Microsoft Windows)
+127782,PC (Microsoft Windows)
+127816,PC (Microsoft Windows)
+127976,Linux
+129694,PC (Microsoft Windows)
+129797,PC (Microsoft Windows)
+131887,Wii
+132165,PC (Microsoft Windows)
+132205,PC (Microsoft Windows)
+132224,Nintendo Switch
+132234,PC (Microsoft Windows)
+132907,PC (Microsoft Windows)
+133040,Web browser
+133887,PC (Microsoft Windows)
+133945,PC (Microsoft Windows)
+134582,PlayStation 5
+134595,PC (Microsoft Windows)
+134597,PlayStation 5
+134606,PlayStation 5
+135243,PC (Microsoft Windows)
+135295,PC (Microsoft Windows)
+135337,PC (Microsoft Windows)
+135450,PC (Microsoft Windows)
+135919,PC (Microsoft Windows)
+135999,PC (Microsoft Windows)
+136604,PC (Microsoft Windows)
+136770,Linux
+136868,PC (Microsoft Windows)
+138227,Nintendo Switch
+138569,PC (Microsoft Windows)
+138851,PC (Microsoft Windows)
+138858,PC (Microsoft Windows)
+138949,PlayStation 5
+138950,PC (Microsoft Windows)
+139078,PC (Microsoft Windows)
+139090,PC (Microsoft Windows)
+139399,Oculus VR
+139403,Linux
+139446,PC (Microsoft Windows)
+140059,PC (Microsoft Windows)
+140158,Linux
+140204,PC (Microsoft Windows)
+140839,PC (Microsoft Windows)
+141415,PC (Microsoft Windows)
+141503,PC (Microsoft Windows)
+141540,PC (Microsoft Windows)
+141828,Android
+142289,Linux
+142494,PC (Microsoft Windows)
+142803,PC (Microsoft Windows)
+143232,PC (Microsoft Windows)
+143335,PC (Microsoft Windows)
+143610,Nintendo Switch
+144024,PC (Microsoft Windows)
+144133,PC (Microsoft Windows)
+144345,Linux
+145327,Web browser
+146075,PC (Microsoft Windows)
+149292,PC (Microsoft Windows)
+152063,PC (Microsoft Windows)
+152122,PC (Microsoft Windows)
+153700,PlayStation 4
+154772,PlayStation 4
+163344,Web browser
+168670,PC (Microsoft Windows)
+170777,PC (Microsoft Windows)
+171768,PC (Microsoft Windows)
+172427,Nintendo Switch
+176552,Nintendo Switch
+178111,PC (Microsoft Windows)
+178283,Web browser
+187043,Web browser
+196789,Web browser
