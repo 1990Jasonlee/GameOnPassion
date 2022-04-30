@@ -1,116 +1,168 @@
-10,iOS
 18,Mac
-28,Apple IIGS
-29,Apple IIGS
-49,PlayStation Portable
 60,FM Towns
 71,Android
-79,Nintendo Switch
-83,Nintendo GameCube
-97,Game Boy Advance
-98,Nintendo DS
-99,Xbox 360
-100,Nintendo DS
-101,Nintendo DS
-112,PlayStation 4
 116,Nintendo Switch
-120,Xbox One
-134,Xbox One
-135,Xbox One
-137,Nintendo DS
-152,Nintendo Switch
-154,PlayStation 4
-176,Atari 7800
-185,ZX Spectrum
-189,Mac
-190,Nintendo GameCube
 191,Atari ST/STE
 192,Nintendo Entertainment System (NES)
-195,Atari ST/STE
-200,Nintendo Entertainment System (NES)
-209,Nintendo DS
-210,PlayStation Portable
-223,Nintendo GameCube
-224,Nintendo GameCube
-225,PlayStation Portable
 233,Mac
-236,Sega Saturn
-243,iOS
-248,Atari ST/STE
-251,Amstrad CPC
-260,Nintendo DS
-280,Nintendo Switch
-283,Nintendo DS
-284,Super Nintendo Entertainment System (SNES)
-286,Mac
 312,Tapwave Zodiac
-323,iOS
-330,Amiga
-333,Amiga
-342,Mac
-355,Dreamcast
-358,Family Computer
-374,Legacy Mobile Device
 376,PlayStation Vita
-393,Ouya
-399,iOS
 427,Xbox One
-452,Sega 32X
-459,iOS
-475,Mac
-496,Xbox One
-503,Nintendo DS
 538,PlayStation 4
-542,Nintendo DS
-545,Nintendo DS
-561,Nintendo DS
-566,PlayStation Portable
-568,Nintendo DS
-573,Nintendo DS
-586,iOS
-612,iOS
-623,Nintendo DS
-625,Nintendo DS
-626,Game Boy Color
 647,Sega Saturn
-651,PC-98
-673,Mac
-696,Nintendo GameCube
-700,Nintendo GameCube
-703,Game Boy Advance
-705,Sega Saturn
 730,iOS
 732,Mac
 733,iOS
-744,Apple IIGS
-776,Game Boy Advance
-777,Game Boy Advance
-778,Nintendo GameCube
-809,Game Boy
-837,PlayStation Portable
-847,Nintendo Switch
-852,Apple II
-868,PlayStation Portable
-880,Nintendo GameCube
-884,Arcade
-885,PlayStation Vita
-890,Mac
-892,Sega Master System
-893,Apple IIGS
 902,Super Nintendo Entertainment System (SNES)
-903,PlayStation Portable
-905,N-Gage
-906,Nintendo GameCube
 911,N-Gage
-912,PlayStation Portable
 913,Game Boy Color
-914,Nintendo GameCube
-915,Nintendo GameCube
-924,Super Nintendo Entertainment System (SNES)
-942,iOS
-948,PlayStation Portable
 974,Nintendo GameCube
-981,Nintendo 3DS
-999,PlayStation Vita
-1000,PlayStation Portable
-1011,Android
+1020,PlayStation 5
+1026,Satellaview
+1092,Super Famicom
+1103,New Nintendo 3DS
+1128,PlayStation Portable
+1272,Amiga
+1715,Wii U
+1741,Wii U
+1802,Nintendo DS
+1814,PlayStation 4
+1871,Android
+1968,Google Stadia
+2201,Amstrad CPC
+2295,Apple II
+2878,Nintendo Entertainment System (NES)
+2951,ZX Spectrum
+3029,Nintendo Switch
+3088,Xbox One
+3102,Xbox One
+3141,Amstrad CPC
+3798,Apple IIGS
+3953,PlayStation 4
+4034,PlayStation Portable
+4348,Sega Mega Drive/Genesis
+4438,Nintendo 3DS
+4716,PlayStation Portable
+4754,PlayStation 4
+4985,iOS
+4986,iOS
+5056,PlayStation Portable
+5099,PlayStation Portable
+5423,Atari ST/STE
+5508,PlayStation 4
+5550,Satellaview
+5613,PlayStation 4
+5626,Xbox One
+5951,Legacy Mobile Device
+6405,Sega Mega Drive/Genesis
+6701,Xbox One
+6707,iOS
+6741,Xbox One
+7194,iOS
+7342,Nintendo Switch
+7386,PlayStation 4
+7444,Wii U
+7543,Web browser
+7789,Wii U
+7936,Nintendo Switch
+8197,Game Boy Color
+8247,iOS
+8254,Nintendo Switch
+8288,Xbox One
+8307,Sega Game Gear
+8750,Nintendo Switch
+8864,Nintendo Switch
+9046,Nintendo Switch
+9112,Wii U
+9607,PlayStation Portable
+9694,Nintendo Switch
+9700,Nintendo DS
+9808,Nintendo Switch
+10235,MSX
+10496,Satellaview
+10760,Google Stadia
+11222,Neo Geo CD
+11394,Nintendo Switch
+11612,Arcade
+11845,Atari ST/STE
+11885,Arcade
+12089,Sega Master System
+12517,Xbox One
+12765,Atari ST/STE
+13226,PlayStation 4
+14593,Nintendo Switch
+14741,Xbox Series X|S
+15167,Wii U
+15464,PlayStation 4
+15465,PlayStation 4
+15559,Xbox One
+16840,PlayStation Vita
+17000,PlayStation Vita
+17573,PlayStation Vita
+18131,Windows Phone
+18182,Nintendo Switch
+19150,Nintendo Switch
+19297,Xbox One
+19728,Xbox One
+19729,Nintendo Switch
+20065,Nintendo Switch
+20545,Xbox One
+23048,Atari 2600
+23499,Nintendo Switch
+23501,Xbox One
+23910,Wii U
+25253,Nintendo Switch
+25599,Google Stadia
+25632,Oculus Quest 2
+25651,PlayStation 4
+26226,Nintendo Switch
+26700,Nintendo Switch
+26848,Wii U
+26940,Xbox One
+27241,Wii U
+27436,Nintendo Switch
+27499,Nintendo Switch
+27667,Google Stadia
+27930,Xbox One
+28160,PlayStation 4
+29961,PlayStation 4
+30583,Nintendo Switch
+33992,Nintendo Switch
+35282,Nintendo Switch
+37057,Nintendo Switch
+39217,Windows Phone
+40477,PlayStation 4
+41595,Nintendo Switch
+52496,Mac
+53127,Windows Phone
+59858,Nintendo Switch
+76244,Nintendo Switch
+83535,Oculus VR
+89594,Nintendo Switch
+94969,Nintendo Switch
+95069,iOS
+95832,Google Stadia
+103221,Oculus Rift
+105420,Nintendo Switch
+105624,Nintendo Switch
+109241,Xbox Series X|S
+113112,PlayStation 5
+119304,Nintendo Switch
+119305,Xbox Series X|S
+119402,Xbox Series X|S
+122556,Nintendo Switch
+125021,Xbox One
+127036,PlayStation 4
+127358,Xbox Series X|S
+127816,Xbox Series X|S
+133887,Xbox Series X|S
+134595,Google Stadia
+135919,PlayStation 5
+135999,Oculus Quest 2
+136604,Xbox Series X|S
+138569,Xbox Series X|S
+138858,Xbox Series X|S
+139446,Xbox Series X|S
+141540,PlayStation 5
+142803,Xbox Series X|S
+152122,PlayStation 5

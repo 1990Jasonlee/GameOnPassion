@@ -1,271 +1,611 @@
 1,Adventure
-3,Adventure
-7,Turn-based strategy (TBS)
-8,Turn-based strategy (TBS)
 9,Turn-based strategy (TBS)
-17,Turn-based strategy (TBS)
 20,Adventure
-21,Adventure
 24,Tactical
-25,Tactical
-26,Turn-based strategy (TBS)
-27,Strategy
-30,Adventure
-32,Adventure
-34,Role-playing (RPG)
 39,Racing
-40,Adventure
-44,Hack and slash/Beat 'em up
-45,Hack and slash/Beat 'em up
-46,Hack and slash/Beat 'em up
 60,Adventure
 61,Adventure
 62,Adventure
-63,Adventure
-64,Adventure
 65,Adventure
 66,Adventure
-70,Strategy
 71,Puzzle
 72,Puzzle
 74,Simulator
 75,Adventure
-83,Adventure
-84,Adventure
-85,Hack and slash/Beat 'em up
-100,Sport
-107,Tactical
-111,Indie
-117,Adventure
 118,Adventure
-120,Adventure
-136,Adventure
-137,Adventure
-138,Adventure
-139,Strategy
-140,Strategy
-145,Adventure
-148,Adventure
-180,Adventure
 181,Adventure
 184,Adventure
 191,Simulator
-195,Indie
-206,Adventure
-209,Strategy
-212,Strategy
-218,Adventure
-223,Strategy
-224,Strategy
-225,Strategy
-226,Strategy
 231,Adventure
-232,Puzzle
-234,Adventure
-235,Strategy
-236,Strategy
-238,Adventure
-244,Tactical
-248,Strategy
 255,Turn-based strategy (TBS)
-260,Strategy
-264,Sport
-276,Strategy
-278,Role-playing (RPG)
-279,Adventure
-283,Strategy
-287,Simulator
 288,Strategy
-289,Strategy
-291,Strategy
 293,Turn-based strategy (TBS)
-294,Tactical
-299,Strategy
-300,Strategy
 303,Strategy
-305,Strategy
-308,Strategy
-309,Tactical
-310,Turn-based strategy (TBS)
-311,Strategy
-313,Strategy
 316,Tactical
-317,Strategy
-319,Tactical
-323,Adventure
-337,Adventure
-341,Role-playing (RPG)
-352,Strategy
-362,Turn-based strategy (TBS)
 363,Turn-based strategy (TBS)
 364,Turn-based strategy (TBS)
 365,Turn-based strategy (TBS)
 366,Turn-based strategy (TBS)
-367,Turn-based strategy (TBS)
-368,Turn-based strategy (TBS)
-369,Turn-based strategy (TBS)
-370,Turn-based strategy (TBS)
-371,Turn-based strategy (TBS)
-372,Turn-based strategy (TBS)
-373,Turn-based strategy (TBS)
-378,Hack and slash/Beat 'em up
 379,Adventure
 380,Adventure
-386,Adventure
-391,Hack and slash/Beat 'em up
-392,Adventure
 394,Strategy
-412,Strategy
-414,Turn-based strategy (TBS)
 421,Adventure
 427,Adventure
 428,Turn-based strategy (TBS)
-431,Adventure
-432,Strategy
 434,Adventure
 436,Turn-based strategy (TBS)
-437,Turn-based strategy (TBS)
-438,Strategy
 440,Strategy
-441,Turn-based strategy (TBS)
-442,Turn-based strategy (TBS)
-443,Turn-based strategy (TBS)
-444,Turn-based strategy (TBS)
-445,Turn-based strategy (TBS)
-446,Turn-based strategy (TBS)
-447,Tactical
 448,Strategy
 449,Strategy
-450,Strategy
-451,Simulator
-454,Strategy
-459,Adventure
 460,Adventure
-475,Adventure
 479,Adventure
-504,Adventure
-505,Adventure
 512,Adventure
-513,Adventure
-515,Adventure
-523,Puzzle
-530,Adventure
-531,Arcade
-534,Role-playing (RPG)
-541,Arcade
-549,Adventure
 551,Adventure
-557,Adventure
-558,Adventure
-563,Adventure
 565,Adventure
-568,Adventure
-570,Adventure
-572,Strategy
-575,Adventure
-576,Adventure
-589,Turn-based strategy (TBS)
-590,Turn-based strategy (TBS)
-591,Turn-based strategy (TBS)
-596,Strategy
-601,Simulator
-604,Adventure
-612,Indie
-613,Simulator
-616,Adventure
-617,Tactical
-619,Strategy
-633,Turn-based strategy (TBS)
-635,Turn-based strategy (TBS)
-636,Adventure
 640,Strategy
-641,Sport
-642,Sport
 653,Strategy
-661,Tactical
-662,Strategy
-666,Tactical
-681,Strategy
-682,Strategy
-716,Strategy
 717,Strategy
-718,Simulator
-719,Tactical
-720,Tactical
 721,Tactical
-727,Sport
 728,Sport
 730,Simulator
-731,Adventure
 732,Adventure
 733,Adventure
-735,Adventure
 736,Sport
-737,Sport
-738,Sport
-739,Adventure
-744,Adventure
-749,Adventure
 750,Strategy
-751,Strategy
-769,Puzzle
-775,Turn-based strategy (TBS)
-781,Strategy
-783,Tactical
-784,Tactical
-786,Tactical
-791,Strategy
 797,Adventure
-803,Sport
-804,Sport
-807,Sport
-813,Sport
-825,Adventure
-826,Adventure
 832,Strategy
-837,Adventure
-838,Pinball
-839,Sport
 841,Sport
 842,Sport
-844,Adventure
-852,Adventure
 863,Turn-based strategy (TBS)
-865,Turn-based strategy (TBS)
 866,Turn-based strategy (TBS)
-868,Simulator
-869,Strategy
-872,Tactical
-873,Adventure
-885,Indie
-890,Adventure
-892,Adventure
-893,Adventure
-898,Strategy
-899,Strategy
-908,Tactical
-912,Puzzle
-921,Indie
-922,Sport
-933,Indie
-942,Strategy
-944,Strategy
-945,Strategy
-946,Strategy
-947,Strategy
-948,Strategy
-964,Strategy
-965,Strategy
-968,Adventure
-972,Adventure
-973,Adventure
-979,Adventure
-980,Adventure
-998,Adventure
-999,Adventure
-1000,Adventure
-1001,Strategy
-1003,Racing
-1004,Hack and slash/Beat 'em up
-1008,Strategy
-1013,Strategy
+1029,Role-playing (RPG)
+1033,Role-playing (RPG)
+1039,Role-playing (RPG)
+1046,Adventure
+1103,Adventure
+1105,Adventure
+1107,Adventure
+1108,Adventure
+1111,Adventure
+1112,Adventure
+1128,Adventure
+1134,Adventure
+1217,Hack and slash/Beat 'em up
+1250,Adventure
+1352,Indie
+1357,Strategy
+1399,Visual Novel
+1433,Turn-based strategy (TBS)
+1436,Turn-based strategy (TBS)
+1437,Tactical
+1439,Tactical
+1440,Turn-based strategy (TBS)
+1442,Tactical
+1443,Adventure
+1513,Adventure
+1517,Adventure
+1518,Adventure
+1520,Adventure
+1556,Adventure
+1558,Adventure
+1627,Hack and slash/Beat 'em up
+1692,Tactical
+1698,Adventure
+1741,Adventure
+1754,Role-playing (RPG)
+1780,Adventure
+1786,Tactical
+1819,Adventure
+1871,Adventure
+1904,Strategy
+1985,Adventure
+2025,Simulator
+2155,Adventure
+2164,Adventure
+2194,Adventure
+2200,Arcade
+2201,Arcade
+2207,Adventure
+2240,Strategy
+2262,Adventure
+2274,Indie
+2276,Role-playing (RPG)
+2481,Adventure
+2617,Strategy
+2853,Strategy
+2899,Adventure
+2909,Adventure
+2922,Strategy
+2951,Strategy
+2968,Strategy
+2985,Adventure
+3000,Adventure
+3029,Indie
+3067,Strategy
+3084,Indie
+3127,Turn-based strategy (TBS)
+3197,Turn-based strategy (TBS)
+3230,Adventure
+3340,Strategy
+3568,Strategy
+3932,Turn-based strategy (TBS)
+3953,Indie
+4174,Adventure
+4348,Adventure
+4641,Tactical
+4691,Real Time Strategy (RTS)
+5039,Strategy
+5079,Sport
+5082,Adventure
+5136,Strategy
+5233,Strategy
+5369,Strategy
+5418,Adventure
+5440,Platform
+5450,Arcade
+5508,Tactical
+5550,Turn-based strategy (TBS)
+5563,Tactical
+5595,Real Time Strategy (RTS)
+5613,Adventure
+5623,Hack and slash/Beat 'em up
+5626,Adventure
+5882,Hack and slash/Beat 'em up
+6256,Strategy
+6279,Indie
+6325,Indie
+6341,Strategy
+6405,Arcade
+6555,Arcade
+6614,Strategy
+6616,Adventure
+6701,Adventure
+6739,Adventure
+6741,Platform
+6933,Platform
+6967,Indie
+6978,Strategy
+7016,Strategy
+7046,Indie
+7140,Sport
+7158,Role-playing (RPG)
+7194,Visual Novel
+7342,Adventure
+7344,Adventure
+7356,Hack and slash/Beat 'em up
+7386,Indie
+7397,Indie
+7406,Indie
+7444,Indie
+7477,Turn-based strategy (TBS)
+7489,Sport
+7510,Strategy
+7512,Strategy
+7543,Strategy
+7592,Strategy
+7593,Simulator
+7594,Strategy
+7595,Indie
+7603,Indie
+7634,Strategy
+7635,Adventure
+7789,Adventure
+7841,Adventure
+7936,Adventure
+8072,Adventure
+8145,Indie
+8197,Arcade
+8199,Arcade
+8214,Adventure
+8240,Strategy
+8288,Tactical
+8307,Strategy
+8362,Turn-based strategy (TBS)
+8467,Puzzle
+8471,Strategy
+8492,Indie
+8735,Hack and slash/Beat 'em up
+8749,Indie
+8750,Indie
+8763,Arcade
+8773,Strategy
+8864,Turn-based strategy (TBS)
+8947,Strategy
+8969,Adventure
+8973,Strategy
+8975,Strategy
+9014,Indie
+9035,Adventure
+9037,Indie
+9046,Strategy
+9058,Indie
+9059,Tactical
+9061,Adventure
+9103,Racing
+9112,Adventure
+9191,Turn-based strategy (TBS)
+9232,Adventure
+9495,Indie
+9532,Tactical
+9538,Indie
+9577,Turn-based strategy (TBS)
+9600,Visual Novel
+9609,Indie
+9611,Adventure
+9627,Turn-based strategy (TBS)
+9632,Strategy
+9643,Indie
+9694,Adventure
+9740,Adventure
+9759,Adventure
+9789,Strategy
+9808,Strategy
+9809,Simulator
+9833,Simulator
+9834,Strategy
+9898,Strategy
+9927,Adventure
+10039,Platform
+10166,Adventure
+10583,Adventure
+10760,Adventure
+10962,Adventure
+11118,Adventure
+11156,Adventure
+11222,Arcade
+11227,Role-playing (RPG)
+11247,Indie
+11250,Indie
+11270,Indie
+11328,Adventure
+11397,Hack and slash/Beat 'em up
+11417,Adventure
+11437,Visual Novel
+11459,Turn-based strategy (TBS)
+11594,Tactical
+11610,Tactical
+11621,Indie
+11631,Role-playing (RPG)
+11737,Indie
+11772,Turn-based strategy (TBS)
+11800,Turn-based strategy (TBS)
+11885,Arcade
+12089,Arcade
+12151,Visual Novel
+12382,Adventure
+12443,Tactical
+12517,Adventure
+12987,Adventure
+13100,Indie
+13137,Adventure
+13177,Adventure
+13226,Indie
+13547,Arcade
+13690,Tactical
+14177,Tactical
+14593,Adventure
+14701,Arcade
+14891,Turn-based strategy (TBS)
+15020,Turn-based strategy (TBS)
+15128,Puzzle
+15140,Arcade
+15167,Turn-based strategy (TBS)
+15465,Indie
+15815,Indie
+15843,Turn-based strategy (TBS)
+16203,Adventure
+16305,Strategy
+16310,Indie
+16480,Indie
+16538,Indie
+16840,Strategy
+16867,Turn-based strategy (TBS)
+17000,Indie
+17224,Adventure
+17467,Arcade
+18058,Adventure
+18074,Indie
+18165,Strategy
+18182,Adventure
+18189,Indie
+18197,Adventure
+18211,Indie
+18224,Adventure
+18337,Turn-based strategy (TBS)
+18370,Tactical
+18597,Turn-based strategy (TBS)
+18730,Simulator
+18808,Hack and slash/Beat 'em up
+18829,Adventure
+18870,Strategy
+18967,Turn-based strategy (TBS)
+18984,Indie
+19009,Adventure
+19085,Tactical
+19121,Adventure
+19131,Tactical
+19150,Adventure
+19190,Strategy
+19293,Sport
+19297,Adventure
+19325,Indie
+19394,Indie
+19456,Indie
+19598,Strategy
+19728,Indie
+19729,Adventure
+19803,Sport
+19839,Adventure
+19874,Adventure
+19875,Strategy
+19897,Indie
+19984,Strategy
+19994,Adventure
+20113,Adventure
+20189,Adventure
+20203,Strategy
+20545,Adventure
+20566,Sport
+20622,Adventure
+20741,Adventure
+21040,Adventure
+21073,Adventure
+21737,Arcade
+21874,Strategy
+21892,Adventure
+21970,Indie
+21972,Indie
+22144,Indie
+22461,Adventure
+22555,Adventure
+23048,Arcade
+23192,Indie
+23294,Adventure
+23322,Turn-based strategy (TBS)
+23323,Turn-based strategy (TBS)
+23499,Indie
+23851,Real Time Strategy (RTS)
+23910,Indie
+24080,Visual Novel
+24417,Indie
+24427,Indie
+24512,Indie
+24891,Arcade
+24930,Adventure
+24962,Arcade
+25076,Adventure
+25100,Turn-based strategy (TBS)
+25253,Indie
+25358,Adventure
+25599,Adventure
+25632,Indie
+25649,Adventure
+25651,Indie
+25838,Role-playing (RPG)
+26226,Indie
+26255,Indie
+26673,Adventure
+26700,Visual Novel
+26775,Adventure
+26795,Indie
+26834,Strategy
+26840,Turn-based strategy (TBS)
+26845,Turn-based strategy (TBS)
+26848,Indie
+26940,Turn-based strategy (TBS)
+26974,Adventure
+27034,Strategy
+27035,Role-playing (RPG)
+27072,Indie
+27241,Indie
+27258,Quiz/Trivia
+27396,Indie
+27436,Strategy
+27499,Indie
+27667,Indie
+27762,Indie
+27820,Turn-based strategy (TBS)
+27867,Role-playing (RPG)
+27911,Adventure
+27930,Turn-based strategy (TBS)
+27959,Adventure
+28073,Visual Novel
+28129,Adventure
+28142,Strategy
+28160,Adventure
+28323,Adventure
+28337,Adventure
+28710,Indie
+28738,Indie
+29211,Strategy
+29586,Adventure
+29961,Adventure
+30583,Indie
+30804,Turn-based strategy (TBS)
+30968,Indie
+30994,Indie
+32969,Adventure
+33306,Indie
+33414,Indie
+33992,Sport
+34062,Tactical
+34266,Adventure
+34293,Adventure
+34392,Turn-based strategy (TBS)
+34610,Sport
+34669,Arcade
+34670,Indie
+35282,Adventure
+35934,Indie
+36550,Adventure
+36620,Indie
+36749,Indie
+37057,Indie
+37059,Strategy
+37184,Tactical
+38884,Adventure
+39217,Adventure
+40477,Turn-based strategy (TBS)
+41620,Indie
+41876,Adventure
+41877,Adventure
+41884,Adventure
+42929,Adventure
+43680,Arcade
+44390,Strategy
+45142,Role-playing (RPG)
+46614,Indie
+46980,Visual Novel
+47107,Adventure
+51485,Indie
+52006,Simulator
+52578,Card & Board Game
+53818,Puzzle
+54220,Adventure
+55077,Sport
+55112,Adventure
+55322,Indie
+55590,Indie
+55771,Turn-based strategy (TBS)
+56590,Arcade
+57153,Turn-based strategy (TBS)
+57192,Puzzle
+57297,Adventure
+58656,Arcade
+58717,Arcade
+59086,Arcade
+59849,Adventure
+59858,Indie
+60224,Arcade
+63499,Arcade
+69638,Adventure
+71595,Adventure
+72870,Adventure
+74162,Indie
+74285,Adventure
+74545,Indie
+74904,Indie
+74946,Visual Novel
+75239,Indie
+76244,Adventure
+76331,Arcade
+76844,Adventure
+76959,Hack and slash/Beat 'em up
+77488,Indie
+78059,Strategy
+78115,Adventure
+78544,Strategy
+79149,Adventure
+79987,Turn-based strategy (TBS)
+80185,Puzzle
+80468,Adventure
+80877,Adventure
+81085,Adventure
+81141,Strategy
+81247,Role-playing (RPG)
+81732,Indie
+82370,Adventure
+82372,Adventure
+82375,Indie
+83504,Turn-based strategy (TBS)
+83535,Strategy
+83730,Arcade
+84677,Adventure
+84972,Visual Novel
+86295,Adventure
+87031,Indie
+87197,Indie
+87367,Indie
+87530,Indie
+88223,Indie
+88563,Arcade
+89594,Strategy
+89771,Adventure
+90051,Adventure
+91121,Arcade
+91212,Adventure
+93901,Sport
+94049,Indie
+94054,Adventure
+94969,Adventure
+94983,Strategy
+95027,Adventure
+95832,Indie
+96439,Indie
+98077,Sport
+98753,Strategy
+103198,Indie
+103221,Arcade
+103317,Adventure
+103337,Adventure
+104096,Turn-based strategy (TBS)
+104786,Indie
+104789,Tactical
+104819,Sport
+104967,Indie
+104971,Visual Novel
+105420,Adventure
+105624,Card & Board Game
+107218,Tactical
+107300,Turn-based strategy (TBS)
+108254,Arcade
+109241,Indie
+109287,Indie
+109464,Strategy
+110062,Arcade
+111081,Adventure
+111661,Adventure
+112191,Turn-based strategy (TBS)
+113112,Adventure
+114392,Arcade
+115875,Arcade
+116146,Adventure
+116201,Turn-based strategy (TBS)
+116667,Sport
+118308,Indie
+119190,Role-playing (RPG)
+119304,Adventure
+119445,Arcade
+120200,Puzzle
+120710,Indie
+121404,Role-playing (RPG)
+122082,Arcade
+122195,Visual Novel
+122559,Indie
+123354,Arcade
+123395,Simulator
+124954,Strategy
+125021,Quiz/Trivia
+126098,Adventure
+126120,Indie
+127358,Indie
+127816,Adventure
+129797,Strategy
+132205,Sport
+132234,Adventure
+132907,Adventure
+134582,Adventure
+134595,Adventure
+135999,Indie
+138858,Adventure
+138950,Adventure
+139078,Indie
+139090,Indie
+139399,Sport
+139403,Indie
+140158,Sport
+140204,Indie
+141540,Indie
+141828,Indie
+142289,Indie
+142494,Card & Board Game
+142803,Adventure
+143335,Indie
+143610,Tactical
+146075,Visual Novel
+149292,Arcade
+152122,Adventure
+170777,Adventure
+171768,Strategy
+178283,Strategy
+196789,Simulator
