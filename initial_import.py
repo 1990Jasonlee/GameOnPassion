@@ -44,3 +44,11 @@ split_gamemode_df.columns = ['gm1', 'gm2', 'gm3', 'gm4', 'gm5']
 split_gamemode_df[['gm1', 'gm2', 'gm3', 'gm4', 'gm5']] = \
     split_gamemode_df[['gm1', 'gm2', 'gm3', 'gm4', 'gm5']].apply(lambda x: x.astype(np.int64))
 
+
+platform_table_df.to_csv('platform_table.csv', encoding='utf-8')
+genre_table_df.to_csv('genre_table.csv', encoding='utf-8')
+gamemode_table_df.to_csv('gamemode_table.csv', encoding='utf-8')
+
+split_genre_df.to_csv('game_genre.csv', encoding='utf-8')
+split_gamemode_df.to_csv('game_gamemode.csv', encoding='utf-8')
+split_platforms_df.to_csv('game_platform.csv', encoding='utf-8')
