@@ -12,7 +12,7 @@ limit = 500
 result = 15000
 
 
-def get_games(offset=offset):
+def get_games_cover(offset=offset):
     while True:
         headers = {
             'Client-ID': f'{igdb_id}',
@@ -32,7 +32,7 @@ def get_games(offset=offset):
                 break
 
 
-def correct_file():
+def correct_file_cover():
     f1 = open('../Data/data_url.json', 'r')
     input_data = f1.read()
     f1.close()
@@ -43,6 +43,3 @@ def correct_file():
     f2.write(input_data)
     f2.close()
 
-
-get_games()
-correct_file()

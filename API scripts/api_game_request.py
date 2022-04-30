@@ -34,7 +34,7 @@ def get_games(offset=offset):
                 break
 
 
-def correct_file():
+def correct_file_game():
     f1 = open('../Data/data.json', 'r')
     input_data = f1.read()
     f1.close()
@@ -45,6 +45,3 @@ def correct_file():
     f2.write(input_data)
     f2.close()
 
-
-get_games()
-correct_file()

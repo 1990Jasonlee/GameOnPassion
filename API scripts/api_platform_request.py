@@ -12,7 +12,7 @@ limit = 500
 result = 500
 
 
-def get_games(offset=offset):
+def get_platform(offset=offset):
     while True:
         headers = {
             'Client-ID': f'{igdb_id}',
@@ -31,6 +31,3 @@ def get_games(offset=offset):
             json.dump(response.json(), f, ensure_ascii=False, indent=4)
             if result == offset:
                 break
-
-
-get_games()
