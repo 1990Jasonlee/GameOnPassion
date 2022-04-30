@@ -7,12 +7,10 @@ conn.autocommit = True
 cursor = conn.cursor()
 
 genre_table = '''COPY(
-                           SELECT game_genre.game_id, genre_info.genre_name
-                           FROM game_genre 
-                           JOIN genre_info 
-                           ON game_genre.genre = genre_info.genre_id) 
-                           TO './Data/genre.csv'(FORMAT csv);
-                            )'''
+                           game_genre(game_id, genre1, genre2, genre3, genre4, 
+                           genre5, genre6, genre7, genre8, genre9) 
+                           from './game_genre.csv' delimiter ',' csv header;
+                           )'''
 
 genre_table1 = '''COPY(
                            SELECT game_genre.game_id, genre_info.genre_name
@@ -84,4 +82,14 @@ genre_table9 = '''COPY(
                            ON game_genre.genre9 = genre_info.genre_id) 
                            TO './Data/genre9.csv'(FORMAT csv);
                             )'''
+
 cursor.execute(genre_table)
+cursor.execute(genre_table1)
+cursor.execute(genre_table2)
+cursor.execute(genre_table3)
+cursor.execute(genre_table4)
+cursor.execute(genre_table5)
+cursor.execute(genre_table6)
+cursor.execute(genre_table7)
+cursor.execute(genre_table8)
+cursor.execute(genre_table9)
