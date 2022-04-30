@@ -10,3 +10,4 @@ gamemode_info_table = '''COPY(
                            platform_info(platform_id, name)
                            from './platform_table.csv' delimiter ',' csv header;
                            )'''
+

@@ -58,4 +58,5 @@ cursor.execute(mode_table2)
 cursor.execute(mode_table3)
 cursor.execute(mode_table4)
 cursor.execute(mode_table5)
-
+conn.commit()
+conn.close()
