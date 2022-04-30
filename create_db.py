@@ -89,3 +89,11 @@ create_table5 = '''CREATE TABLE IF NOT EXISTS platform_info(
                             platform_name VARCHAR(100) NOT NULL,
                             PRIMARY KEY(platform_id)
                             )'''
+cursor.execute(create_table)
+cursor.execute(create_table1)
+cursor.execute(create_table2)
+cursor.execute(create_table3)
+cursor.execute(create_table4)
+cursor.execute(create_table5)
+conn.commit()
+conn.close()
