@@ -26,7 +26,7 @@ def get_gamesmode(offset=offset):
         print(response)
         offset += limit
 
-        with open('../Data/data_gamemode.json', 'w', encoding='utf-8') as f:
+        with open('../data/data_gamemode.json', 'w', encoding='utf-8') as f:
 
             json.dump(response.json(), f, ensure_ascii=False, indent=4)
             if result == offset:

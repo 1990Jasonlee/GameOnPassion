@@ -26,20 +26,20 @@ def get_games_cover(offset=offset):
         print(response)
         offset += limit
 
-        with open('../Data/data_url.json', 'a', encoding='utf-8') as f:
+        with open('../data/data_url.json', 'a', encoding='utf-8') as f:
             json.dump(response.json(), f, ensure_ascii=False, indent=4)
             if result == offset:
                 break
 
 
 def correct_file_cover():
-    f1 = open('../Data/data_url.json', 'r')
+    f1 = open('../data/data_url.json', 'r')
     input_data = f1.read()
     f1.close()
 
     input_data = input_data.replace('][', ',')
 
-    f2 = open('../Data/data_url.json', 'w')
+    f2 = open('../data/data_url.json', 'w')
     f2.write(input_data)
     f2.close()
 
