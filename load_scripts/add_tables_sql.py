@@ -75,7 +75,7 @@ create_main_plat = '''CREATE TABLE IF NOT EXISTS plat_main(
                             msx int NOT NULL,
                             msx2 int NOT NULL,
                             mac int NOT NULL,
-                            n-gage int NOT NULL,
+                            n_gage int NOT NULL,
                             nec int NOT NULL,
                             neogeo_aes int NOT NULL,
                             negeo_cd int NOT NULL,
