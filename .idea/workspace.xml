@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dag.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameOnJson.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GameOnJson.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +48,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Visual data" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Visual data" />
       <recent name="$PROJECT_DIR$/transform_scripts" />
       <recent name="$PROJECT_DIR$/CSV WIP" />
       <recent name="$PROJECT_DIR$/" />
