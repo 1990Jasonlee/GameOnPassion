@@ -6,6 +6,7 @@ conn = psycopg2.connect(
 conn.autocommit = True
 cursor = conn.cursor()
 
+
 create_main_game = '''CREATE TABLE IF NOT EXISTS game_main(
                             id serial,
                             game_id int NOT NULL,
@@ -137,7 +138,7 @@ create_main_plat = '''CREATE TABLE IF NOT EXISTS plat_main(
                             PRIMARY KEY(game_id)
                             )'''
 
-create_main_genre = '''CREATE TABLE IF NOT EXISTS mode_main(
+create_main_genre = '''CREATE TABLE IF NOT EXISTS genre_main(
                             id serial,
                             game_id int NOT NULL,
                             adventure int NOT NULL,
