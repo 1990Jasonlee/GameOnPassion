@@ -1,4 +1,3 @@
-import csv
 import json
 import os
 from igdb.wrapper import IGDBWrapper
@@ -7,13 +6,13 @@ import requests
 igdb_token = os.environ.get('IGDB_TOKEN')
 igdb_id = os.environ.get('IGDB_ID')
 wrapper = IGDBWrapper(igdb_id, igdb_token)
-url = 'https://api.igdb.com/v4/genres'
+url = 'https://api.igdb.com/v4/game_modes'
 offset = 0
-limit = 50
-result = 50
+limit = 10
+result = 10
 
 
-def get_games(offset=offset):
+def get_gamesmode(offset=offset):
     while True:
         headers = {
             'Client-ID': f'{igdb_id}',
@@ -27,11 +26,8 @@ def get_games(offset=offset):
         print(response)
         offset += limit
 
-        with open('../Data/data_genre.json', 'w', encoding='utf-8') as f:
+        with open('../data/data_gamemode.json', 'w', encoding='utf-8') as f:
 
             json.dump(response.json(), f, ensure_ascii=False, indent=4)
             if result == offset:
                 break
-
-
-get_games()
