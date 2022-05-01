@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/load_scripts/add_tables_sql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/GameOnJson-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/GameOnJson-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameOnJson.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GameOnJson.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_visual_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Visual data/game_visual_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genre_visual_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Visual data/genre_visual_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mode_visual_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Visual data/mode_visual_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_visual_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Visual data/plat_visual_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transform_scripts/transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/transform_scripts/transform.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +53,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Visual data" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/transform_scripts" />
       <recent name="$PROJECT_DIR$/CSV WIP" />
       <recent name="$PROJECT_DIR$/" />
-      <recent name="$PROJECT_DIR$/Data" />
-      <recent name="$PROJECT_DIR$/API scripts" />
     </key>
   </component>
   <component name="RunManager" selected="Python.sql_query_genre">
