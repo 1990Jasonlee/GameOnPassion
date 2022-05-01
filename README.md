@@ -16,3 +16,4 @@ The front end will be created using Django and hosted on Heroku.
 Used Tableau to create charts on data.
 
 <img width="543" alt="Game on Tableau Screenshoot" src="https://user-images.githubusercontent.com/99375563/166133366-b3f83fa5-1fdf-4e63-a77d-3abb21df92af.png">
+![Game On graph](https://user-images.githubusercontent.com/99375563/166156933-2f4d14b9-32f6-4242-9129-bcc8fc472286.png)
