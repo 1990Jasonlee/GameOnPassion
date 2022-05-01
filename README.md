@@ -13,3 +13,5 @@ play the game.
 This project will be done utilizing Python, Docker and Airflow to extract API data, 
 transforming with Pandas, and loading in a SQL database afterwards. 
 The front end will be created using Django and hosted on Heroku.
+Used Tableau to create charts on data.
+<img width="1243" alt="Game on Tableau Screenshoot" src="https://user-images.githubusercontent.com/99375563/166133366-b3f83fa5-1fdf-4e63-a77d-3abb21df92af.png">
