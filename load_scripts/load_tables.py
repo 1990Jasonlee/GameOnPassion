@@ -30,7 +30,7 @@ load_plat = '''COPY(
                      apple_ii, apple_iigs, arcade_platform, atari_2600, atari_8, atari_jag, atari_lynx, atari_ste, bbc, 
                      blackberry, colecovision, commodore_16, commodore_c64, commodore_vic, stadia, dvd, daydream, 
                      donner, dragon, dreamcast, fm_towns, fm_7, family, family_ds, gameboy, gameboy_color, 
-                     gameboy_advance, gear_vr, google_stadia, intellivision, legacy, linux, msx, msx2, mac, n - gage, 
+                     gameboy_advance, gear_vr, google_stadia, intellivision, legacy, linux, msx, msx2, mac, n_gage, 
                      nec, neogeo_aes, negeo_cd, negeo_mvs, new_n3ds, n3ds, n64, nds, ndsi, nes, gamecube, switch, 
                      ooparts, oculus, oculus2, oculus_rift, oculus_vr, onlive, ouya, pc, pc_dos, pc_8801, pc - 98, 
                      playstation, ps2, ps3, ps4, ps5, psp, playstation_vr, psv, s, satellaview, sega, sega_gamegear, 

@@ -164,7 +164,6 @@ mode_combined.to_csv('mode_load_data.csv', encoding='utf-8')
 
 gameon_df = df.drop(columns=['category', 'game_modes', 'genres',
                              'platforms', 'total_rating', 'total_rating_count'])
-gameon_df[['cover', 'Release Year']] = gameon_df[['cover', 'Release Year']].apply(lambda x : x.astype(np.int64))
-gameon_df[['Score Rating']]=gameon_df[['Score Rating']].round(2)
+gameon_df[['cover', 'Release Year']] = gameon_df[['cover', 'Release Year']].apply(lambda x: x.astype(np.int64))
+gameon_df[['Score Rating']] = gameon_df[['Score Rating']].round(2)
 gameon_df.to_csv('game_load_data.csv', encoding='utf-8')
-
