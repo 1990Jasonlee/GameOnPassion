@@ -38,18 +38,18 @@ genre9 = pd.read_csv('./Data/genre9.csv', header=None)
 genre9.columns = ['id', 'genre']
 genre9.set_index("id", inplace=True)
 
-gen1 = genre1['genre'].str.get_dummies()
-gen2 = genre2['genre'].str.get_dummies()
-gen3 = genre3['genre'].str.get_dummies()
-gen4 = genre4['genre'].str.get_dummies()
-gen5 = genre5['genre'].str.get_dummies()
-gen6 = genre6['genre'].str.get_dummies()
-gen7 = genre7['genre'].str.get_dummies()
-gen8 = genre8['genre'].str.get_dummies()
-gen9 = genre9['genre'].str.get_dummies()
+gen1 = genre1['genre'].str.get_dummies().astype(int)
+gen2 = genre2['genre'].str.get_dummies().astype(int)
+gen3 = genre3['genre'].str.get_dummies().astype(int)
+gen4 = genre4['genre'].str.get_dummies().astype(int)
+gen5 = genre5['genre'].str.get_dummies().astype(int)
+gen6 = genre6['genre'].str.get_dummies().astype(int)
+gen7 = genre7['genre'].str.get_dummies().astype(int)
+gen8 = genre8['genre'].str.get_dummies().astype(int)
+gen9 = genre9['genre'].str.get_dummies().astype(int)
 genres_combined = gen1.add(gen2, fill_value=0).add(gen3, fill_value=0).add(gen4, fill_value=0) \
     .add(gen5, fill_value=0).add(gen6, fill_value=0).add(gen7, fill_value=0).add(gen8, fill_value=0) \
-    .add(gen9, fill_value=0).replace(np.nan, 0)
+    .add(gen9, fill_value=0).replace(np.nan, 0).astype(int)
 
 mode1 = pd.read_csv('./Data/mode1.csv', header=None)
 mode1.columns = ['id', 'Game Mode']
@@ -73,7 +73,7 @@ gmode3 = mode3['Game Mode'].str.get_dummies().astype(int)
 gmode4 = mode4['Game Mode'].str.get_dummies().astype(int)
 gmode5 = mode5['Game Mode'].str.get_dummies().astype(int)
 mode_combined = gmode1.add(gmode2, fill_value=0).add(gmode3, fill_value=0).add(gmode4, fill_value=0) \
-    .add(gmode5, fill_value=0).replace(np.nan, 0)
+    .add(gmode5, fill_value=0).replace(np.nan, 0).astype(int)
 
 p1 = pd.read_csv('./Data/plat1.csv', header=None)
 p1.columns = ['id', 'Platform Name']
@@ -156,54 +156,6 @@ plat_combined = plat1.add(plat2, fill_value=0).add(plat3, fill_value=0).add(plat
     .add(plat5, fill_value=0).add(plat6, fill_value=0).add(plat7, fill_value=0).add(plat8, fill_value=0) \
     .add(plat9, fill_value=0).add(plat10, fill_value=0).add(plat11, fill_value=0).add(plat12, fill_value=0) \
     .add(plat13, fill_value=0).add(plat14, fill_value=0).add(plat15, fill_value=0).add(plat16, fill_value=0) \
-    .add(plat17, fill_value=0).add(plat18, fill_value=0).add(plat19, fill_value=0).replace(np.nan, 0)
+    .add(plat17, fill_value=0).add(plat18, fill_value=0).add(plat19, fill_value=0).replace(np.nan, 0).astype(int)
 plat_combined = plat_combined.rename(columns={'Arcade': 'Arcade Platform'})
 
-df = df.join(genres_combined).join(plat_combined).join(mode_combined)
-df_mask = df['category'] == 0
-df1 = df[df_mask]
-df_mask1 = df1['Score Rating'] >= 70
-df2 = df1[df_mask1]
-gameon_df = df2.drop(columns=['category', 'game_modes', 'genres',
-                              'platforms', 'total_rating', 'total_rating_count'])
-
-header = [['Game Info', 'Game Info', 'Game Info', 'Game Info', 'Game Info', 'Genre', 'Genre', 'Genre',
-           'Genre', 'Genre', 'Genre', 'Genre', 'Genre', 'Genre', 'Genre', 'Genre', 'Genre', 'Genre',
-           'Genre', 'Genre', 'Genre', 'Genre', 'Genre', 'Genre', 'Genre', 'Genre', 'Genre', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform', 'Platform',
-           'Game Mode', 'Game Mode', 'Game Mode', 'Game Mode', 'Game Mode', 'Game Mode'], [
-              'Cover', 'Name', 'Summary', 'Release Year', 'Score Rating', 'Adventure', 'Arcade', 'Card & Board Game',
-              'Fighting', "Hack and slash/Beat 'em up", 'Indie', 'Music', 'Pinball', 'Platform', 'Point-and-click',
-              'Puzzle', 'Quiz/Trivia', 'Racing', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Shooter',
-              'Simulator', 'Sport', 'Strategy', 'Tactical', 'Turn-based strategy (TBS)', 'Visual Novel',
-              '3DO Interactive Multiplayer', 'Acorn Archimedes', 'Acorn Electron', 'Amazon Fire TV', 'Amiga',
-              'Amiga CD32', 'Amstrad CPC', 'Android', 'Apple II', 'Apple IIGS', 'Arcade Platform', 'Atari 2600',
-              'Atari 8-bit', 'Atari Jaguar', 'Atari Lynx', 'Atari ST/STE', 'BBC Microcomputer System', 'BlackBerry OS',
-              'ColecoVision', 'Commodore 16', 'Commodore C64/128', 'Commodore VIC-20', 'DUPLICATE Stadia', 'DVD Player',
-              'Daydream', 'Donner Model 30', 'Dragon 32/64', 'Dreamcast', 'FM Towns', 'FM-7', 'Family Computer',
-              'Family Computer Disk System', 'Game Boy', 'Game Boy Advance', 'Game Boy Color', 'Gear VR',
-              'Google Stadia', 'Intellivision', 'Legacy Mobile Device', 'Linux', 'MSX', 'MSX2', 'Mac', 'N-Gage',
-              'NEC PC-6000 Series', 'Neo Geo AES', 'Neo Geo CD', 'Neo Geo MVS', 'New Nintendo 3DS', 'Nintendo 3DS',
-              'Nintendo 64', 'Nintendo DS', 'Nintendo DSi', 'Nintendo Entertainment System (NES)', 'Nintendo GameCube',
-              'Nintendo Switch', 'OOParts', 'Oculus Quest', 'Oculus Quest 2', 'Oculus Rift', 'Oculus VR',
-              'OnLive Game System', 'Ouya', 'PC (Microsoft Windows)', 'PC DOS', 'PC-8801', 'PC-98', 'PlayStation',
-              'PlayStation 2', 'PlayStation 3', 'PlayStation 4', 'PlayStation 5', 'PlayStation Portable',
-              'PlayStation VR', 'PlayStation Vita', 'S', 'Satellaview', 'Sega CD', 'Sega Game Gear',
-              'Sega Master System', 'Sega Mega Drive/Genesis', 'Sega Saturn', 'Sharp X1', 'Sharp X68000', 'SteamVR',
-              'Super Famicom', 'Super Nintendo Entertainment System (SNES)', 'Tapwave Zodiac', 'Tatung Einstein',
-              'TurboGrafx-16/PC Engine', 'Turbografx-16/PC Engine CD', 'Web browser', 'Wii', 'Wii U',
-              'Windows Mixed Reality', 'Windows Phone', 'WonderSwan', 'WonderSwan Color', 'Xbox', 'Xbox 360',
-              'Xbox One', 'Xbox Series X', 'ZX Spectrum', 'iOS', 'Battle Royale', 'Co-operative',
-              'Massively Multiplayer Online (MMO)', 'Multiplayer', 'Single player', 'Split screen']]
-gameon_df.columns = header
