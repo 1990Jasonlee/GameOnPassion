@@ -6,7 +6,7 @@ conn = psycopg2.connect(
 conn.autocommit = True
 cursor = conn.cursor()
 
-
+cursor.execute('DROP TABLE IF EXISTS "game_main";')
 create_main_game = '''CREATE TABLE IF NOT EXISTS game_main(
                             id serial,
                             game_id int NOT NULL,
@@ -16,7 +16,7 @@ create_main_game = '''CREATE TABLE IF NOT EXISTS game_main(
                             Score NUMERIC(5,2) NOT NULL,
                             PRIMARY KEY(game_id)
                             )'''
-
+cursor.execute('DROP TABLE IF EXISTS "mode_main";')
 create_main_mode = '''CREATE TABLE IF NOT EXISTS mode_main(
                             id serial,
                             game_id int NOT NULL,
@@ -28,7 +28,7 @@ create_main_mode = '''CREATE TABLE IF NOT EXISTS mode_main(
                             split_screen int NOT NULL,                            
                             PRIMARY KEY(game_id)
                             )'''
-
+cursor.execute('DROP TABLE IF EXISTS "plat_main";')
 create_main_plat = '''CREATE TABLE IF NOT EXISTS plat_main(
                             id serial,
                             game_id int NOT NULL,
@@ -137,7 +137,7 @@ create_main_plat = '''CREATE TABLE IF NOT EXISTS plat_main(
                             ios int NOT NULL,
                             PRIMARY KEY(game_id)
                             )'''
-
+cursor.execute('DROP TABLE IF EXISTS "genre_main";')
 create_main_genre = '''CREATE TABLE IF NOT EXISTS genre_main(
                             id serial,
                             game_id int NOT NULL,
