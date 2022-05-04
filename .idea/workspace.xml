@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dag.py" beforeDir="false" afterPath="$PROJECT_DIR$/dags/dag.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +49,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dags" />
+      <recent name="$PROJECT_DIR$/airflow_files/dags" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Visual data" />
       <recent name="$PROJECT_DIR$/transform_scripts" />
-      <recent name="$PROJECT_DIR$/CSV WIP" />
-      <recent name="$PROJECT_DIR$/" />
     </key>
   </component>
   <component name="RunManager" selected="Python.dag">
@@ -131,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dag.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dags/dag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />

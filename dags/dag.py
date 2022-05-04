@@ -9,7 +9,7 @@ default_args = {
 
 
 def etl_tasks():
-    with DAG('extract_dag', start_date=datetime(2022, 1, 1),
+    with DAG('extract_dag', start_date=datetime(2022, 5, 1),
              schedule_interval='@daily',
              catchup=False,
              default_args=default_args
@@ -19,6 +19,8 @@ def etl_tasks():
             python_callable=etl_tasks,
             op_kawrgs={'api': types}
         ) for types in ['cover', 'game', 'gamemode', 'genre', 'platform']]
+
+
 
 # for api [extract tasks] >> [create_db, initial import] >>
 # [gamemode, genre, platform] >> transform >> add tables >> load
