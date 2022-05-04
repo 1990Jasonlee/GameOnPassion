@@ -10,7 +10,7 @@ default_args = {
 
 def etl_tasks():
     with DAG('extract_dag', start_date=datetime(2022, 1, 1),
-             schedule_interval='@once',
+             schedule_interval='@daily',
              catchup=False,
              default_args=default_args
              ) as dag:
