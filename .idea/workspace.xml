@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dags/api_cover_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_28_22,_6_30_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_28_22,_6_33_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_28_22__6_30_PM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_28_22__6_33_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameOnJson.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GameOnJson.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dags/dag.py" beforeDir="false" afterPath="$PROJECT_DIR$/dags/dag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_API_scripts/api_cover_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_API_scripts/api_cover_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_API_scripts/api_game_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_API_scripts/api_game_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/dag_processor_manager/dag_processor_manager.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/dag_processor_manager/dag_processor_manager.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/scheduler/2022-05-04/dag.py.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler/2022-05-04/dag.py.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visual data/GameOn graphs.twb" beforeDir="false" afterPath="$PROJECT_DIR$/Visual data/GameOn graphs.twb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,19 +43,20 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jason/dev/GameOnPassion/dags&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jason/dev/GameOnPassion/Visual data&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Visual data" />
       <recent name="$PROJECT_DIR$/dags" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Visual data" />
       <recent name="$PROJECT_DIR$/dags" />
       <recent name="$PROJECT_DIR$/airflow_files/dags" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Visual data" />
       <recent name="$PROJECT_DIR$/transform_scripts" />
     </key>
   </component>
