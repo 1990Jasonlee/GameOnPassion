@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/GameOnGradio-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/GameOnGradio-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameOnGradio.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GameOnGradio.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameOnJson.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GameOnJson.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visual data/.ipynb_checkpoints/game_load_data-checkpoint.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Visual data/.ipynb_checkpoints/game_load_data-checkpoint.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visual data/game_load_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Visual data/game_load_data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
