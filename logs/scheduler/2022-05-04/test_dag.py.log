@@ -1,0 +1,75 @@
+[2022-05-04 19:38:49,230] {processor.py:153} INFO - Started process (PID=186) to work on /opt/airflow/dags/test_dag.py
+[2022-05-04 19:38:49,235] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_dag.py for tasks to queue
+[2022-05-04 19:38:49,240] {logging_mixin.py:115} INFO - [2022-05-04 19:38:49,240] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:38:49,394] {logging_mixin.py:115} INFO - [2022-05-04 19:38:49,331] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test_dag.py", line 4, in <module>
+    from script import some_script
+ModuleNotFoundError: No module named 'script'
+[2022-05-04 19:38:49,397] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:38:49,539] {processor.py:161} INFO - Processing /opt/airflow/dags/test_dag.py took 0.572 seconds
+[2022-05-04 19:39:19,665] {processor.py:153} INFO - Started process (PID=216) to work on /opt/airflow/dags/test_dag.py
+[2022-05-04 19:39:19,669] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_dag.py for tasks to queue
+[2022-05-04 19:39:19,674] {logging_mixin.py:115} INFO - [2022-05-04 19:39:19,674] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:39:19,709] {logging_mixin.py:115} INFO - [2022-05-04 19:39:19,705] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test_dag.py", line 4, in <module>
+    from script import some_script
+ModuleNotFoundError: No module named 'script'
+[2022-05-04 19:39:19,712] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:39:19,775] {processor.py:161} INFO - Processing /opt/airflow/dags/test_dag.py took 0.118 seconds
+[2022-05-04 19:39:49,993] {processor.py:153} INFO - Started process (PID=240) to work on /opt/airflow/dags/test_dag.py
+[2022-05-04 19:39:50,008] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_dag.py for tasks to queue
+[2022-05-04 19:39:50,028] {logging_mixin.py:115} INFO - [2022-05-04 19:39:50,028] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:39:50,108] {logging_mixin.py:115} INFO - [2022-05-04 19:39:50,096] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test_dag.py", line 4, in <module>
+    from script import some_script
+ModuleNotFoundError: No module named 'script'
+[2022-05-04 19:39:50,115] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:39:50,231] {processor.py:161} INFO - Processing /opt/airflow/dags/test_dag.py took 0.257 seconds
+[2022-05-04 19:40:20,520] {processor.py:153} INFO - Started process (PID=274) to work on /opt/airflow/dags/test_dag.py
+[2022-05-04 19:40:20,525] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_dag.py for tasks to queue
+[2022-05-04 19:40:20,530] {logging_mixin.py:115} INFO - [2022-05-04 19:40:20,530] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:40:20,575] {logging_mixin.py:115} INFO - [2022-05-04 19:40:20,567] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test_dag.py", line 4, in <module>
+    from script import some_script
+ModuleNotFoundError: No module named 'script'
+[2022-05-04 19:40:20,578] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:40:20,634] {processor.py:161} INFO - Processing /opt/airflow/dags/test_dag.py took 0.134 seconds
+[2022-05-04 19:40:50,830] {processor.py:153} INFO - Started process (PID=303) to work on /opt/airflow/dags/test_dag.py
+[2022-05-04 19:40:50,840] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_dag.py for tasks to queue
+[2022-05-04 19:40:50,853] {logging_mixin.py:115} INFO - [2022-05-04 19:40:50,853] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:40:56,861] {logging_mixin.py:115} INFO - [2022-05-04 19:40:56,861] {font_manager.py:1443} INFO - generated new fontManager
+[2022-05-04 19:41:02,581] {processor.py:651} INFO - DAG(s) dict_keys(['pokemon_dag']) retrieved from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:41:03,425] {logging_mixin.py:115} INFO - [2022-05-04 19:41:03,425] {manager.py:508} INFO - Created Permission View: can delete on DAG:pokemon_dag
+[2022-05-04 19:41:03,480] {logging_mixin.py:115} INFO - [2022-05-04 19:41:03,480] {manager.py:508} INFO - Created Permission View: can read on DAG:pokemon_dag
+[2022-05-04 19:41:03,523] {logging_mixin.py:115} INFO - [2022-05-04 19:41:03,523] {manager.py:508} INFO - Created Permission View: can edit on DAG:pokemon_dag
+[2022-05-04 19:41:03,528] {logging_mixin.py:115} INFO - [2022-05-04 19:41:03,526] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-04 19:41:03,577] {logging_mixin.py:115} INFO - [2022-05-04 19:41:03,577] {dag.py:2390} INFO - Creating ORM DAG for pokemon_dag
+[2022-05-04 19:41:03,711] {logging_mixin.py:115} INFO - [2022-05-04 19:41:03,711] {dag.py:2919} INFO - Setting next_dagrun for pokemon_dag to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2022-05-04 19:41:03,955] {processor.py:161} INFO - Processing /opt/airflow/dags/test_dag.py took 13.139 seconds
+[2022-05-04 19:41:34,690] {processor.py:153} INFO - Started process (PID=337) to work on /opt/airflow/dags/test_dag.py
+[2022-05-04 19:41:34,699] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_dag.py for tasks to queue
+[2022-05-04 19:41:34,707] {logging_mixin.py:115} INFO - [2022-05-04 19:41:34,706] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:41:40,417] {processor.py:651} INFO - DAG(s) dict_keys(['pokemon_dag']) retrieved from /opt/airflow/dags/test_dag.py
+[2022-05-04 19:41:40,629] {logging_mixin.py:115} INFO - [2022-05-04 19:41:40,628] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-04 19:41:40,679] {logging_mixin.py:115} INFO - [2022-05-04 19:41:40,679] {dag.py:2919} INFO - Setting next_dagrun for pokemon_dag to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2022-05-04 19:41:40,713] {processor.py:161} INFO - Processing /opt/airflow/dags/test_dag.py took 6.072 seconds

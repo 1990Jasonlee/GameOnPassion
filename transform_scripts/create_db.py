@@ -17,6 +17,7 @@ conn = psycopg2.connect(
 )
 conn.autocommit = True
 
+cursor.execute('DROP TABLE IF EXISTS "game_gamemode";')
 create_table = '''CREATE TABLE IF NOT EXISTS game_gamemode(
                             id serial,
                             user_id int NOT NULL,
@@ -29,6 +30,7 @@ create_table = '''CREATE TABLE IF NOT EXISTS game_gamemode(
                             PRIMARY KEY(user_id)
                             )'''
 
+cursor.execute('DROP TABLE IF EXISTS "game_genre";')
 create_table1 = '''CREATE TABLE IF NOT EXISTS game_genre(
                             id serial,
                             game_id int NOT NULL,
@@ -44,6 +46,7 @@ create_table1 = '''CREATE TABLE IF NOT EXISTS game_genre(
                             PRIMARY KEY(game_id)
                             )'''
 
+cursor.execute('DROP TABLE IF EXISTS "game_platform";')
 create_table2 = '''CREATE TABLE IF NOT EXISTS game_platform(
                             user_id serial,
                             plat_id int NOT NULL,
@@ -69,6 +72,7 @@ create_table2 = '''CREATE TABLE IF NOT EXISTS game_platform(
                             PRIMARY KEY(plat_id)
                             )'''
 
+cursor.execute('DROP TABLE IF EXISTS "gamemode_info";')
 create_table3 = '''CREATE TABLE IF NOT EXISTS gamemode_info(
                             id serial,
                             mode_id int NOT NULL,
@@ -76,13 +80,14 @@ create_table3 = '''CREATE TABLE IF NOT EXISTS gamemode_info(
                             PRIMARY KEY(mode_id)
                             )'''
 
+cursor.execute('DROP TABLE IF EXISTS "genre_info";')
 create_table4 = '''CREATE TABLE IF NOT EXISTS genre_info(
                             id serial,
                             genre_id int NOT NULL,
                             genre_name VARCHAR(100) NOT NULL,
                             PRIMARY KEY(genre_id)
                             )'''
-
+cursor.execute('DROP TABLE IF EXISTS "platform_info";')
 create_table5 = '''CREATE TABLE IF NOT EXISTS platform_info(
                             id serial,
                             platform_id int NOT NULL,
