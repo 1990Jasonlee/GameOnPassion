@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import time
+
 
 df = pd.read_csv('/Users/jason/dev/GameOnPassion/Visual data/game_load_data.csv')
 df.set_index("id", inplace=True)
@@ -55,10 +57,19 @@ def recommender(year, rating, mode, genre, platform):
 
 
 if st.sidebar.button('Generate recommendations'):
-    st.write(f'You have chosen to look video games based on the following criteria ')
-    st.write(f'Genre: {genre} ')
-    st.write(f'Game Mode: {mode} ')
-    st.write(f'Year equal to or newer than: {year} ')
-    st.write(f'Rating equal to or over: {rating} ')
-    st.success('Here are your recommendations')
+    with st.spinner('Generating recommendations'):
+        time.sleep(1)
+    st.success(f'You have chosen to look video games based on the following criteria')
+
+    col1, col2 = st.columns(2)
+    with col1:
+        st.write(f'Genre: {genre} ')
+        st.write(f'Game Mode: {mode} ')
+    with col2:
+        st.write(f'Year Equal to or Newer Than: {year} ')
+        st.write(f'Rating Equal to or Over: {rating} ')
+
+    st.subheader('Here are your recommendations:')
+    st.caption('Click on header name of a column to sort')
     recommender(year, rating, mode, genre, platform)
+    st.caption('Data from IGDB API')
