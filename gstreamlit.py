@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import time
 
-
 df = pd.read_csv('/Users/jason/dev/GameOnPassion/Visual data/game_load_data.csv')
 df.set_index("id", inplace=True)
 df = df.rename(columns={'name': 'Name', 'summary': 'Summary'})
@@ -73,3 +72,16 @@ if st.sidebar.button('Generate recommendations'):
     st.caption('Click on header name of a column to sort')
     recommender(year, rating, mode, genre, platform)
     st.caption('Data from IGDB API')
+
+st.markdown(
+    '''
+    <style>
+    [data-testid='stSidebar'][aria-expanded='true'] > div:first-child{
+    width: 250px}
+    [data-testid='stSidebar'][aria-expanded='false'] > div:first-child{
+    width: 250px;}
+    </style>
+    ''',
+    unsafe_allow_html=True
+)
+
