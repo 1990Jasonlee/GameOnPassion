@@ -50,10 +50,15 @@ def recommender(year, rating, mode, genre, platform):
                 df[platform] > 0))
     recommend_df = df[df_mask1]
     recommend_df = recommend_df[['Name', 'Release Year', 'Score Rating', 'Summary']]
-    st.dataframe(recommend_df.style.format({'Score Rating': '{:.2f}'}))
+    st.dataframe(recommend_df.style.format({'Score Rating': '{:.2f}'}), width=5000, height=1000)
     return recommend_df
 
 
 if st.sidebar.button('Generate recommendations'):
+    st.write(f'You have chosen to look video games based on the following criteria ')
+    st.write(f'Genre: {genre} ')
+    st.write(f'Game Mode: {mode} ')
+    st.write(f'Year equal to or newer than: {year} ')
+    st.write(f'Rating equal to or over: {rating} ')
     st.success('Here are your recommendations')
     recommender(year, rating, mode, genre, platform)
