@@ -1,11 +1,12 @@
 import streamlit as st
 import pandas as pd
 import time
+import base64
 
 df = pd.read_csv('/Users/jason/dev/GameOnPassion/Visual data/game_load_data.csv')
 df.set_index("id", inplace=True)
 df = df.rename(columns={'name': 'Name', 'summary': 'Summary'})
-st.title('Video Game Recommender')
+st.title('Game On \n Video Game Recommender')
 st.sidebar.header('User Input Features')
 
 years_sorted = sorted(list(df['Release Year'].unique()))
@@ -58,14 +59,14 @@ def recommender(year, rating, mode, genre, platform):
 if st.sidebar.button('Generate recommendations'):
     with st.spinner('Generating recommendations'):
         time.sleep(1)
-    st.success(f'You have chosen to look video games based on the following criteria')
+    st.success(f'You have chosen to look for video games based on the following criteria')
 
     col1, col2 = st.columns(2)
     with col1:
         st.write(f'Genre: {genre} ')
         st.write(f'Game Mode: {mode} ')
     with col2:
-        st.write(f'Year Equal to or Newer Than: {year} ')
+        st.write(f'Release Year Equal to or Newer Than: {year} ')
         st.write(f'Rating Equal to or Over: {rating} ')
 
     st.subheader('Here are your recommendations:')
@@ -85,3 +86,20 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+def sidebar_bg(side_bg):
+
+   side_bg_ext = 'jpeg'
+
+   st.markdown(
+      f"""
+      <style>
+      [data-testid="stSidebar"] > div:first-child {{
+          background: url(data:image/{side_bg_ext};base64,{base64.b64encode(open(side_bg, "rb").read()).decode()});
+          background-size: cover;
+      }}
+      </style>
+      """,
+      unsafe_allow_html=True,
+      )
+side_bg = '/Users/jason/dev/GameOnPassion/Visual data/background.jpeg'
+sidebar_bg(side_bg)
