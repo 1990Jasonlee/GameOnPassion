@@ -70,7 +70,7 @@ if st.sidebar.button('Generate recommendations'):
         st.write(f'Minimum Release Year: {year} ')
         st.write(f'Minimum Rating: {rating} ')
 
-    st.title('Here are your recommendations:')
+    st.subheader('Here are your recommendations:')
     st.caption('Click on header name of a column to sort')
     recommender(year, rating, mode, genre, platform)
     st.caption('Data from IGDB API')
