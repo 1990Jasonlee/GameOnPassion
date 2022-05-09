@@ -50,7 +50,7 @@ platform = st.sidebar.selectbox('Platform', ['3DO Interactive Multiplayer', 'Aco
 
 def recommender(year, rating, mode, genre, platform):
     df_mask1 = ((df['Release Year'] >= year) & (df['Score Rating'] >= rating) & (df[mode] > 0) & (df[genre] > 0) & (
-                df[platform] > 0))
+            df[platform] > 0))
     recommend_df = df[df_mask1]
     recommend_df = recommend_df[['Name', 'Release Year', 'Score Rating', 'Summary']]
     st.dataframe(recommend_df.style.format({'Score Rating': '{:.2f}'}), width=5000, height=1000)
@@ -87,12 +87,12 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+
 def sidebar_bg(side_bg):
+    side_bg_ext = 'jpeg'
 
-   side_bg_ext = 'jpeg'
-
-   st.markdown(
-      f"""
+    st.markdown(
+        f"""
       <style>
       [data-testid="stSidebar"] > div:first-child {{
           background: url(data:image/{side_bg_ext};base64,{base64.b64encode(open(side_bg, "rb").read()).decode()});
@@ -100,7 +100,9 @@ def sidebar_bg(side_bg):
       }}
       </style>
       """,
-      unsafe_allow_html=True,
-      )
+        unsafe_allow_html=True,
+    )
+
+
 side_bg = '/Users/jason/dev/GameOnPassion/Visual data/background.jpeg'
 sidebar_bg(side_bg)
