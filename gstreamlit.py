@@ -6,7 +6,8 @@ import base64
 df = pd.read_csv('/Users/jason/dev/GameOnPassion/Visual data/game_load_data.csv')
 df.set_index("id", inplace=True)
 df = df.rename(columns={'name': 'Name', 'summary': 'Summary'})
-st.title('Game On \n Video Game Recommender')
+
+st.image('/Users/jason/dev/GameOnPassion/Visual data/Banner.png')
 st.sidebar.header('User Input Features')
 
 years_sorted = sorted(list(df['Release Year'].unique()))
@@ -69,7 +70,7 @@ if st.sidebar.button('Generate recommendations'):
         st.write(f'Release Year Equal to or Newer Than: {year} ')
         st.write(f'Rating Equal to or Over: {rating} ')
 
-    st.subheader('Here are your recommendations:')
+    st.title('Here are your recommendations:')
     st.caption('Click on header name of a column to sort')
     recommender(year, rating, mode, genre, platform)
     st.caption('Data from IGDB API')
