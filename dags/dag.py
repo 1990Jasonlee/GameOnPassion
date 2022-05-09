@@ -9,7 +9,7 @@ default_args = {
 }
 
 with DAG('extract_dag', start_date=datetime(2022, 5, 1),
-         schedule_interval='@daily',
+         schedule_interval='@weekly',
          catchup=False,
          default_args=default_args) as dag:
     extract_tasks = PythonOperator(
