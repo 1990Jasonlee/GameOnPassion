@@ -11,8 +11,8 @@ st.image('/Users/jason/dev/GameOnPassion/Visual data/Banner.png')
 st.sidebar.header('User Input Features')
 
 years_sorted = sorted(list(df['Release Year'].unique()))
-year = st.sidebar.slider('Year', int(years_sorted[0]), int(years_sorted[-1]), step=int(1))
-rating = st.sidebar.slider('Rating', 75, 100)
+year = st.sidebar.slider('Minimum Year', int(years_sorted[0]), int(years_sorted[-1]), step=int(1))
+rating = st.sidebar.slider('Minimum Rating', 75, 100)
 mode = st.sidebar.radio('Game Mode',
                         ['Single player', 'Battle Royale', 'Co-operative', 'Massively Multiplayer Online (MMO)',
                          'Multiplayer', 'Split screen'])
@@ -67,8 +67,8 @@ if st.sidebar.button('Generate recommendations'):
         st.write(f'Genre: {genre} ')
         st.write(f'Game Mode: {mode} ')
     with col2:
-        st.write(f'Release Year Equal to or Newer Than: {year} ')
-        st.write(f'Rating Equal to or Over: {rating} ')
+        st.write(f'Minimum Release Year: {year} ')
+        st.write(f'Minimum Rating: {rating} ')
 
     st.title('Here are your recommendations:')
     st.caption('Click on header name of a column to sort')
