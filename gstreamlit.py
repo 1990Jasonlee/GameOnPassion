@@ -6,12 +6,13 @@ import base64
 df = pd.read_csv('/Users/jason/dev/GameOnPassion/Visual data/game_load_data.csv')
 df.set_index("id", inplace=True)
 df = df.rename(columns={'name': 'Name', 'summary': 'Summary'})
-st.title('Game On \n Video Game Recommender')
+
+st.image('/Users/jason/dev/GameOnPassion/Visual data/Banner.png')
 st.sidebar.header('User Input Features')
 
 years_sorted = sorted(list(df['Release Year'].unique()))
-year = st.sidebar.slider('Year', int(years_sorted[0]), int(years_sorted[-1]), step=int(1))
-rating = st.sidebar.slider('Rating', 75, 100)
+year = st.sidebar.slider('Minimum Year', int(years_sorted[0]), int(years_sorted[-1]), step=int(1))
+rating = st.sidebar.slider('Minimum Rating', 75, 100)
 mode = st.sidebar.radio('Game Mode',
                         ['Single player', 'Battle Royale', 'Co-operative', 'Massively Multiplayer Online (MMO)',
                          'Multiplayer', 'Split screen'])
@@ -49,7 +50,7 @@ platform = st.sidebar.selectbox('Platform', ['3DO Interactive Multiplayer', 'Aco
 
 def recommender(year, rating, mode, genre, platform):
     df_mask1 = ((df['Release Year'] >= year) & (df['Score Rating'] >= rating) & (df[mode] > 0) & (df[genre] > 0) & (
-                df[platform] > 0))
+            df[platform] > 0))
     recommend_df = df[df_mask1]
     recommend_df = recommend_df[['Name', 'Release Year', 'Score Rating', 'Summary']]
     st.dataframe(recommend_df.style.format({'Score Rating': '{:.2f}'}), width=5000, height=1000)
@@ -66,8 +67,8 @@ if st.sidebar.button('Generate recommendations'):
         st.write(f'Genre: {genre} ')
         st.write(f'Game Mode: {mode} ')
     with col2:
-        st.write(f'Release Year Equal to or Newer Than: {year} ')
-        st.write(f'Rating Equal to or Over: {rating} ')
+        st.write(f'Minimum Release Year: {year} ')
+        st.write(f'Minimum Rating: {rating} ')
 
     st.subheader('Here are your recommendations:')
     st.caption('Click on header name of a column to sort')
@@ -86,12 +87,12 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+
 def sidebar_bg(side_bg):
+    side_bg_ext = 'jpeg'
 
-   side_bg_ext = 'jpeg'
-
-   st.markdown(
-      f"""
+    st.markdown(
+        f"""
       <style>
       [data-testid="stSidebar"] > div:first-child {{
           background: url(data:image/{side_bg_ext};base64,{base64.b64encode(open(side_bg, "rb").read()).decode()});
@@ -99,7 +100,9 @@ def sidebar_bg(side_bg):
       }}
       </style>
       """,
-      unsafe_allow_html=True,
-      )
+        unsafe_allow_html=True,
+    )
+
+
 side_bg = '/Users/jason/dev/GameOnPassion/Visual data/background.jpeg'
 sidebar_bg(side_bg)
