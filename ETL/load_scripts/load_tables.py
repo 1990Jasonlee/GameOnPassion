@@ -6,13 +6,13 @@ conn = psycopg2.connect(
 conn.autocommit = True
 cursor = conn.cursor()
 
-
+# load game data into database
 load_game = '''COPY(
                      game_main(game_id, cover, summary, year, Score)
                      from './gamemode_table.csv' delimiter ',' csv header;
                      )'''
 
-
+# load genre data into database
 load_genre = '''COPY(
                      genre_main(game_id, adventure, arcade, card_board, fighting, hack_slash, indie, music,
                      pinball, platform_game, point_click, puzzle, quiz, racing, rts, rpg, shooter, simulator, sports,
@@ -20,6 +20,7 @@ load_genre = '''COPY(
                      from './genre_load_data.csv' delimiter ',' csv header;
                      )'''
 
+# load game mode into database
 load_mode = '''COPY(
                      mode_main(game_id, battle_royale, co_op, mmo, multiplayer, single_player, split_screen) 
                      from './game_gamemode.csv' delimiter ',' csv header;

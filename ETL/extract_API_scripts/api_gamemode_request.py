@@ -12,6 +12,7 @@ limit = 10
 result = 10
 
 
+# retrieve game mode info
 def get_gamesmode(offset=offset):
     while True:
         headers = {

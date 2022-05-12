@@ -13,6 +13,7 @@ limit = 50
 result = 50
 
 
+# retrieve genre info
 def get_genres(offset=offset):
     while True:
         headers = {

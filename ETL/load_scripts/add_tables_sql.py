@@ -7,6 +7,8 @@ conn.autocommit = True
 cursor = conn.cursor()
 
 cursor.execute('DROP TABLE IF EXISTS "game_main";')
+
+# create game database
 create_main_game = '''CREATE TABLE IF NOT EXISTS game_main(
                             id serial,
                             game_id int NOT NULL,
@@ -17,6 +19,7 @@ create_main_game = '''CREATE TABLE IF NOT EXISTS game_main(
                             PRIMARY KEY(game_id)
                             )'''
 cursor.execute('DROP TABLE IF EXISTS "mode_main";')
+# create game mode database
 create_main_mode = '''CREATE TABLE IF NOT EXISTS mode_main(
                             id serial,
                             game_id int NOT NULL,
@@ -29,6 +32,8 @@ create_main_mode = '''CREATE TABLE IF NOT EXISTS mode_main(
                             PRIMARY KEY(game_id)
                             )'''
 cursor.execute('DROP TABLE IF EXISTS "plat_main";')
+
+# create platform database
 create_main_plat = '''CREATE TABLE IF NOT EXISTS plat_main(
                             id serial,
                             game_id int NOT NULL,
@@ -138,6 +143,8 @@ create_main_plat = '''CREATE TABLE IF NOT EXISTS plat_main(
                             PRIMARY KEY(game_id)
                             )'''
 cursor.execute('DROP TABLE IF EXISTS "genre_main";')
+
+# create genre database
 create_main_genre = '''CREATE TABLE IF NOT EXISTS genre_main(
                             id serial,
                             game_id int NOT NULL,
