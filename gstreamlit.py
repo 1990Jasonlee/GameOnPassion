@@ -3,12 +3,15 @@ import pandas as pd
 import time
 import base64
 
+
+# Import csv exported from db
 df = pd.read_csv('/Users/jason/dev/GameOnPassion/Visual data/game_load_data.csv')
 df.set_index("id", inplace=True)
 df = df.rename(columns={'name': 'Name', 'summary': 'Summary'})
 
+# Banner image
 st.image('/Users/jason/dev/GameOnPassion/Visual data/Banner.png')
-st.sidebar.header('User Input Features')
+
 
 years_sorted = sorted(list(df['Release Year'].unique()))
 year = st.sidebar.slider('Minimum Year', int(years_sorted[0]), int(years_sorted[-1]), step=int(1))
@@ -57,6 +60,9 @@ def recommender(year, rating, mode, genre, platform):
     return recommend_df
 
 
+# Sidebar inputs
+st.sidebar.header('User Input Features')
+
 if st.sidebar.button('Generate recommendations'):
     with st.spinner('Generating recommendations'):
         time.sleep(1)
@@ -88,6 +94,7 @@ st.markdown(
 )
 
 
+# Sidebar background picture
 def sidebar_bg(side_bg):
     side_bg_ext = 'jpeg'
 

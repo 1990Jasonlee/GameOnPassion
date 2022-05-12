@@ -5,75 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f0719c-1a38-45e4-b6a2-216bc626a2c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/GameOnGradio-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/GameOnJson-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV WIP/game_gamemode.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/CSV WIP/game_gamemode.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV WIP/game_genre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/CSV WIP/game_genre.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV WIP/game_platform.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/CSV WIP/game_platform.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV WIP/gamemode_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/CSV WIP/gamemode_table.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV WIP/genre_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/CSV WIP/genre_table.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV WIP/platform_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/CSV WIP/platform_table.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game on Tableau Screenshoot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Visual data/Game on Tableau Screenshoot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameOnGradio.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/GameOnGradio.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameOnJson.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/GameOnJson.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradio.png" beforeDir="false" afterPath="$PROJECT_DIR$/Visual data/Gradio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visual data/.ipynb_checkpoints/game_load_data-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visual data/.ipynb_checkpoints/game_visual_data-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visual data/.ipynb_checkpoints/genre_visual_data-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visual data/.ipynb_checkpoints/main_visual_data-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visual data/.ipynb_checkpoints/mode_visual_data-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visual data/.ipynb_checkpoints/plat_visual_data-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_gamemode.json" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/data_gamemode.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_genre.json" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/data_genre.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_platforms.json" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/data_platforms.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_url.json" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/data_url.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/genre1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/genre1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/genre2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/genre2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/genre3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/genre3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/genre4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/genre4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/genre5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/genre5.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/genre6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/genre6.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/genre7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/genre7.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/genre8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/genre8.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/genre9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/genre9.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mode1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/mode1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mode2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/mode2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mode3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/mode3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mode4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/mode4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mode5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/mode5.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat10.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat11.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat12.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat12.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat13.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat14.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat14.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat15.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat15.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat16.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat16.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat17.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat17.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat18.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat18.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat19.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat5.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat6.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat7.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat8.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/plat9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/data/plat9.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_API_scripts/api_cover_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/extract_API_scripts/api_cover_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_API_scripts/api_game_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/extract_API_scripts/api_game_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_API_scripts/api_gamemode_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/extract_API_scripts/api_gamemode_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_API_scripts/api_genre_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/extract_API_scripts/api_genre_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_API_scripts/api_platform_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/extract_API_scripts/api_platform_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/load_scripts/add_tables_sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/load_scripts/add_tables_sql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/load_scripts/load_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/load_scripts/load_tables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transform_scripts/create_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/transform_scripts/create_db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transform_scripts/initial_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/transform_scripts/initial_import.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transform_scripts/sql_query_gamemode.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/transform_scripts/sql_query_gamemode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transform_scripts/sql_query_genre.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/transform_scripts/sql_query_genre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transform_scripts/sql_query_platform.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/transform_scripts/sql_query_platform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transform_scripts/transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL/transform_scripts/transform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visual data/.~GameOn graphs__6711.twbr" beforeDir="false" afterPath="$PROJECT_DIR$/Visual data/.~GameOn graphs__6711.twbr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gstreamlit.py" beforeDir="false" afterPath="$PROJECT_DIR$/gstreamlit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

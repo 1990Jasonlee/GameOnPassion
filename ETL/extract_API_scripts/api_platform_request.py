@@ -12,6 +12,7 @@ limit = 500
 result = 500
 
 
+# retrieve platform info
 def get_platform(offset=offset):
     while True:
         headers = {

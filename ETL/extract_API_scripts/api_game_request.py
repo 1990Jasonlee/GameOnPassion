@@ -12,6 +12,7 @@ limit = 500
 result = 2500
 
 
+# retrieve game id, name, platform, genre, game mode, release date, cover, category, ratings, summary data
 def get_games(offset=offset):
     while True:
         headers = {
